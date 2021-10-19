@@ -101,7 +101,7 @@ Notaðu breytiviðnám (blátt) og 100 ohm viðnámð með rauðri LED á brauð
 1. Getur reiknað út kraft í wöttum (W=VI). 
 1. Getur sett upp hliðtengda lokaða rás (viðnám, LEDS og takki) á breadboad.
 1. Þekkir muninn á raðtengdu og hliðtengdri rás.
-1. Getur nýtt sér reiknivélar til útreikninga.
+1. Getur nýtt sér reiknivélar til að finna út viðnám.
 1. Getur teiknað einfalda raðtenga- og hliðtengda rás.
 
 ---
