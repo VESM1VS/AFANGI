@@ -86,7 +86,7 @@ Notaðu breytiviðnám (blátt) og 100 ohm viðnámð með rauðri LED á brauð
 - Yfirferð og námsmat á sér stað í tíma. 
 - Fyrir hvern lið; Fullt fyrir fullnægjandi lausn/skilning, ekkert ef lausn/skilningur er ábótavant eða vantar. <br>
 
-### Eftirfarandi er metið útfrá verklegum tilraunum:
+### Eftirfarandi er metið í tíma útfrá verklegum tilraunum og skilningi nemanda:
 
 1. Getur sett upp raðtengda lokaða rás (viðnám, LED) á breadboad. (10%)
 1. Getur mælt spennu og viðnám með mælir. (10%)
