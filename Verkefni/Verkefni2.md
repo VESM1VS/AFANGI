@@ -72,8 +72,9 @@ Lestu [Ohm`s law](https://learn.adafruit.com/all-about-leds/forward-voltage-and-
 
 ---
 
-#### 2.10 Samband straums, viðnáms og spennu.
-Kláraðu tutorialinn All About LEDs frá [Revisiting Resistors](https://learn.adafruit.com/all-about-leds/revisiting-resistors). Notaðu breytiviðnám (blár) og 100 ohm viðnámð með rauðri LED á brauðbretti með Arduino sem aflgjafa.
+#### 2.10 Breytiviðnám til að stilla birtu
+Kláraðu að lesa tutorialinn All About LEDs frá [Revisiting Resistors](https://learn.adafruit.com/all-about-leds/revisiting-resistors) um vensl straums og spennu.
+Notaðu breytiviðnám (blátt) og 100 ohm viðnámð með rauðri LED á brauðbretti með Arduino sem aflgjafa.
 
 ---
 
