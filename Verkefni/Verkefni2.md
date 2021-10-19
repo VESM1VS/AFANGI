@@ -88,7 +88,6 @@ Notaðu breytiviðnám (blátt) og 100 ohm viðnámð með rauðri LED á brauð
 
 ### Eftirfarandi er metið útfrá verklegum tilraunum:
 
-1. Hefur grunnskilning á rafmagni, straum og spennu.
 1. Getur sett upp raðtengda lokaða rás (viðnám, LED) á breadboad. 
 1. Getur mælt spennu og viðnám með mælir.
 1. Kann að lesa úr datasheet mikilvægar upplýsingar um LED.
@@ -97,6 +96,7 @@ Notaðu breytiviðnám (blátt) og 100 ohm viðnámð með rauðri LED á brauð
 1. Kann að vinna með mælieiningar og margfaldara td. mA í ohm.
 1. Getur nýtt sér K lögmálið í raðtengdri rás. 
 1. Getur beitt Ohms lögmálinu.
+1. Þekkir og skilur samband straums, spennu og viðnáms.
 1. Kann skil á short-circuit.
 1. Getur reiknað út kraft í wöttum (W=VI). 
 1. Getur sett upp hliðtengda lokaða rás (viðnám, LEDS og takki) á breadboad.
