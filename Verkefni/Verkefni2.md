@@ -4,7 +4,7 @@
 - 15% af heildareinkunn áfanga.
 - Tímaverkefni.
 
-### Verkefnalýsing
+## Verkefnalýsing
 Verklegar tilraunir í kennslustund með; rafmagn, raðtengdar- og hliðtengdar rásir, íhluti, mælingar og útreikninga. <br>
 
 ---
@@ -82,11 +82,11 @@ Notaðu breytiviðnám (blátt) og 100 ohm viðnámð með rauðri LED á brauð
 
 ---
 
-### Námsmat
+## Námsmat
 - Yfirferð og námsmat á sér stað í tíma. 
 - Fyrir hvern lið; Fullt fyrir fullnægjandi útfærslu, hálft ef lausn er ábótavant og ekkert ef lausn er stórlega ábótavant eða vantar. <br>
 
-#### Eftirfarandi er metið útfrá verklegum tilraunum:
+### Eftirfarandi er metið útfrá verklegum tilraunum:
 
 1. Hefur grunnskilning á rafmagni, straum og spennu.
 1. Getur sett upp raðtengda lokaða rás (viðnám, LED) á breadboad. 
