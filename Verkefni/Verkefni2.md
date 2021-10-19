@@ -94,7 +94,7 @@ Notaðu breytiviðnám (blátt) og 100 ohm viðnámð með rauðri LED á brauð
 1. Kann að lesa úr litahringjum á viðnámi
 1. Þekkir og kann að beita íhlutum; LED, viðnám, breytiviðnám, takkar.
 1. Kann að vinna með mælieiningar og margfaldara td. mA í ohm.
-1. Getur nýtt sér K lögmálið í raðtengdri rás. 
+1. Getur nýtt sér KVL lögmálið í raðtengdri rás. 
 1. Getur beitt Ohms lögmálinu.
 1. Þekkir og skilur samband straums, spennu og viðnáms.
 1. Kann skil á short-circuit.
