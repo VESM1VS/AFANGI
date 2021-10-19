@@ -4,7 +4,7 @@
 - 15% af heildareinkunn áfanga.
 - Tímaverkefni.
 
-## Verkefnalýsing
+### Verkefnalýsing
 Verklegar tilraunir í kennslustund með; rafmagn, raðtengdar- og hliðtengdar rásir, íhluti, mælingar og útreikninga. <br>
 
 ---
