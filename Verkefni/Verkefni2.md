@@ -84,25 +84,25 @@ Notaðu breytiviðnám (blátt) og 100 ohm viðnámð með rauðri LED á brauð
 
 ## Námsmat
 - Yfirferð og námsmat á sér stað í tíma. 
-- Fyrir hvern lið; Fullt fyrir fullnægjandi útfærslu, hálft ef lausn er ábótavant og ekkert ef lausn er stórlega ábótavant eða vantar. <br>
+- Fyrir hvern lið; Fullt fyrir fullnægjandi útfærslu eða skilning, ekkert ef lausn/skilningur er ábótavant eða vantar. <br>
 
 ### Eftirfarandi er metið útfrá verklegum tilraunum:
 
-1. Getur sett upp raðtengda lokaða rás (viðnám, LED) á breadboad. 
-1. Getur mælt spennu og viðnám með mælir.
-1. Kann að lesa úr datasheet mikilvægar upplýsingar um LED.
-1. Kann að lesa úr litahringjum á viðnámi
-1. Þekkir og kann að beita íhlutum; LED, viðnám, breytiviðnám, takkar.
-1. Kann að vinna með mælieiningar og margfaldara td. mA í ohm.
-1. Getur nýtt sér KVL lögmálið í raðtengdri rás. 
-1. Getur beitt Ohms lögmálinu.
-1. Þekkir og skilur samband straums, spennu og viðnáms.
-1. Kann skil á short-circuit.
-1. Getur reiknað út kraft í wöttum (W=VI). 
-1. Getur sett upp hliðtengda lokaða rás (viðnám, LEDS og takki) á breadboad.
-1. Þekkir muninn á raðtengdu og hliðtengdri rás.
-1. Getur nýtt sér reiknivélar til að finna út viðnám.
-1. Getur teiknað einfalda raðtenga- og hliðtengda rás.
+1. Getur sett upp raðtengda lokaða rás (viðnám, LED) á breadboad. (10%)
+1. Getur mælt spennu og viðnám með mælir. (10%)
+1. Kann að lesa úr datasheet mikilvægar upplýsingar um LED. (5%)
+1. Kann að lesa úr litahringjum á viðnámi (5%)
+1. Þekkir og kann að beita íhlutum; LED, viðnám, breytiviðnám, takkar. (5%)
+1. Kann að vinna með mælieiningar og margfaldara td. mA í ohm. (5%)
+1. Getur nýtt sér KVL lögmálið í raðtengdri rás. (5%)
+1. Getur beitt Ohms lögmálinu. (10%)
+1. Þekkir og skilur samband straums, spennu og viðnáms. (5%)
+1. Kann skil á short-circuit. (5%)
+1. Getur reiknað út kraft í wöttum (W=VI). (5%)
+1. Getur sett upp hliðtengda lokaða rás (viðnám, LEDS og takki) á breadboad. (10%)
+1. Þekkir muninn á raðtengdu og hliðtengdri rás. (10%)
+1. Getur nýtt sér reiknivélar til að finna út viðnám. (5%)
+1. Getur teiknað einfalda raðtenga- og hliðtengda rás. (5%)
 
 ---
 
