@@ -16,7 +16,7 @@ Ef þú lendir í vanda skoðaðu þá [algeng mistök](https://github.com/VESM1
 ---
 
 #### 2.2 Viðnám
-1. Mældu viðnámið sem þú notaðir í **3.1** með mælir, stemmir það? 
+1. Mældu viðnámið sem þú notaðir í **2.1** með mælir, stemmir það? 
 1. Lestu úr litahringjunum á [viðnáminu](https://www.instructables.com/Resistors/), færðu sömu tölu?
 1. Notaðu [Viðnáms reiknivél](hhttps://resistorcolorcodecalc.com/), færðu sömu tölu?
 1. Prófaðu að mæla fleiri viðnám.
