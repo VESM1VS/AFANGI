@@ -31,7 +31,7 @@ Nafnspjald er unnið í Inkscape og [laserskorið](https://github.com/VESM1VS/AF
 
 ### 1.3 Liðskiptir fingraviðbætur (50%)
 
-Hannaðu með Inkscape **5 liðskipta fingur** (_articulated finger extensions_) sem passa við höndina þína. Dæmi úr kvikmyndum; Jack Skellington, Freddy Krueger, Babadook.
+Hannaðu með Inkscape **1 - 5 liðskipta fingur** (_articulated finger extensions_) sem passa við höndina þína. Dæmi úr kvikmyndum; Jack Skellington, Freddy Krueger, Babadook.
 
 1. 2D hönnun með Inkscape með sérsniðnar mælingar fyrir laserskurð (30%)
 1. samsetning. (20%)
