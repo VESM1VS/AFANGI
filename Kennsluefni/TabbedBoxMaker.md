@@ -6,7 +6,7 @@
 
 Til að búa til kassan utan um Arduino tölvuna tlum við að nota viðbót við Inkscape forritið.
 
-Viðbótin heitir *TabbedBoxMaker* sem sækja má [hér](https://github.com/paulh-rnd/TabbedBoxMaker). Smelltu á Code og svo Download ZIP.
+Viðbótin heitir *TabbedBoxMaker* sem sækja má [hér](https://github.com/paulh-rnd/TabbedBoxMaker). Smelltu á _Code_ og svo _Download ZIP_.
 
 ![Sækja viðbót](../Myndir/inkscape_SaekjaExtension.png)
 
