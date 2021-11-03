@@ -1,5 +1,5 @@
 # Verkefni 1 
-
+<!-- Vor2022  - gera þumal + 2 fingur -->
 - 15% af heildareinkunn
 - tvívíð hönnun og laserskurður
 - einstaklingsverkefni
@@ -32,7 +32,6 @@ Nafnspjald er unnið í Inkscape og [laserskorið](https://github.com/VESM1VS/AF
 ### 1.3 Liðskiptir fingraviðbætur (40%)
 
 Hannaðu með Inkscape **1 - 5 liðskipta fingur** (_articulated finger extensions_) sem passa við höndina þína. Dæmi úr kvikmyndum; Jack Skellington, Freddy Krueger, Babadook. 
-<!-- Vor2022  gera þumal + 2 fingur -->
 
 1. 2D hönnun með Inkscape með sérsniðnar mælingar fyrir fingur
 1. Festingar við hönd
