@@ -6,7 +6,7 @@
 
 ---
 
-### 1.1 Logo (30%)
+### 1.1 Logo (35%)
 Hannaðu með Inkscape eigið SVG logo. sjá [2D hönnun](https://github.com/VESM1VS/AFANGI/wiki/2D-h%C3%B6nnun) og [Logo design tutorials](https://www.youtube.com/playlist?list=PLynG8gQD-n8DUEHPGKj3fgQUSwIYyU7dk). 
 
 #### Eftirfarandi þarf að nota við gerð logo-s:
@@ -19,7 +19,7 @@ Notaðu lög (e. layer) og síur (e. filter) eftir þörfum. Vistaðu Logo með 
 
 ---
 
-### 1.2 Nafnspjald (20%)
+### 1.2 Nafnspjald (30%)
 
 Nafnspjald er unnið í Inkscape og [laserskorið](https://github.com/VESM1VS/AFANGI/wiki/Laserskur%C3%B0ur) í stofu 42 (framtíðarstofan)
 
@@ -29,7 +29,7 @@ Nafnspjald er unnið í Inkscape og [laserskorið](https://github.com/VESM1VS/AF
   
 ---
 
-### 1.3 Liðskiptir fingraviðbætur (50%)
+### 1.3 Liðskiptir fingraviðbætur (35%)
 
 Hannaðu með Inkscape **1 - 5 liðskipta fingur** (_articulated finger extensions_) sem passa við höndina þína. Dæmi úr kvikmyndum; Jack Skellington, Freddy Krueger, Babadook. 
 
