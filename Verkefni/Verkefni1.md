@@ -32,16 +32,19 @@ Nafnspjald er unnið í Inkscape og [laserskorið](https://github.com/VESM1VS/AF
 ### 1.3 Liðskiptir fingraviðbætur (40%)
 
 Hannaðu með Inkscape **1 - 5 liðskipta fingur** (_articulated finger extensions_) sem passa við höndina þína. Dæmi úr kvikmyndum; Jack Skellington, Freddy Krueger, Babadook. 
+<!-- Vor2022  gera þumal + 2 fingur -->
 
-1. 2D hönnun með Inkscape með sérsniðnar mælingar fyrir laserskurð 
-1. Samsetning og festingar við hönd
+1. 2D hönnun með Inkscape með sérsniðnar mælingar fyrir fingur
+1. Festingar við hönd
+1. Samsetning
 
 #### Bjargir: 
 1. [Instructables: Articulated Finger Extensions](https://www.instructables.com/Articulated-Finger-Extensions/)
    - [SVG template](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/drawing-1.svg) veldu RAW og vistaðu skránna
-   - Það má ekki nota template óbreytt.
+   - það má ekki nota template óbreytt, lagaðu stærðarhlutföll og breyttu lögun eftir þínum þörfum.
+   - hafðu þvermál á holum 1.0 - 1.4 mm, við erum með stálvíra af stærð 1.6 mm og 2 mm.
 1. [Articulated fingers by Gary Fay](https://www.youtube.com/watch?v=MFVBpgU3aos&ab_channel=GaryFay)
-   - Skoðið hér t.d. hvernig fingur eru festir við hönd 
+   - Skoðið hér t.d. hvernig fingur eru festir við hönd. 
 1. [How to make articulated finger extensions (myndband)](https://www.youtube.com/watch?v=pbQuFWxneUk&ab_channel=GaryFay)
 1. [articulated fingertips blog](https://forums.stanwinstonschool.com/discussion/3231/articulated-fingertips)
 
