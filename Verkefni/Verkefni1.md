@@ -25,7 +25,7 @@ Nafnspjald er unnið í Inkscape og [laserskorið](https://github.com/VESM1VS/AF
 
 1. Settu auðkenni þitt á nafnspjald.
 1. Settu logo eða mynd á nafnspjald. 
-3. Búðu til línu eða holu sem á að fara í gegn á nafnspjaldi með laserskurð
+1. Búðu til línu eða holu sem á að fara í gegn á nafnspjaldi með laserskurð
   
 ---
 
@@ -34,7 +34,7 @@ Nafnspjald er unnið í Inkscape og [laserskorið](https://github.com/VESM1VS/AF
 Hannaðu með Inkscape **1 - 5 liðskipta fingur** (_articulated finger extensions_) sem passa við höndina þína. Dæmi úr kvikmyndum; Jack Skellington, Freddy Krueger, Babadook. 
 
 1. 2D hönnun með Inkscape með sérsniðnar mælingar fyrir laserskurð 
-1. Samsetning. 
+1. Samsetning og festingar við hönd
 
 #### Bjargir: 
 1. [Instructables: Articulated Finger Extensions](https://www.instructables.com/Articulated-Finger-Extensions/)
