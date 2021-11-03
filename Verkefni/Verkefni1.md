@@ -11,15 +11,15 @@ Hannaðu með Inkscape eigið SVG logo. sjá [2D hönnun](https://github.com/VES
 
 #### Eftirfarandi þarf að nota við gerð logo-s:
 
-1. (10%) form (e. shape) og formaðgerðir t.d; fylling (e. fill), útlínur (e. stroke), hópar (e. groups) og hæð (e. level).
-1. (10%) línu og ferla (e. path) notkun; Bezier verkfærið og það sem á við með því t.d; bræða saman (e. union), skörun (e. intersection), sundra (e. subpath, break apart) og sameina (e. combining), fríhendis (e. freehand), innfella (e. inset) og útfella (e. outset).
-1. (10%) litir, texti og leturgerð.
+1. form (e. shape) og formaðgerðir t.d; fylling (e. fill), útlínur (e. stroke), hópar (e. groups) og hæð (e. level).
+1. línu og ferla (e. path) notkun; Bezier verkfærið og það sem á við með því t.d; bræða saman (e. union), skörun (e. intersection), sundra (e. subpath, break apart) og sameina (e. combining), fríhendis (e. freehand), innfella (e. inset) og útfella (e. outset).
+1. litir, texti og leturgerð.
 
 Notaðu lög (e. layer) og síur (e. filter) eftir þörfum. Vistaðu Logo með svg sniði
 
 ---
 
-### 1.2 Nafnspjald (30%)
+### 1.2 Nafnspjald (25%)
 
 Nafnspjald er unnið í Inkscape og [laserskorið](https://github.com/VESM1VS/AFANGI/wiki/Laserskur%C3%B0ur) í stofu 42 (framtíðarstofan)
 
@@ -29,12 +29,12 @@ Nafnspjald er unnið í Inkscape og [laserskorið](https://github.com/VESM1VS/AF
   
 ---
 
-### 1.3 Liðskiptir fingraviðbætur (35%)
+### 1.3 Liðskiptir fingraviðbætur (40%)
 
 Hannaðu með Inkscape **1 - 5 liðskipta fingur** (_articulated finger extensions_) sem passa við höndina þína. Dæmi úr kvikmyndum; Jack Skellington, Freddy Krueger, Babadook. 
 
-1. 2D hönnun með Inkscape með sérsniðnar mælingar fyrir laserskurð (30%)
-1. samsetning. (20%)
+1. 2D hönnun með Inkscape með sérsniðnar mælingar fyrir laserskurð 
+1. Samsetning. 
 
 #### Bjargir: 
 - [How to make articulated finger extensions (myndband)](https://www.youtube.com/watch?v=pbQuFWxneUk&ab_channel=GaryFay)
