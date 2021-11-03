@@ -38,7 +38,8 @@ Hannaðu með Inkscape **1 - 5 liðskipta fingur** (_articulated finger extensio
 
 #### Bjargir: 
 1. [Instructables: Articulated Finger Extensions](https://www.instructables.com/Articulated-Finger-Extensions/)
-   - [SVG template](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/drawing-1.svg) má ekki nota óbreytt.
+   - [SVG template](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/drawing-1.svg) veldu RAW og vistaðu skránna
+   - Það má ekki nota template óbreytt.
 1. [How to make articulated finger extensions (myndband)](https://www.youtube.com/watch?v=pbQuFWxneUk&ab_channel=GaryFay)
 1. [articulated fingertips blog](https://forums.stanwinstonschool.com/discussion/3231/articulated-fingertips)
 
