@@ -1,5 +1,6 @@
 ## Verkefni 3 
 
+- Lóðun
 - 15% af heildareinkunn
 - tímaverkefni
 - einstaklingsverkefni
