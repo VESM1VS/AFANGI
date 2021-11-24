@@ -28,7 +28,7 @@
         1. má á gati fyrir rofa til að slökkva/kveikja á SimonSays: 21 mm 
    1. Merktu kassan með nafni.
    1. Útfærðu opnun/lokun.  
-4. Búðu til veroborð og lóðaðu, gerðu þetta í skrefum einsog á brauðbretti (gera regluleg prófun).
+4. Búðu til veroborð og lóðaðu, gerðu þetta í skrefum einsog á brauðbretti (gera regluleg prófun). Ath. LED eru með innbyggt viðnám.
 5. Útfærðu rofa [rocker switch button](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/rockerswitch.jpg) og festu [skó](https://cdn.sparkfun.com/assets/learn_tutorials/4/1/JST_CrimpChart__English_.pdf) á víra.
 7. Samsetning og frágangur.
 8. Kláraðu skýrsluna.
@@ -37,7 +37,7 @@
 ---
 
 ### Rafrásarteikning
-
+- Sleppa öllu viðnámi.
 ![Rafrásarteikning](https://raw.githubusercontent.com/VESM1VS/Efni/main/Myndir/simon_rafras.png)
 
 ---
