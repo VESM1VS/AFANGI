@@ -15,7 +15,7 @@ Stafrænt (e. digital) gildi getur annaðhvort verið 0 eða 1 (eða á/af, kvei
 
 ---
 
-### 5.1 Digtial Output (20%)
+### 5.1 Digtial Output (15%)
 - ```digitalWrite(PINNI, GILDI)```  skrifar annaðhvort ```HIGH``` eða ```LOW``` á pinna. 
 - Dæmi: ```digitalWrite(4, LOW);``` skrifar ```LOW``` út á pinna 4. 
 - Pinnar stilltir á `output` geta skemmst ef þeir eru tengdir i jörð eða spennu (3.3V eða 5V)
@@ -62,7 +62,7 @@ Bjargir:
 
 ---
 
-### 5.5 Rafþéttar (10%)
+### 5.5 Rafþéttar (15%)
 
 Kynntu þér rafþétta (e. capasitors):
 1. [Capacitors](https://www.instructables.com/lesson/Capacitors-2/)
