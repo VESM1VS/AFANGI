@@ -44,7 +44,7 @@
 
 ## Skýrsla
 
-Búðu til public Github geymslu (repository) með heitinu SimonSays og skrifaðu skýrsluna í `readme.md` skránna. <br>
+Búðu til public Github geymslu (repository) með heitinu SimonSays og skrifaðu skýrsluna í `readme.md` skránna. [markdown leiðbeiningar](https://www.markdownguide.org/cheat-sheet/) <br>
 Skýrslan þarf að innihalda eftirfarandi:
 
 1. Lýsing á verkefni.
