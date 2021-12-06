@@ -10,7 +10,7 @@
 Þið eigið að útbúa jólapakka sem inniheldur [animatronics](https://en.wikipedia.org/wiki/Animatronics) fígúru sem getur hreyft sig á ýmsan hátt þegar ýtt er á takka, [sýnidæmi](https://www.youtube.com/watch?v=kCcCpSB9tl4). <br>
 Notið Arduino fyrir forritun, servó mótora fyrir hreyfingar og tínið til það efni sem þið þurfið fyrir samsettninguna.
 
-1. Fígúran á að kíkja uppúr kassanum (linear motion). **(20%)**
+1. Fígúran á að kíkja uppúr kassanum [(linear motion)](https://www.thingiverse.com/thing:3170748/files). **(20%)**
 1. Haus á að snúast til hliðar (rotary motion). **(20%)**
 1. Opnar og lokar munn eftir annarskonar hreyfingu; syngja, tala eða tyggja (oscillating motion). **(30%)**
 1. Samsettning, festingar, virkni á takka, lóðun og frágangur. **(30%)**
