@@ -11,7 +11,7 @@ Verklegar tilraunir í kennslustund með; rafmagn, raðtengdar rásir, íhluti, 
 #### 1. Viðnám
 1. Notaðu [mælir (myndband)](https://www.youtube.com/watch?v=SLkPtmnglOI&t=11s&ab_channel=SparkFunElectronics) og mældu viðnám sem þú átt og merktu þau.
 1. Lestu úr litahringjunum á [viðnáminu](https://www.instructables.com/Resistors/), færðu sömu tölu?
-1. Notaðu [Viðnáms reiknivél](hhttps://resistorcolorcodecalc.com/), færðu sömu tölu?
+1. Notaðu [Viðnáms reiknivél](https://resistorcolorcodecalc.com/), færðu sömu tölu?
 
 ---
 
