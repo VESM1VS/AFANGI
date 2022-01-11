@@ -94,7 +94,7 @@ Ef ég er með 2 rauðar led perur, 20Ma straum og 12V batterí, hvert er viðn�
 
 #### 10. Takki og LED
 
-1. Settu upp rás með [push switch button](https://unciarobotics.com/wp-content/uploads/2020/04/Push-Button-Diagram-Part-2.svg) sem kveikir á LED peru. Hér er svo smávegis um [rofa](https://www.instructables.com/Switches/)
+1. Settu upp rás með [push switch button](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/Push-button-Pinout.gif) sem kveikir á LED peru. Hér er svo smávegis um [rofa](https://www.instructables.com/Switches/)
 
 ---
 
