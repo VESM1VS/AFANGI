@@ -105,10 +105,10 @@ Ef ég er með 2 rauðar led perur, 20Ma straum og 12V batterí, hvert er viðn�
 
 Eftirfarandi er metið í tíma útfrá verklegum tilraunum og skilningi nemanda:
 
-1. Getur sett upp raðtengda lokaða rás (viðnám, LED) á breadboad. (25%)
-1. Getur mælt spennu og viðnám með mælir. (25%)
-1. Getur nýtt sér KVL lögmálið í raðtengdri rás. (25%)
-1. Getur beitt Ohms lögmálinu. (25%)
+1. Getur sett upp raðtengda lokaða rás (viðnám, LED) á breadboad, liðir 2, 3, 5 , 6, 8, 9, 10. (25%)
+1. Getur mælt spennu og viðnám með mælir, liðir 1, 5, 6, 8. (25%)
+1. Getur nýtt sér KVL lögmálið í raðtengdri rás, liðir 5, 6 og 8. (25%)
+1. Getur beitt Ohms lögmálinu, liðir 7, 8 og 9. (25%)
 
 <!--
 1. Kann að vinna með mælieiningar og margfaldara td. mA í ohm. 
