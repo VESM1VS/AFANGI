@@ -42,7 +42,7 @@ Nánar um [hliðtengda rás](https://github.com/VESM1VS/afangi/wiki/Rafeindat%C3
 ---
 
 #### 5. Hliðtengd rás og fjöldi LEDs (15%)
-Með 9V batterí. Hvað getum við hliðtengt margar led perur? ef við viljum tryggja að hver þeirra fái 15mA straum?
+Með 9V batterí. Hvað getum við hliðtengt margar led perur? ef við viljum tryggja að hver þeirra fái 15mA straum? (þarf ekki að setja upp).
 
 ---
 
