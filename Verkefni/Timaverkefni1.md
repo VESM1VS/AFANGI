@@ -82,7 +82,7 @@ Horfðu á eftirfarandi [myndband](https://www.youtube.com/watch?v=EQtwsWJuUPs&l
 
 #### 9. Ohm`s lögmálið í raðtengdri rafrás með viðnámi og LED.
 
-1. Reiknaðu út strauminn í raðtengdri rás með V=5V, R=220K og rautt LED.  
+1. Reiknaðu út strauminn í raðtengdri rás með V=5V, R=220 og rautt LED.  
 1. Settu upp rásina og reiknaðu út strauminn útfrá mælingu á spennufallinu á viðnáminu og LED hinsvegar.
 
 <!--
