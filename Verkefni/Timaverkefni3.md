@@ -46,13 +46,13 @@ Með 9V batterí. Hvað getum við hliðtengt margar led perur? ef við viljum t
 
 ---
 
-#### 6. Rafrásarteikningar (20%)
+#### 6. Rafrásarteikningar (15%)
 
 Teiknaðu hliðtengda rás sem inniheldur LED, viðnám, takka og aflgjafa, sjá [rafrásarteikningar](https://github.com/VESM1VS/afangi/wiki/Rafeindat%C3%A6kni#rafr%C3%A1sarteikningar)
 
 ---
 
-#### 7. Kraftur (W) (10%)
+#### 7. Kraftur (W) (15%)
 Kraftur (power) er mældur í wöttum (W). Pera sem dæmi myndar ljós og hita og er mæld í W. Annað dæmi um mælingu í W eru orkugjafar t.d. batterí. Í rafrás þá er kraftur (vinna yfir tíma) mæling á orkugjafa eða orkutapi í rás í formi t.d hita, ljós eða hreyfingar. Formúlan til að reikna út kraft er `W = V * A`. <br>
 fyrir nánari skýringu; [myndband](https://www.youtube.com/watch?v=fQGjzxNY_mY&ab_channel=MichelvanBiezen) og  [vefgrein](https://www.electronics-tutorials.ws/dccircuits/dcp_2.html).
 
@@ -69,10 +69,10 @@ fyrir nánari skýringu; [myndband](https://www.youtube.com/watch?v=fQGjzxNY_mY&
 <!--
 Eftirfarandi er metið í tíma útfrá verklegum tilraunum og skilningi nemanda:
 
-1. Getur sett upp hliðtengda lokaða rás (viðnám, LEDS og takki) á breadboad. (30%)
-1. Þekkir muninn á raðtengdu og hliðtengdri rás m.t.t. straums og spennu. (30%)
-1. Getur teiknað einfalda raðtenga- og hliðtengda rás. (30%)
-1. Getur reiknað út kraft í wöttum (W=VI). (10%)
+1. Getur sett upp hliðtengda lokaða rás (viðnám, LEDS og takki) á breadboad. 
+1. Þekkir muninn á raðtengdu og hliðtengdri rás m.t.t. straums og spennu. 
+1. Getur teiknað einfalda raðtenga- og hliðtengda rás. 
+1. Getur reiknað út kraft í wöttum (W=VI). 
 -->
 
 <!--
