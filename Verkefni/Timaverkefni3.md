@@ -15,9 +15,8 @@ Horfuð á [myndband](https://www.youtube.com/watch?v=RjdyCXmDtb8&ab_channel=Kid
 ---
 
 #### 2. Hliðtengd rás (15%)
-Í raðtengdri rás er straumurinn alltaf sá sami í allri rásinni en spennan dreifist. <br>
-Í hliðtengdri rás er spennan sú sama í allri rásinni, en straumurinn er hinsvegar dreifður (mismikill). <br>
-Nánar um [hliðtengda rás](https://github.com/VESM1VS/afangi/wiki/Rafeindat%C3%A6kni#hli%C3%B0tengd-r%C3%A1s) 
+Í raðtengdri rás er straumurinn alltaf sá sami í allri rásinni en í hliðtengdri er straumurinn hinsvegar dreifður (mismikill). 
+Nánar um [hliðtengda rás](https://github.com/VESM1VS/afangi/wiki/Rafeindat%C3%A6kni#hli%C3%B0tengd-r%C3%A1s). 
 
 1. Settu upp hliðtengda rás með eitt 220 ohm viðnám í aðalgrein sem svo skiftist í tvær greinar með sitthvora rauða LED. Mældu spennufallið yfir viðnáminu og báðum LEDs.
 1. Settu upp hliðtengda rás sem skiftist í tvær greinar með sitthvora rauða LED og 220 ohm viðnám. Mældu spennufallið yfir báðu viðnámi og LEDs.
