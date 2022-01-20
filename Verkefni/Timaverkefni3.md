@@ -36,7 +36,7 @@ Nánar um [hliðtengda rás](https://github.com/VESM1VS/afangi/wiki/Rafeindat%C3
 ---
 
 #### 4. Hliðtengd rás með LEDs (15%)
-1. Í [myndbandinu sem sýnir LED Matrix](https://youtu.be/G4lIo-MRSiY?list=PLJse9iV6Reqgy8sdjBwKDwihQdbSxbcNg&t=412) eru 8 LEDS hliðtengd með 220 ohm viðnám hvert til að allar LEDs gefi frá sér þokkalega birtu og 13,6 mA straum. En hvað þarf spennan að vera frá orkugjafanum? Notaðu [Paralell reiknivél](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-parallel-and-series-resistor) til að finna út heildarviðnámið í rásinni.
+1. Í [myndbandinu sem sýnir LED Matrix](https://youtu.be/G4lIo-MRSiY?list=PLJse9iV6Reqgy8sdjBwKDwihQdbSxbcNg&t=412) eru 8 LEDS hliðtengd með 220 ohm viðnám hvert til að allar LEDs gefi frá sér þokkalega birtu og 13,6 mA straum. En hvað þarf spennan að vera frá orkugjafanum? Notaðu [Parallel reiknivél](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-parallel-and-series-resistor) til að finna út heildarviðnámið í rásinni.
 
 ---
 
