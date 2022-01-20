@@ -26,7 +26,7 @@ Nánar um [hliðtengda rás](https://github.com/VESM1VS/afangi/wiki/Rafeindat%C3
 #### 3. Hliðtengd rás og Ohm`s lögmálið (15%)
 
 1. Með Arduino sem aflgjafa, settu upp hliðtengda rás með tveimur greinum sem innihalda LED og sitthvort viðnámið R1=220 og R2=1K.  
-1. Hver er straumurinn í greininni sem innihledur R1 og R2? Notaðu Ohm`s lögmálið pr. grein til að finna það út.
+1. Hver er straumurinn í greininni sem innihledur R1 og R2? Notaðu Ohm`s lögmálið á sitthvora greinina til að finna það út.
 
 <!--
 1. Við viljum hafa 20mA straum fyrir hvora peruna. Hvert ætti viðnánmið að vera? _[Lausn](https://youtu.be/H69xDuon7vo?t=474)_
