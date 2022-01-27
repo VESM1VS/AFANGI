@@ -1,4 +1,4 @@
-## Takki og led með kóðun
+## Arduino Forritun
 - Undirbúningur fyrir SimonSays
 
 
