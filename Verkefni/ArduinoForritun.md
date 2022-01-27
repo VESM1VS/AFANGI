@@ -2,7 +2,7 @@
 - Undirbúningur fyrir SimonSays
 
 
-#### Digital pinnar og að vinna með stafræn gildi í Arduino
+**Digital pinnar**
 Stafrænt (e. digital) gildi getur annaðhvort verið 0 eða 1 (eða á/af, kveikt/slökkt). Í Arduino er búið að skilgreina [fastana (e. constant)](https://www.arduino.cc/reference/en/language/variables/constants/constants/) ```HIGH``` sem 1 (einn) og ```LOW``` sem 0 (núll). 
 - `HIGH` spenna meira en 3.0V á pinna og `LOW` spenna minni en 1.5V á pinna.
 - ```pinMode(PINNI, STADA)``` – stillir pinna sem inntaks eða úttakspinna. 
