@@ -1,6 +1,8 @@
 ## Takki og led með kóðun
 - Undirbúningur fyrir SimonSays
 
+Settu [Arduino IDE](https://github.com/VESM1VS/Efni/blob/main/Kennsluefni/arduino_uppsetning.md) upp á tölvuna þína.
+
 ---
 
 ### Digital pinnar og að vinna með stafræn gildi í Arduino
