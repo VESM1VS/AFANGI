@@ -39,7 +39,8 @@ Nafnspjald er unnið í Inkscape og [laserskorið](https://github.com/VESM1VS/AF
       * Hæð: 50 mm
    1. Mál á götum:
       * [LED datasheet](https://cdn-shop.adafruit.com/datasheets/WP7113SRD-D.pdf)
-      * Takki: t.d. 7,5 mm
+      * Takkar: 7,5 mm
+      * Takki on/off: 21 mm
    1. Merktu kassa með nafni.
    1. Útfærðu opnun/lokun.  
    
