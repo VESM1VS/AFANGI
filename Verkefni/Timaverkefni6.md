@@ -45,7 +45,7 @@ Svaraðu eftirfarandi spurningum
 1. Tenging VexMotors
 Tengingar eru eins og á servomótor það sem er öðruvísi er að Vex er með ESC electric speed controler þá getum við stjórnað hraða, tengdu einn mótor eins og servo
 
-![mynd](https://github.com/VESM1VS/Kennarasvaedi/blob/master/Verkefni/vexMotorTenging.png)
+![mynd](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/vexMotorTenging.png)
 
 2. Prófaðu mótorinn með arduino.
 Hér er kóði fyrir að keyra áfram og aftur í eina sek hvora leið:
