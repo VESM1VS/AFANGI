@@ -61,5 +61,5 @@ Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er að hlu
 1. 20% Samsetning útfrá hönnun og notagildi.
 1. 15% Skýrsla
 
-Skilaðu á Innu hlekk á skýrsluna.
+Skilaðu á Innu tengil á skýrsluna (Github repository).
 
