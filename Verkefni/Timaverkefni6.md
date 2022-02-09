@@ -15,8 +15,8 @@ Framkvæmdu eftirfarandi með Servo **SG90** og Arduino forritun:
 
 Bjargir:
 - [Servo A-Go-Go!](https://www.instructables.com/Servo-A-Go-Go/)
-- [How Servo Motor Works & Interface It With Arduino](https://lastminuteengineers.com/servo-motor-arduino-tutorial/)
 - [Using Servo Motors with the Arduino](https://dronebotworkshop.com/servo-motors-with-arduino/)
+- [How Servo Motor Works & Interface It With Arduino](https://lastminuteengineers.com/servo-motor-arduino-tutorial/)
 
 <!--
 - Ítarefni [Making sense of servos (youtube)](https://www.youtube.com/watch?v=IpubzroBjsQ&ab_channel=MakingtoLearn)
