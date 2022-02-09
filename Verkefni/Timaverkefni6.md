@@ -25,11 +25,11 @@ Servo City:  https://www.servocity.com/servo-faqs/
 ---
 
 ### 6.2 MG995 Servo (10%)
-Skoðaðu upplýsingar um [MG995 Servo](https://www.electronicoscaldas.com/datasheet/MG995_Tower-Pro.pdf) mótorinn og svaraðu eftirfarandi spurningum:
+Skoðaðu upplýsingar um [MG995 Servo](https://components101.com/motors/mg995-servo-motor) mótorinn og svaraðu eftirfarandi spurningum:
 
 1. Á hvaða spennusviði vinnur MG995 Servo Motor og afhverju þurfum við að vita það?
 1. Hvað er mótorinn lengi að snúa sér í 90 gráður miðað við 6V?
-1. Hvað er átt við að stöðvun [snúningsvægis](https://www.youtube.com/watch?v=T99yH_gw3p8) (stall torque) sé 10kg/cm við 6v?
+1. Hvað er átt við að stöðvun [snúningsvægis](https://www.youtube.com/watch?v=T99yH_gw3p8) (stall torque) sé 11kg/cm við 6v?
 
 ---
 
