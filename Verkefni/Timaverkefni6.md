@@ -9,8 +9,8 @@
 
 Framkvæmdu eftirfarandi með Servo og Arduino forritun:
 1. Stilltu Servo með kóða í upphafstöðu (90 gráður) þannig að armur vísar fram.
-1. Láttu Servo með kóða færir sig í þrjár stöður; fyrst í 0 gráður svo 180 gráður og að lokum í 90 gráður (ekki endurtekning).
-1. Keyrðu [`sweep`](https://lastminuteengineers.com/servo-motor-arduino-tutorial/#arduino-code-sweep) kóðann frá 45 til 135 gráður fram og aftur. 
+1. Láttu Servo með kóða færir sig í þrjár stöður; fyrst í 0 gráður svo 120 gráður og að lokum í 90 gráður (ekki endurtekning).
+1. Keyrðu [`sweep`](https://lastminuteengineers.com/servo-motor-arduino-tutorial/#arduino-code-sweep) kóðann frá 30 til 120 gráður fram og aftur. 
 1. Prófaðu [`Knob`](https://lastminuteengineers.com/servo-motor-arduino-tutorial/#controlling-servo-with-a-potentiometer) kóðann með Servo.
 
 Bjargir:
