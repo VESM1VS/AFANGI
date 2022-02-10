@@ -14,8 +14,8 @@ Framkvæmdu eftirfarandi með Servo **SG90** og Arduino forritun:
 1. Prófaðu [`Knob`](https://lastminuteengineers.com/servo-motor-arduino-tutorial/#controlling-servo-with-a-potentiometer) kóðann með Servo.
 
 Bjargir:
-- [How Servo Motor Works & Interface It With Arduino](https://lastminuteengineers.com/servo-motor-arduino-tutorial/)
 - [Servo A-Go-Go!](https://www.instructables.com/Servo-A-Go-Go/)
+- [How Servo Motor Works & Interface It With Arduino](https://lastminuteengineers.com/servo-motor-arduino-tutorial/)
 - [Using Servo Motors with the Arduino](https://dronebotworkshop.com/servo-motors-with-arduino/)
 
 <!--
