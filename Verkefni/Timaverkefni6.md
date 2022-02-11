@@ -80,28 +80,28 @@ void loop()
 Kóðinn hér fyrir neðan ætti þá að virka fínt. :-)
 ``` C
 /*
-Vexmótor getur breytt um hraða með þvi að breyta gildum frá -255 -  +255
+   Vexmótor getur breytt um hraða með þvi að breyta gildum frá -255 til  +255
 */
-#include <vexMotor.h> // includes the vexMotor library - uses Servo.h
-
-vexMotor myVexMotor1;  // creates an instance of the vexMotor class
+#include <Servo.h>
+#include <VexMotor.h>     // includes the vexMotor library - uses Servo.h
+VexMotor myVexMotor1(9);  // creates an instance of the vexMotor class
+int speed = 255;          // ath -255 fer á fullt afturábak, ekki fara neðar en 100 eða - 100 það vantar meiri spennu til þess( gerður fyrir 7,2V)
 
 void setup()
 {
-  myVexMotor1.attach(9); // setup / attach the vexMotor onto pin 9
+  myVexMotor1.set(9);    // setup, attach the vexMotor onto pin 9
   Serial.begin(9600);    // starts the Serial communication on Arduino
 }
-int speed = 255;//ath -255 fer á fullt afturábak ,ekki fara neðar en 100 eða - 100 það vantar meiri spennu til þess( gerður fyrir 7,2V)
 
 void loop()
 {
-  myVexMotor1.write(255);//á fullt áfram
+  myVexMotor1.set(255);//á fullt áfram
   delay(2000);// fullt áfram í 2 sek
-  myVexMotor1.write(-255);//á fullt afturábak
+  myVexMotor1.set(-255);//á fullt afturábak
   delay(2000);
-  myVexMotor1.write(100);//hálfa ferð áfram
+  myVexMotor1.set(100);//hálfa ferð áfram
   delay(2000);
-  myVexMotor1.write(-100);//hálfa ferð afturábak
+  myVexMotor1.set(-100);//hálfa ferð afturábak
   delay(2000);
 }
 ```
