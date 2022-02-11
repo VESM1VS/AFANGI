@@ -69,7 +69,7 @@ void loop()
 {
   Motor.write(MF); // fer áfram
   delay(1000);  //fer áfram í eina sek
-  Motor.write(MS9); // stoppar
+  Motor.write(MS); // stoppar
   delay(500); //stoppar í hálfa sek
   Motor.write(MB); // fer afturábak
   delay(1000); // fer afturábak í eina sek
