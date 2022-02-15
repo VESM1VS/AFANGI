@@ -16,7 +16,7 @@
 1. Önnur samsettning, tengingar og útlit á fígúru **(25%)**
 
 
-### Bjargir (samsettningar og hreyfingar)
+#### Bjargir (samsettningar og hreyfingar)
 - [Bandit the DIY Servo Animatronic Parrot](https://www.servomagazine.com/magazine/article/june2015_Koci)
 - [Steve Koci: Simple motorized Props](https://www.youtube.com/watch?v=mDxZNeLr8nI&t=2s&ab_channel=Halstaff%27sAnimatronicWorkshop) 
 - [Spider hill props](https://www.spiderhillpropworks.com/ANIMATED-PROP-KITS_c_22.html)
