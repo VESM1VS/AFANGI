@@ -17,7 +17,7 @@
 
 
 ### Bjargir (samsettningar og hreyfingar)
-
+- [Bandit the DIY Servo Animatronic Parrot](https://www.servomagazine.com/magazine/article/june2015_Koci)
 - [Steve Koci: Simple motorized Props](https://www.youtube.com/watch?v=mDxZNeLr8nI&t=2s&ab_channel=Halstaff%27sAnimatronicWorkshop) 
 - [Spider hill props](https://www.spiderhillpropworks.com/ANIMATED-PROP-KITS_c_22.html)
 - [PVC samsettning](https://www.youtube.com/watch?v=l5vuAzrqrPg&t=95s)
@@ -35,7 +35,6 @@
 - [Rockin Corpse](https://www.youtube.com/watch?v=x_cv7uOKOZo&ab_channel=deoblo85)
 - [DIY Legion Prop one motor 6 movements (linkage og latex)](https://www.youtube.com/watch?v=Bv3bVVeowyg)
 - [Halloween Prop Head and Arm Movement](https://www.youtube.com/watch?v=YphVBg4dQjs&ab_channel=MattChampneys)
-- [Bandit the DIY Servo Animatronic Parrot](https://www.servomagazine.com/magazine/article/june2015_Koci)
 - [Omars Haunted Trail](http://omarshauntedtrail.com/Props/props.htm)
 
 <!-- 
