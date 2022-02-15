@@ -7,7 +7,7 @@
 
 ## Verkefnalýsing 
 
-Þið eigið að útbúa [animatronics fígúru](https://www.youtube.com/watch?v=-m4Ehvjqfwo) (**hámarkstærð 50x50x50 cm**) sem getur hreyft sig á ýmsan hátt við ákveðna kveikju (trigger) t.d. [þrýstiplötu](https://www.instructables.com/Use-a-DIY-Pressure-Plate-Switch-to-Automate-Your-H/) eða [PIR](https://lastminuteengineers.com/pir-sensor-arduino-tutorial/) hreyfiskynjara. Notið Arduino fyrir forritun, mótora (Servo og DC) fyrir hreyfingar og LED t.d. fyrir augu. Tínið til efni sem þið þurfið fyrir samsettningu og útlit.
+Þið eigið að útbúa [animatronics](https://en.wikipedia.org/wiki/Animatronics) fígúru (**hámarkstærð 50x50x50 cm**) sem getur hreyft sig á ýmsan hátt við ákveðna kveikju (trigger) t.d. [þrýstiplötu](https://www.instructables.com/Use-a-DIY-Pressure-Plate-Switch-to-Automate-Your-H/) eða [PIR](https://lastminuteengineers.com/pir-sensor-arduino-tutorial/) hreyfiskynjara. Notið Arduino fyrir forritun, mótora (Servo og DC) fyrir hreyfingar og LED t.d. fyrir augu. Tínið til efni sem þið þurfið fyrir samsettningu og útlit.
 
 1. Fígúra á að innihalda samsettar hreyfingar **(50%)**
    1. snúningshreyfing (rotary motion) t.d. haus, munn, útlimur.
