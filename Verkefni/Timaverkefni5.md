@@ -26,7 +26,7 @@
 1. Samsetning og frágangur.
 1. Kláraðu skýrsluna.
 
-<!-- teikna rafrásina brenna, á kassann, + merkja tengin ->
+<!-- teikna rafrásina brenna, á kassann, + merkja tengin -->
 
 ---
 
