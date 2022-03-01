@@ -84,12 +84,11 @@ Kóðinn hér fyrir neðan ætti þá að virka fínt. :-)
 */
 #include <Servo.h>
 #include <VexMotor.h>     // includes the vexMotor library - uses Servo.h
-VexMotor myVexMotor1(9);  // creates an instance of the vexMotor class
+VexMotor myVexMotor1(9);  // creates an instance of the vexMotor class, attach the vexMotor onto pin 9
 int speed = 255;          // ath -255 fer á fullt afturábak, ekki fara neðar en 100 eða - 100 það vantar meiri spennu til þess( gerður fyrir 7,2V)
 
 void setup()
 {
-  myVexMotor1.set(9);    // setup, attach the vexMotor onto pin 9
   Serial.begin(9600);    // starts the Serial communication on Arduino
 }
 
