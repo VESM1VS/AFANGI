@@ -1,2 +1,2 @@
 ## Tímaverkefni
-Vor 2022
+Haust 2022
