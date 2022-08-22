@@ -34,7 +34,7 @@ Lestu [The LED datasheet](https://learn.adafruit.com/all-about-leds/the-led-data
 ---
 
 #### 4. Takki og LED.*
-Settu upp rás með [push switch button](https://unciarobotics.com/wp-content/uploads/2020/04/Push-Button-Diagram-Part-2.svg) sem kveikir á LED peru. Hér er svo smávegis um [rofa](https://www.instructables.com/Switches/)
+Settu upp rás með takka sem kveikir á LED peru. Hér er svo smávegis um [rofa](https://www.instructables.com/Switches/)
 
 ---
 
