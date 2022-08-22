@@ -75,8 +75,7 @@ Horfðu á eftirfarandi [myndband](https://www.youtube.com/watch?v=EQtwsWJuUPs&l
 
 #### 9. Ohm`s lögmálið í raðtengdri rafrás með viðnámi og LED.*
 
-1. Reiknaðu út strauminn í raðtengdri rás með V=5V, R=220 og rautt LED.  
-1. Settu upp rásina og reiknaðu út strauminn útfrá mælingu á spennufallinu á viðnáminu og LED hinsvegar.
+1. Settu upp raðtengda rás með Arduino (5V) og reiknaðu út strauminn útfrá mælingu á spennufallinu á viðnáminu (220 ohm) og rautt LED.
 
 <!--
 Ef ég er með 2 rauðar led perur, 20Ma straum og 12V batterí, hvert er viðnámið til að tryggja að þær fái sem hæfilegasta birtu? [Mynd](https://youtu.be/H69xDuon7vo?t=82) og _[lausnin](https://youtu.be/H69xDuon7vo?t=156)_
