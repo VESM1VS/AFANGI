@@ -50,7 +50,7 @@ Horfðu á [myndband](https://www.youtube.com/watch?v=w82aSjLuD_8&list=PLWv9VM94
 Raðtengdu tvær rauðar LEDs með einu 220 ohm viðnámi og Arduino sem spennugjafa. 
 
 1. Mældu spennufallið a) yfir annarri LED b) yfir báðum LED perunum saman og c) viðnáminu 
-1. Hvað getur þú raðtengt mörgum rauðum LED perum? 
+1. Hvað getur þú raðtengt mörgum rauðum LED perum með einu 220 ohm viðnámi? 
 
 ---
 
