@@ -3,11 +3,11 @@
 - 12% af heildareinkunn áfanga.
 - einstaklingsverkefni.
 
----
 
 ### Verkefnalýsing.
 Verklegar tilraunir í kennslustund með; rafmagn, raðtengdar- og hliðtengdar rásir, íhluti, mælingar og útreikninga. <br>
 
+---
 
 #### 1. Viðnám.
 1. Notaðu [mælir (myndband)](https://www.youtube.com/watch?v=SLkPtmnglOI&t=11s&ab_channel=SparkFunElectronics) og mældu viðnám sem þú átt og merktu þau.
