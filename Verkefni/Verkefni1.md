@@ -41,7 +41,7 @@ Settu upp rás með takka sem kveikir á LED peru. Hér er svo smávegis um [rof
 #### 5. Spenna, Forward Voltage og KVL lögmálið. 
 Horfðu á [myndband](https://www.youtube.com/watch?v=w82aSjLuD_8&list=PLWv9VM947MKi_7yJ0_FCfzTBXpQU-Qd3K&index=5) sem útskýrir spennu. Lestu svo greinina [Forward Voltage and KVL](https://learn.adafruit.com/all-about-leds/forward-voltage-and-kvl) (að Ohm`s law).
 
-1. Settu upp rás með Arduino sem aflgjafa, 220 ohm viðnám og rauða LED peru. Ef Forward Voltage á rauðri LED (mv. 20mA straum.) er 1.8V hvert er spennufallið hjá viðnáminu?
+1. Settu upp rás með Arduino sem aflgjafa (5V), 220 ohm viðnám og rauða LED peru. Ef Forward Voltage á rauðri LED (mv. 20mA straum.) er 1.8V hvert er spennufallið hjá viðnáminu?
 1. Notaðu mælir og mældu spennufallið yfir LED og viðnámi, stemmir það útfrá KVL? 
 
 ---
