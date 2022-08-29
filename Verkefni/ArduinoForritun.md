@@ -1,11 +1,13 @@
 ## Arduino Forritun
 
 Undirbúningur fyrir SimonSays
-
+<!--
 1. Settu [Arduino IDE](https://github.com/VESM1VS/Efni/blob/main/Kennsluefni/arduino_uppsetning.md) upp á tölvuna þína, ef þú ert ekki þegar búinn að því.
-1. Settu upp [Blink á brauðbretti](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/blinking-the-led)
+-->
+Settu upp [Blink á brauðbretti](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/blinking-the-led).
 
 ---
+
 
 #### Digital pinnar
 Stafrænt (e. digital) gildi getur annaðhvort verið 0 eða 1 (eða á/af, kveikt/slökkt). Í Arduino er búið að skilgreina [fastana (e. constant)](https://www.arduino.cc/reference/en/language/variables/constants/constants/) ```HIGH``` sem 1 (einn) og ```LOW``` sem 0 (núll). 
