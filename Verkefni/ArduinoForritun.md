@@ -2,7 +2,7 @@
 
 Undirbúningur fyrir SimonSays
 
-1. Settu [Arduino IDE](https://github.com/VESM1VS/Efni/blob/main/Kennsluefni/arduino_uppsetning.md) upp á tölvuna þína.
+1. Settu [Arduino IDE](https://github.com/VESM1VS/Efni/blob/main/Kennsluefni/arduino_uppsetning.md) upp á tölvuna þína, ef þú ert ekki þegar búinn að því.
 1. Settu upp [Blink á brauðbretti](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/blinking-the-led)
 
 ---
