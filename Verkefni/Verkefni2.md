@@ -34,13 +34,13 @@ Nafnspjald er unnið í Inkscape og [laserskorið](https://github.com/VESM1VS/AF
 1. Gerðu **box** fyrir Simon Says með Inkscape 
    1. Notaðu [Tabbed Box Maker](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/TabbedBoxMaker.md) viðbótina.
    1. Lágmarksmál á kassa:
-      * Lengd:  80 - 90 mm 
-      * Breidd: 80 - 90 mm 
+      * Lengd:  90 mm 
+      * Breidd: 90 mm 
       * Hæð: 60 mm 
    1. Mál á götum:
       * [LED datasheet](https://cdn-shop.adafruit.com/datasheets/WP7113SRD-D.pdf)
       * Arcadae takkar: 25 mm 
-      * Takki on/off: 21 mm
+      * Takki on/off: 20 x 14 mm
    1. Merktu kassa með nafni.
    1. Hafðu hljóðgöt fyrir hátalara.
    1. Útfærðu opnun/lokun.  
