@@ -38,8 +38,8 @@ Nafnspjald er unnið í Inkscape og [laserskorið](https://github.com/VESM1VS/AF
       * Breidd: 110 mm 
       * Hæð: 60 mm 
    1. Mál á götum:
-      * Arcadae takkar: 25 mm 
-      * Takki on/off: 20 x 14 mm
+      * 4 x Arcade takkar: 25 mm 
+      * 1 x takki on/off: 20 x 14 mm
    1. Merktu kassa með nafni.
    1. Hafðu hljóðgöt fyrir hátalara.
    1. Útfærðu opnun/lokun.  
