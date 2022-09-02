@@ -1,6 +1,6 @@
 ## Lóðunaræfingar
 
-- 6 - 8 klst, ekkert vægi.
+- (8 klst, ekkert vægi.)
 - Undirbúningur fyrir SimonSays
 
 ---
