@@ -49,4 +49,4 @@ Nafnspjald er unnið í Inkscape og [laserskorið](https://github.com/VESM1VS/AF
 ### Námsmat 
 - Yfirferð og námsmat á sér stað í tíma.
 - Fyrir hvern lið: Fullt fyrir fullnægjandi útfærslu, hálft ef lausn er ábótavant og ekkert ef lausn er stórlega ábótavant eða vantar.
-- Skilaðu á Innu skrár með svg sniði og ljósmynd af nafnspjaldi og Simon Says boxi.
+- Skilaðu á Innu logo og SimonSays box skrárnar með svg sniði.
