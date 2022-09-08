@@ -31,7 +31,7 @@ Nafnspjald er unnið í Inkscape og [laserskorið](https://github.com/VESM1VS/AF
 
 ### 3 Simon Says box (50%)
 
-Hannaðu með Inkscape **box** fyrir Simon Says. Boxið veðrur [laserskorið](https://github.com/VESM1VS/AFANGI/wiki/Laserskur%C3%B0ur) í plexigler.
+Hannaðu með Inkscape **box** fyrir Simon Says. Boxið veðrur laserskorið í plexigler.
    1. Notaðu [Tabbed Box Maker](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/TabbedBoxMaker.md) viðbótina og eftirfarandi [stillingar](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/TabbedBox_stilling_SimonSays_Plexigler.jpg).
    1. Lágmarksmál á kassa:
       * Lengd:  110 mm 
