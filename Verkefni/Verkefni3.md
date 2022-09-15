@@ -16,7 +16,7 @@
 
 1. Settu [Arduino IDE](https://github.com/VESM1VS/Efni/blob/main/Kennsluefni/arduino_uppsetning.md) upp á tölvuna þína og settu upp *ToneLibrary* safnið.
 1. Prófaðu að kveikja á LED með [Arduino forritun](https://github.com/VESM1VS/AFANGI/blob/main/Verkefni/ArduinoForritun.md).
-1. Settu upp Simon Says [kóðann](https://github.com/VESM1VS/Efni/blob/main/Kodi/simon.ino) fyrir verkefnið.
+1. Settu upp Simon Says [kóðann](https://github.com/VESM1VS/Efni/blob/main/Kodi/simon.ino) fyrir verkefnið ![mynd](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/simonFrumtengimynd.PNG)
 1. Setja upp á brauðbretti (frumgerð), sjá rafrásarteikningu.
    1. tengdu **passive** [piezo buzzer](https://www.youtube.com/watch?v=AQIayZgeqq4) og gerðu prófun á hljóði. <!-- active er með svart tape á botni-->
    1. bættu við LED og takka og gerðu prófun á honum.
