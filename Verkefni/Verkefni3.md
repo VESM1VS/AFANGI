@@ -59,12 +59,13 @@ Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er að hlu
 1. 25% Lóðun á veroborði.
 1. 15% Víratengingar íhluta við veroborð og Arduino (crimp töng, lengdir á vírum og frágangur).
 1. 30% Hönnunarútfærsla á rafrás (rýmisnýting) og virkni (hægt að spila).
-   1. Header er tengdur frá veroborð í Arduino (30%)
-   2. Vírar eru tengdir frá veroborð í Arduino (GND og Data pinnar) (20%)
-   3. GND og datapinni 12 (hátalari) eru tengdir frá veroobrði í Arduino (10%).
-   4. Engin virkni (0%)
 1. 10% Samsetning á boxi.
 1. 10% Skýrsla.
 
 Skilaðu á Innu tengil á skýrsluna (Github repository).
 
+<!--
+   1. Header er tengdur frá veroborð í Arduino
+   2. Vírar eru tengdir frá veroborð í Arduino (GND og Data pinnar) 
+   3. GND og datapinni 12 (hátalari) eru tengdir frá veroobrði í Arduino 
+-->
