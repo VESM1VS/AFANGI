@@ -26,7 +26,7 @@
    1. tengdu eitt LED í arcade takka, tengdu [skó](https://cdn.sparkfun.com/assets/learn_tutorials/4/1/JST_CrimpChart__English_.pdf) (minnsta stærð) í víraenda.
    1. tengdu núna hnappinn í arcade takkanum.
    1. kláraðu hina arcade takkana. 
-3. Útfærðu on/off takkann, splæstu víra saman við 9V batterí tengi. 
+3. Splæstu víra saman við 9V batterí tengi og on/off takkann.
 4. Gangtu frá vírum t.d. herpihólka og settu saman kassa.
 5. Kláraðu skýrsluna.
 
