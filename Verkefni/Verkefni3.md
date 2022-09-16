@@ -28,7 +28,7 @@
    1. kláraðu hina arcade takkana. 
 3. On/Off takki. Klipptu GND vír í sundur af 9V batterí tengi og settu skó (miðstærð).
 4. Gangtu frá vírum t.d. herpihólka og settu saman kassa.
-5. Kláraðu skýrsluna.
+5. Kláraðu skýrsluna (sjá neðar).
 
 <!-- teikna rafrásina brenna, á kassann, + merkja tengin -->
 
