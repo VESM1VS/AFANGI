@@ -22,9 +22,13 @@
    1. bættu við LED og takka og gerðu prófun á honum.
    1. kláraðu uppsetninguna og prófaðu spilun.
 1. Búðu til veroborð og lóðaðu, gerðu þetta í skrefum einsog á brauðbretti (gera regluleg prófun). <!-- Ath. LED eru með innbyggt viðnám. -->
-1. Útfærðu [rocker switch button](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/rockerswitch.jpg)  <!-- og festu [skó](https://cdn.sparkfun.com/assets/learn_tutorials/4/1/JST_CrimpChart__English_.pdf) á víra. -->
-1. Samsetning og frágangur.
-1. Kláraðu skýrsluna.
+   1. byrjaðu á buzzernum. 
+   1. tengdu eitt LED í arcade takka, tengdu [skó](https://cdn.sparkfun.com/assets/learn_tutorials/4/1/JST_CrimpChart__English_.pdf) (minnsta stærð) í víraenda.
+   1. tengdu núna hnappinn í arcade takkanum.
+   1. kláraðu hina arcade takkana. 
+3. Útfærðu on/off takkann, splæstu víra saman við 9V batterí tengi. 
+4. Gangtu frá vírum t.d. herpihólka og settu saman kassa.
+5. Kláraðu skýrsluna.
 
 <!-- teikna rafrásina brenna, á kassann, + merkja tengin -->
 
