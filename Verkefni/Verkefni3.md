@@ -26,7 +26,7 @@
    1. tengdu eitt LED í arcade takka, tengdu [skó](https://cdn.sparkfun.com/assets/learn_tutorials/4/1/JST_CrimpChart__English_.pdf) (minnsta stærð) í víraenda.
    1. tengdu núna hnappinn í arcade takkanum.
    1. kláraðu hina arcade takkana. 
-3. Splæstu víra saman við 9V batterí tengi og on/off takkann.
+3. On/Off takki. Klipptu GND vír í sundur af 9V batterí tengi og settu skó (miðstærð).
 4. Gangtu frá vírum t.d. herpihólka og settu saman kassa.
 5. Kláraðu skýrsluna.
 
@@ -61,7 +61,7 @@ Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er að hlu
 
 1. 10% Kóðavirkni og samsettning á brauðbretti (frumgerð).
 1. 25% Lóðun á veroborði.
-1. 15% Víratengingar íhluta við veroborð og Arduino (crimp töng, splæasa saman, lengdir á vírum og frágangur).
+1. 15% Víratengingar íhluta við veroborð og Arduino (crimp töng, lengdir á vírum og frágangur).
 1. 30% Hönnunarútfærsla á rafrás (rýmisnýting) og virkni (hægt að spila).
 1. 10% Samsetning á boxi.
 1. 10% Skýrsla.
