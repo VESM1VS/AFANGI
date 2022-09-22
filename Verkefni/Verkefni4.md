@@ -72,7 +72,7 @@ Sjá einnig: [Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-
 
 ### 4. DC mótor og L298N DC Motor Driver (30%)
 1. Til að geta stýrt hraða og snúningsátt á DC mótor með kóða, fylgdu [Interface L298N DC Motor Driver Module with Arduino](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/) og settu upp á Breadboard en bara með einn 6V DC mótor. 
-1. Passaðu að tengja allt rétt, láttu yfirfara teningar frá félaga og stillingar á aflgjafa; 8V (max) og 250mA (max) straum. 
+1. Passaðu að tengja allt rétt, láttu yfirfara teningar frá félaga og stillingar á aflgjafa; 6V og 250mA (max) straum. 
 1. Aðlagaðu kóðann að einum DC mótor, taktu út forlykkjur og notaðu sama gildi fyrir hraðastillingu.
 
 ---
