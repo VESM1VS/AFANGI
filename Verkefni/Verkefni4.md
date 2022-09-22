@@ -39,7 +39,7 @@ Spurningar
 1. Skoðaðu e. datasheet á [6V Hobby DC mótor](https://www.robotshop.com/media/files/pdf/datasheet-711.pdf). 
 1. Lærðu að stilla og nota aflgjafann (Power Supply) sem er á borðinu með hjálp kennara. Og stilltu hann í samræmi við þolmörk DC mótors.
 1. Tengdu DC mótorinn við spennugjafa (NICE-POWER), tengdu + rauður og - svartur við dc mótorinn. 
-1. Hafðu V takkan (spennu) í neðstu stöðu á aflgjafa þ.e 0 snúðu V takkanum hægt uppá við að 9V (max). Hámarks straumur fyrir þennan DC mótor er 500mA (stall current). Hvað gerðist?
+1. Hafðu V takkan (spennu) í neðstu stöðu á aflgjafa þ.e 0 snúðu V takkanum hægt uppá við að 9V (max) og 250mA. Hvað gerðist?
 1. Víxlaðu + og - á mótor og endurtaktu. Hvað gerðist?
 
 <!-- Stall current is the highest current that the motor can draw (under maximum torque load) -->
