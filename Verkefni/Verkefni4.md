@@ -80,7 +80,6 @@ Sjá einnig: [Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-
 ## Námsmat og skil
 - Yfirferð og námsmat á sér stað í tíma.
 - Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er ábótavant og ekkert ef hann vantar.
-- Skilaðu á Innu svörum.
 
 
 <!--
