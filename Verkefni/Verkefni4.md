@@ -48,13 +48,13 @@ Spurningar
 
 ### 3. DC mótor og Arduino (30%)
 
-1. tengdu eins og í mynd, DC mótor og [transistor](https://www.instructables.com/Transistors/) (td. PN2222 eða TIP120) sem er notaður til að kveikja og slökkva á mótor. <br> ![Mynd](https://github.com/eirben/VESM1/blob/master/d%C3%A6mi/9V_DC_motor_tip120.png)
+1. tengdu eins og í mynd, DC mótor og TIO120 [transistor](https://www.instructables.com/Transistors/) en hann er notaður til að kveikja og slökkva á mótornum. <br> ![Mynd](https://github.com/eirben/VESM1/blob/master/d%C3%A6mi/9V_DC_motor_tip120.png)
 2. keyrðu svo eftirfarandi kóða.
 ``` C
-#define pwm 9
+#define pwm 9  // breyta sem inniheldur töluna 9
 
 void setup() {
-  pinMode(pwm,OUTPUT);
+  pinMode(pwm,OUTPUT);  // notum datapinna 9 á Arduino
   analogWrite(pwm,0);   // set hraðann á mótor í núll
 }
 void loop() {
@@ -64,9 +64,9 @@ void loop() {
   delay(1000);
 }
 ```
-3. Prófaðu að breyta gildunum í analogWrite(), gildin eru frá 0 - 255.
+3. Prófaðu að breyta gildunum í `analogWrite()`, gildin eru frá 0 - 255.
 
-Sjá einnig: [Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors), Hér er [diode](https://www.instructables.com/Diodes/) notuð til að koma í veg fyrir að rafmagn fari í öfuga átt, diode þarf svo viðnám (einsog LED).
+Sjá einnig: [Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors). [Diode](https://www.instructables.com/Diodes/) notuð til að koma í veg fyrir að rafmagn fari í öfuga átt, diode þarf svo viðnám (einsog LED).
 
 ---
 
