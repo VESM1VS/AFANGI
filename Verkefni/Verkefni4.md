@@ -63,7 +63,7 @@ void loop() {
 ```
 3. Prófaðu að breyta gildunum í analogWrite(), gildin eru frá 0 - 255.
 
-Sjá einnig [Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors), Hér er [diode](https://www.instructables.com/Diodes/) notuð til að koma í veg fyrir að rafmagn fari í öfuga átt, diode þarf svo viðnám ein sog LED.
+Sjá einnig: [Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors), Hér er [diode](https://www.instructables.com/Diodes/) notuð til að koma í veg fyrir að rafmagn fari í öfuga átt, diode þarf svo viðnám ein sog LED.
 
 ---
 
