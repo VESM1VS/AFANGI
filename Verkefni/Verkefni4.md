@@ -7,7 +7,7 @@
 
 Í þessu verkefni ætlum við að kynnast og vinna með [mótora](https://www.instructables.com/Motors-and-Motion/).
 
-### 1. Servo (30%)
+### 1. Servo (40%)
 1. Lestu eftirfarandi um [servo](https://www.instructables.com/Servo-A-Go-Go/) mótora.
 1. Kynntu þér hvernig servo virkar með að lesa [How Servo Motor Works & Interface It With Arduino](https://lastminuteengineers.com/servo-motor-arduino-tutorial/).
 1. Tengdu servo við [Servo tester](https://www.allelectronics.com/item/str-110/servo-tester/1.html), sjá [hér](https://www.youtube.com/watch?v=--bpb485i1Q) leiðbeiningar. Notaðu Arduino sem aflgjafa og prófaðu svo testerinn.
@@ -43,7 +43,7 @@ Spurningar
 
 ---
 
-### 3. DC mótor og Arduino (30%)
+### 3. DC mótor og Arduino (20%)
 
 1. tengdu eins og í mynd, DC mótor og _TIP120_ [transistor](https://www.instructables.com/Transistors/) en hann er notaður til að kveikja og slökkva á mótornum. <br> ![Mynd](https://github.com/eirben/VESM1/blob/master/d%C3%A6mi/9V_DC_motor_tip120.png)
 2. keyrðu svo eftirfarandi kóða.
