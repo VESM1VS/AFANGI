@@ -15,15 +15,14 @@
 1. Láttu Servo **með kóða** færir sig í þrjár stöður; fyrst í 0 gráður svo 180 gráður og að lokum í 90 gráður (ekki endurtekning).
 1. Keyrðu [`sweep`](https://lastminuteengineers.com/servo-motor-arduino-tutorial/#arduino-code-sweep) kóðann frá 45 til 135 gráður fram og aftur.  
 <!--
-1. (Geyma fyrir Verkefni 5) Stýrðu tvo Servo með [PCA9685 16-Channel Servo Driver](https://learn.adafruit.com/16-channel-pwm-servo-driver), sjá [skýringar](https://dronebotworkshop.com/servo-motors-with-arduino/#PCA9685_Servo_Driver_Board). 
+1. Stýrðu tvo Servo með [PCA9685 16-Channel Servo Driver](https://learn.adafruit.com/16-channel-pwm-servo-driver), sjá [leiðbeiningar](https://dronebotworkshop.com/servo-motors-with-arduino/#PCA9685_Servo_Driver_Board). 
 -->
 
-<!-- 
 Ítarefni:
 - [Using Servo Motors with the Arduino](https://dronebotworkshop.com/servo-motors-with-arduino/).
+- [Servo City](https://www.servocity.com/servo-faqs/) https://www.servocity.com/servo-faqs/#what-is-a-servo
 - [Making sense of servos (youtube)](https://www.youtube.com/watch?v=IpubzroBjsQ&ab_channel=MakingtoLearn)
-- [Servo City](https://www.servocity.com/servo-faqs/)
--->
+
 
 <!-- 
 Spurningar
