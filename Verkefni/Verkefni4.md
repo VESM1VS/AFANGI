@@ -48,7 +48,7 @@ Spurningar
 
 ### 3. DC mótor og Arduino (30%)
 
-1. tengdu eins og í mynd, DC mótor og TIO120 [transistor](https://www.instructables.com/Transistors/) en hann er notaður til að kveikja og slökkva á mótornum. <br> ![Mynd](https://github.com/eirben/VESM1/blob/master/d%C3%A6mi/9V_DC_motor_tip120.png)
+1. tengdu eins og í mynd, DC mótor og _TIP120_ [transistor](https://www.instructables.com/Transistors/) en hann er notaður til að kveikja og slökkva á mótornum. <br> ![Mynd](https://github.com/eirben/VESM1/blob/master/d%C3%A6mi/9V_DC_motor_tip120.png)
 2. keyrðu svo eftirfarandi kóða.
 ``` C
 #define pwm 9  // breyta sem inniheldur töluna 9
