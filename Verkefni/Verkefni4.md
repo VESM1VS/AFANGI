@@ -51,11 +51,10 @@ Servo City:  https://www.servocity.com/servo-faqs/
 
 void setup() {
   pinMode(pwm,OUTPUT);
-  //núllstilli mótor
-  analogWrite(pwm,0);
+  analogWrite(pwm,0);   // set hraðann á mótor í núll
 }
 void loop() {
-  analogWrite(pwm, 255);
+  analogWrite(pwm, 255);  // 255 er mesti snúningshraðinnn
   delay(1000);
   analogWrite(pwm, 0);
   delay(1000);
