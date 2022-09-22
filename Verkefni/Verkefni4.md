@@ -20,7 +20,7 @@
 
 **Ítarefni:**
 - [Using Servo Motors with the Arduino](https://dronebotworkshop.com/servo-motors-with-arduino/).
-- [Servo City](https://www.servocity.com/servo-faqs/) https://www.servocity.com/servo-faqs/#what-is-a-servo
+- [Servo City](https://www.servocity.com/servo-faqs/) myndbönd og skýringar.
 - [Making sense of servos (youtube)](https://www.youtube.com/watch?v=IpubzroBjsQ&ab_channel=MakingtoLearn)
 
 
