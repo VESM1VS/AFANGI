@@ -18,7 +18,7 @@
 1. Stýrðu tvo Servo með [PCA9685 16-Channel Servo Driver](https://learn.adafruit.com/16-channel-pwm-servo-driver), sjá [leiðbeiningar](https://dronebotworkshop.com/servo-motors-with-arduino/#PCA9685_Servo_Driver_Board). 
 -->
 
-Ítarefni:
+**Ítarefni:**
 - [Using Servo Motors with the Arduino](https://dronebotworkshop.com/servo-motors-with-arduino/).
 - [Servo City](https://www.servocity.com/servo-faqs/) https://www.servocity.com/servo-faqs/#what-is-a-servo
 - [Making sense of servos (youtube)](https://www.youtube.com/watch?v=IpubzroBjsQ&ab_channel=MakingtoLearn)
