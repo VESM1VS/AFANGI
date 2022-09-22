@@ -14,29 +14,33 @@
 1. Settu upp á brauðbretti með Arduino og stilltu servo **með kóða** í upphafstöðu (90 gráður), kóðinn á að vera í _setup_ fallinu. Leiðréttu arminn (taka af og setja aftur á), láttu hann vísa fram (90 gráður).
 1. Láttu Servo **með kóða** færir sig í þrjár stöður; fyrst í 0 gráður svo 180 gráður og að lokum í 90 gráður (ekki endurtekning).
 1. Keyrðu [`sweep`](https://lastminuteengineers.com/servo-motor-arduino-tutorial/#arduino-code-sweep) kóðann frá 45 til 135 gráður fram og aftur.  
+<!-- 
+1. Stýrðu tvo Servo með [16-Channel Servo Driver](https://learn.adafruit.com/16-channel-pwm-servo-driver), sjá [skýringar](https://dronebotworkshop.com/servo-motors-with-arduino/#PCA9685_Servo_Driver_Board). 
+-->
 
 Sjá einnig: [Using Servo Motors with the Arduino](https://dronebotworkshop.com/servo-motors-with-arduino/).
 
 <!-- 
-1. Prófaðu [`Knob`](https://lastminuteengineers.com/servo-motor-arduino-tutorial/#controlling-servo-with-a-potentiometer) kóðann með Servo. 
-1. Á hvaða spennusviði vinnur MG995 Servo Motor og afhverju þurfum við að vita það?
+Servo ítarefni:
+- [Making sense of servos (youtube)](https://www.youtube.com/watch?v=IpubzroBjsQ&ab_channel=MakingtoLearn)
+- [Servo City](https://www.servocity.com/servo-faqs/)
+-->
+
+<!-- 
+Spurningar
 1. Hvað er mótorinn lengi að snúa sér í 90 gráður miðað við 6V?
 1. Hvað er átt við að stöðvun [snúningsvægis](https://www.youtube.com/watch?v=T99yH_gw3p8) (stall torque) sé 10kg/cm við 6v? 
-1. Ítarefni [Making sense of servos (youtube)](https://www.youtube.com/watch?v=IpubzroBjsQ&ab_channel=MakingtoLearn)
-Servo City:  https://www.servocity.com/servo-faqs/  
 -->
 
 ---
 
 ### 2. DC mótor og aflgjafi (10%)
 
-1. Kynntu þér [6V Hobby DC mótor](https://www.robotshop.com/media/files/pdf/datasheet-711.pdf) sem þú ert með. 
-2. Tengdu DC mótorinn við spennugjafa (NICE-POWER), tengdu + rauður og - svartur við dc mótorinn. 
-3. Með aflgjafanum hafðu V takkan (spennu) í neðstu stöðu þ.e 0 snúðu V takkanum hægt uppá við að 8V (max). Hámarks straumur fyrir þennan DC mótor er 500mA (stall current).
-4. Hvað gerðist?
-5. Víxlaðu + og - á mótor og endurtaktu
-6. Hvað gerðist?
-7. Hafðu aflgjafann stilltan á 6V. Straumurinn ætti að sýna í kringum 100mA með engu álagi (No-load current) 
+1. Skoðaðu e. datasheet á [6V Hobby DC mótor](https://www.robotshop.com/media/files/pdf/datasheet-711.pdf). 
+1. Lærðu að stilla og nota aflgjafann (Power Supply) sem er á borðinu með hjálp kennara. Og stilltu hann í samræmi við þolmörk DC mótors.
+1. Tengdu DC mótorinn við spennugjafa (NICE-POWER), tengdu + rauður og - svartur við dc mótorinn. 
+1. Hafðu V takkan (spennu) í neðstu stöðu á aflgjafa þ.e 0 snúðu V takkanum hægt uppá við að 9V (max). Hámarks straumur fyrir þennan DC mótor er 500mA (stall current). Hvað gerðist?
+1. Víxlaðu + og - á mótor og endurtaktu. Hvað gerðist?
 
 <!-- Stall current is the highest current that the motor can draw (under maximum torque load) -->
 
@@ -44,7 +48,7 @@ Servo City:  https://www.servocity.com/servo-faqs/
 
 ### 3. DC mótor og Arduino (30%)
 
-1. tengdu eins og í mynd, DC mótor og [transistor](https://www.instructables.com/Transistors/) (PN2222 eða TIP120) sem er notaður til að kveikja og slökkva á mótor. <br> ![Mynd](https://github.com/eirben/VESM1/blob/master/d%C3%A6mi/9V_DC_motor_tip120.png)
+1. tengdu eins og í mynd, DC mótor og [transistor](https://www.instructables.com/Transistors/) (td. PN2222 eða TIP120) sem er notaður til að kveikja og slökkva á mótor. <br> ![Mynd](https://github.com/eirben/VESM1/blob/master/d%C3%A6mi/9V_DC_motor_tip120.png)
 2. keyrðu svo eftirfarandi kóða.
 ``` C
 #define pwm 9
@@ -62,7 +66,7 @@ void loop() {
 ```
 3. Prófaðu að breyta gildunum í analogWrite(), gildin eru frá 0 - 255.
 
-Sjá einnig: [Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors), Hér er [diode](https://www.instructables.com/Diodes/) notuð til að koma í veg fyrir að rafmagn fari í öfuga átt, diode þarf svo viðnám ein sog LED.
+Sjá einnig: [Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors), Hér er [diode](https://www.instructables.com/Diodes/) notuð til að koma í veg fyrir að rafmagn fari í öfuga átt, diode þarf svo viðnám (einsog LED).
 
 ---
 
