@@ -14,9 +14,7 @@
 1. Settu upp á brauðbretti með Arduino og stilltu servo **með kóða** í upphafstöðu (90 gráður), kóðinn á að vera í `setup()`. Leiðréttu arminn (taka af og setja aftur á), láttu hann vísa fram (90 gráður).
 1. Láttu Servo **með kóða** færir sig í þrjár stöður; fyrst í 0 gráður svo 180 gráður og að lokum í 90 gráður (ekki endurtekning).
 1. Keyrðu [`sweep`](https://lastminuteengineers.com/servo-motor-arduino-tutorial/#arduino-code-sweep) kóðann frá 45 til 135 gráður fram og aftur.  
-<!--
-1. Stýrðu tvo Servo með [PCA9685 16-Channel Servo Driver](https://learn.adafruit.com/16-channel-pwm-servo-driver), sjá [leiðbeiningar](https://dronebotworkshop.com/servo-motors-with-arduino/#PCA9685_Servo_Driver_Board). 
--->
+
 
 **Ítarefni:**
 - [Using Servo Motors with the Arduino](https://dronebotworkshop.com/servo-motors-with-arduino/).
@@ -72,6 +70,12 @@ Sjá einnig: [Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-
 1. Til að geta stýrt hraða og snúningsátt á DC mótor með kóða, fylgdu [Interface L298N DC Motor Driver Module with Arduino](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/) og settu upp á Breadboard en bara með einn 6V DC mótor. 
 1. Passaðu að tengja allt rétt, láttu yfirfara teningar frá félaga og stillingar á aflgjafa; 8V og 250mA (max) straum. 
 1. Aðlagaðu kóðann að einum DC mótor, taktu út forlykkjur og notaðu sama gildi fyrir hraðastillingu.
+
+---
+
+### 5. PCA9685 Servo Driver (valkvæmt)
+
+Stýrðu tvo Servo með [PCA9685 16-Channel Servo Driver](https://dronebotworkshop.com/servo-motors-with-arduino/#PCA9685_Servo_Driver_Board) sem þú færð frá kennara að láni. 
 
 ---
 
