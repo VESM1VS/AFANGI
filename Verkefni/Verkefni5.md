@@ -78,7 +78,7 @@ Búið til public Github geymslu (repository) og skrifið skýrslu í `readme.md
 
 ## Námsmat og skil
 Einkunn byggir á útfærslum á ofangreindum matsþáttum og vinnuframlagi sem á sér stað í kennslustund.<br>
-Fyrir hverja kennslulotu (2 klst) í skóla sem nemandi mætir ekki, dregst **0.5** aukalega frá einkunn hjá viðkomandi.
+Fyrir hverja kennslulotu (2 klst) í skóla sem nemandi mætir ekki, dregst **0.5** frá einkunn hjá viðkomandi.
 
 - Yfirferð og námsmat á sér stað í tíma.
 - Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er ábótavant og ekkert ef hann vantar.
