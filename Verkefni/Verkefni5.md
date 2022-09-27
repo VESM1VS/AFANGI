@@ -38,7 +38,7 @@ Hér er sýnt hvernig hægt er að vinna með PVC rör og einn mótor til að ge
 - Ruggandi (upp/niður): [Rockin Corpse](https://www.youtube.com/watch?v=x_cv7uOKOZo&ab_channel=deoblo85)
 - Ruggandi (fram og aftur) og snúa haus: [The Watcher Prop](https://www.youtube.com/watch?v=M9avbEOjebE&ab_channel=deoblo85)
 - Að hræra í pott: [Cauldron creep](https://www.youtube.com/watch?v=4t6pAuB6jDY), [leiðbeiningar](http://devilschariot.blogspot.com/)
-- Fram og aftur (skæri): [Zombie clown](https://www.youtube.com/watch?v=Cjkal0K9-PI&ab_channel=deoblo85) , [part 1 ](https://www.youtube.com/watch?v=z1G8xuvyhHk&ab_channel=deoblo85) , [part 2](https://www.youtube.com/watch?v=dj2RxPFyLcM&ab_channel=deoblo85)
+- _Fram og aftur (skæri): [Zombie clown](https://www.youtube.com/watch?v=Cjkal0K9-PI&ab_channel=deoblo85) , [part 1 ](https://www.youtube.com/watch?v=z1G8xuvyhHk&ab_channel=deoblo85) , [part 2](https://www.youtube.com/watch?v=dj2RxPFyLcM&ab_channel=deoblo85)_
 
 <!--
 - Flókið: [DIY Legion Prop one motor, 6 movements (linkage og latex)](https://www.youtube.com/watch?v=Bv3bVVeowyg)
