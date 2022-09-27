@@ -1,0 +1,1 @@
+## Myndir af samsettningum, festingum 
