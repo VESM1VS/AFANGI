@@ -12,9 +12,9 @@ Driver for DFPlayer Mini from DFRobot:     https://www.arduino.cc/reference/en/l
  *  Gæti kannski þurft 1K viðnám í TX (port 11 á Arduino) til að lagfæra hljóð (ég þurfti það ekki)
 
  Helstu aðgerðir með DFPlayer safninu:
- * myDFPlayer.volume(10);  // Set volume value. From 0 to 30
- * myDFPlayer.volumeUp(); //Volume Up
- * myDFPlayer.volumeDown(); //Volume Down
+ * myDFPlayer.volume(10);   // Set volume value. From 0 to 30
+ * myDFPlayer.volumeUp();   // Volume Up
+ * myDFPlayer.volumeDown(); // Volume Down
 
  * myDFPlayer.play(1);     // Play first mp3
  * myDFPlayer.next();      // Play next mp3
@@ -38,18 +38,20 @@ DFRobotDFPlayerMini myDFPlayer;
 
 void setup()
 {
-  mySoftwareSerial.begin(9600);  // Use softwareSerial to communicate with mp3.
+  mySoftwareSerial.begin(9600);  // notum softwareSerial í samskiptum við mp3.
   if (!myDFPlayer.begin(mySoftwareSerial)) {    
     while(true);
   }
-  myDFPlayer.volume(10);  // Set volume value. From 0 to 30
+  myDFPlayer.volume(10);  // Hljóðstyrkur (volume) frá 0 til 30
 }
 
-void loop() {
-  playSound();  // spila mp3 hljóðskrá
+void loop() 
+{
+  playSound();  // spila hljóð.
 }    
 
-void playSound(){
-   myDFPlayer.play(1);     // Play the first mp3  
-   delay(4000);            // leyfum hljóðskrá að klárast, 4 sekúndur.
+void playSound()
+{
+   myDFPlayer.play(1);     // spilum fyrsta mp3 á SD kortinu.
+   delay(4000);            // leyfum hljóðskrá að klárast, tekur 4 sekúndur. 
 }
