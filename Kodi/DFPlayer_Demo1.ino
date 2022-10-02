@@ -9,7 +9,9 @@ Driver for DFPlayer Mini from DFRobot:     https://www.arduino.cc/reference/en/l
  *  Hátalarar (3W 4 Ohm): Tengdu rauðu víra í SPK1 og svörtu í SPK2.  
  *  Með þessari lausn er notað DFRobotDFPlayerMini driver/safnið, hægt að sækja via Library Manager
  *  Aftengdu pinna [RX] á meðan þú setur inn (upload) forrit á Arduino. 
- *  Gæti kannski þurft 1K viðnám í TX (port 11 á Arduino) til að lagfæra hljóð (ég þurfti það ekki)
+ *  Þarft líklegast 1K viðnám í TX (port 11 á Arduino) til að lagfæra hljóð (ég þurfti það ekki)
+ *  (Með 1K viðnám í RX er hægt að lækka enn frekar í hátalara.)
+
 
  Helstu aðgerðir með DFPlayer safninu:
  * myDFPlayer.volume(10);   // Set volume value. From 0 to 30
