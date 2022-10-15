@@ -1,7 +1,7 @@
 # Tímaverkefni 5
 
 - 35% af heildareinkunn
-- Hópverkefni (3 saman)
+- Hópverkefni (4 saman)
 
 
 ---
@@ -16,7 +16,7 @@
 
 1. Fígúra á að innihalda samsettar hreyfingar: 
    1. ólínuleg hreyfing á búk og höndum t.d. vagga, upp/niður, fram/aftur (DC motor). **(20%)**
-   1. 1-2 axis gimbal hreyfing á háls með haus, höndum eða olnboga (servos). **(20%)** 
+   1. 1-3 axis gimbal hreyfing á háls með haus, höndum eða olnboga (servos). **(20%)** 
    1. hljóðvinnsla og samhæfing hreyfingu á munn (micro servo) við hljóð **(20%)**
 1. Triggerútfærsla (þrýstiplata eða PIR). **(10%)**
 1. Forritun á senu (samhæfing á hreyfingum) **(20%)**
@@ -37,10 +37,13 @@ Hér er sýnt hvernig hægt er að vinna með PVC rör og einn mótor til að ge
 - Hliðarhreyfing (standandi):[Leering Skeleton](https://www.youtube.com/watch?v=Kyi7D8PKBPQ&ab_channel=deoblo85)
 - Ruggandi (upp/niður): [Rockin Corpse](https://www.youtube.com/watch?v=x_cv7uOKOZo&ab_channel=deoblo85)
 - Ruggandi (fram og aftur) og snúa haus: [The Watcher Prop](https://www.youtube.com/watch?v=M9avbEOjebE&ab_channel=deoblo85)
+
+<!--
+
 - Að hræra í pott: [Cauldron creep](https://www.youtube.com/watch?v=4t6pAuB6jDY), [leiðbeiningar](http://devilschariot.blogspot.com/)
 - _Fram og aftur (skæri): [Zombie clown](https://www.youtube.com/watch?v=Cjkal0K9-PI&ab_channel=deoblo85) , [part 1 ](https://www.youtube.com/watch?v=z1G8xuvyhHk&ab_channel=deoblo85) , [part 2](https://www.youtube.com/watch?v=dj2RxPFyLcM&ab_channel=deoblo85)_
 
-<!--
+
 - Flókið: [DIY Legion Prop one motor, 6 movements (linkage og latex)](https://www.youtube.com/watch?v=Bv3bVVeowyg)
 - [Shiatsu (nuddtæki) Zombie Halloween Prop Full Build](https://www.youtube.com/watch?v=U79K-0LTPQw&ab_channel=Montclair%27sLair)
 - [Omars Haunted Trail](http://omarshauntedtrail.com/Props/props.htm)
@@ -51,17 +54,18 @@ Hér er sýnt hvernig hægt er að vinna með PVC rör og einn mótor til að ge
 ### Dæmi um verkþætti og skiptingu
 
 1. Búkur 
-   1. samsettning og hreyfing á búk og limum með mótor 
-   1. forritun á hreyfingu
-1. Samsettning og forritun á kveikju (trigger) 
-1. Hljðvinnsla (tal, öskur eða söngur) og bakgrunnshljóð.
+   1. samsettning og hreyfing á búk með DC mótor 
+   1. forritun á búkhreyfingu
 1. Haus
-   1. samsettning a haus og hálsliðum með servos (3 axis haus hreyfing).
-   1. munnhreyfing og forritun á tali eða söng útfrá hljóðskrá.
-   1. LED í augu (og hreyfing á þeim).
+   1. Hreyfing á kjálka (nota servo tester)
+   1. Seja LED í augun (og hreyfing á þeim).
+   1. Hljóðvinnsla (tal, öskur eða söngur).
+   1. Forritun munnhreyfingar útfrá hljóðskrá.
+1. Önnur liðamót (háls, axlir, olnbogi, úlnliður)
+1. Samsettning og forritun á kveikju (trigger) 
 1. Forritun á senu (allt kemur saman).
 1. Útlit á fígúru og frágangur (grind, klæðnaður, hendur).
-1. Klára skýrslu.
+1. Gera skýrslu.
 
 
 ---
@@ -69,7 +73,7 @@ Hér er sýnt hvernig hægt er að vinna með PVC rör og einn mótor til að ge
 ## Skýrsla 
 Búið til public Github geymslu (repository) og skrifið skýrslu í `readme.md` sem innheldur eftirfarandi: 
 
-1. Tengil á myndband (hýst á youtube) af virkni og notkun. 
+1. Myndband af virkni og notkun. 
 1. Stutt lýsing, efni notað ásamt mælingum, höfundar og heimildir.
 1. Ljósmyndir af mekaník, samsettningu og fígúru.
 1. Kóði.
