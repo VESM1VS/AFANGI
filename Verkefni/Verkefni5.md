@@ -62,10 +62,12 @@ Hér er sýnt hvernig hægt er að vinna með PVC rör og einn mótor til að ge
    1. Hljóðvinnsla (tal, öskur eða söngur).
    1. Forritun munnhreyfingar útfrá hljóðskrá.
 1. Önnur liðamót (háls, axlir, olnbogi, úlnliður)
-1. Samsettning og forritun á kveikju (trigger) 
-1. Forritun á senu (allt kemur saman).
-1. Útlit á fígúru og frágangur (grind, klæðnaður, hendur).
-1. Gera skýrslu.
+   1. Samsettning og hreyfing á liðamótum (háls, axlir, olnbogi, úlnliður) með servós.
+   1. Forritun á 1-3 axis gimbal hreyfingum.  
+3. Samsettning og forritun á kveikju (trigger) 
+4. Forritun á senu (allt kemur saman).
+5. Útlit á fígúru og frágangur (grind, klæðnaður, hendur).
+6. Gera skýrslu.
 
 
 ---
