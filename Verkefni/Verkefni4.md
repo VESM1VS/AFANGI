@@ -35,13 +35,13 @@ Spurningar
 1. Skoðaðu e. datasheet á [6V Hobby DC mótor](https://www.robotshop.com/media/files/pdf/datasheet-711.pdf). 
 1. Lærðu að stilla og nota aflgjafann (Power Supply) sem er á borðinu með hjálp kennara. Og stilltu hann í samræmi við þolmörk DC mótors.
 1. Tengdu DC mótorinn við spennugjafa (NICE-POWER), tengdu + rauður og - svartur við dc mótorinn. 
-1. Hafðu V takkan (spennu) í neðstu stöðu á aflgjafa þ.e 0, snúðu V takkanum hægt uppá við að 9V (max) og 250mA. Hvað gerðist?
+1. Hafðu V takkan (spennu) í neðstu stöðu á aflgjafa þ.e 0, snúðu V takkanum hægt uppá við að **6V** (max) og **250mA**. Hvað gerðist?
 1. Víxlaðu + og - á mótor og endurtaktu. Hvað gerðist?
 
 <!-- Stall current is the highest current that the motor can draw (under maximum torque load) -->
 
 ---
-
+<!--
 ### 3. DC mótor og Arduino (20%)
 
 1. tengdu eins og í mynd, DC mótor og _TIP120_ [transistor](https://www.instructables.com/Transistors/) en hann er notaður til að kveikja og slökkva á mótornum. <br> ![Mynd](https://github.com/eirben/VESM1/blob/master/d%C3%A6mi/9V_DC_motor_tip120.png)
@@ -65,15 +65,15 @@ void loop() {
 Sjá einnig: [Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors). [Diode](https://www.instructables.com/Diodes/) notuð til að koma í veg fyrir að rafmagn fari í öfuga átt, diode þarf svo viðnám (einsog LED).
 
 ---
-
-### 4. DC mótor og L298N DC Motor Driver (30%)
+-->
+### 3. DC mótor og L298N DC Motor Driver (30%)
 1. Til að geta stýrt hraða og snúningsátt á DC mótor með kóða, fylgdu [Interface L298N DC Motor Driver Module with Arduino](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/) og settu upp á Breadboard en bara með einn 6V DC mótor. 
 1. Passaðu að tengja allt rétt, láttu yfirfara teningar frá félaga og stillingar á aflgjafa; 8V og 250mA (max) straum. 
 1. Aðlagaðu kóðann að einum DC mótor, taktu út forlykkjur og notaðu sama gildi fyrir hraðastillingu.
 
 ---
 
-### 5. PCA9685 Servo Driver (valkvæmt)
+### 4. PCA9685 Servo Driver (20%)
 
 Stýrðu tvo Servo með [PCA9685 16-Channel Servo Driver](https://dronebotworkshop.com/servo-motors-with-arduino/#PCA9685_Servo_Driver_Board) sem þú færð frá kennara að láni. 
 
