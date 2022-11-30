@@ -1,6 +1,6 @@
 # Efni fyrir forritun Arduino í lokaverkefni
 
-Kóðasafnið fyrir TDelay má finna [hér (zip skrá)]().
+Kóðasafnið fyrir TDelay má finna [hér (zip skrá)](https://github.com/VESM1VS/AFANGI/raw/main/Kodi/tdelay.zip).
 
 ## Blikkandi LED
 
