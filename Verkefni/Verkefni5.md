@@ -19,7 +19,7 @@
    1. 1-3 axis gimbal hreyfing á háls með haus, höndum eða olnboga (servos). **(20%)** 
    1. hljóðvinnsla og samhæfing hreyfingu á munn (micro servo) við hljóð **(20%)**
 1. Triggerútfærsla (þrýstiplata eða PIR). **(10%)**
-1. Forritun á senu (samhæfing á hreyfingum) **(20%)**
+1. [Forritun](../Kennsluefni/forritun_lokaverkefni.md) á senu (samhæfing á hreyfingum) **(20%)**
 1. Útlit (led í augu, klæðnaður osfrv.) á fígúru. **(10%)**
 
 ---
