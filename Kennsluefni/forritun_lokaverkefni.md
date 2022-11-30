@@ -14,3 +14,7 @@ Kóðasafnið fyrir TDelay má finna [hér (zip skrá)](https://github.com/VESM1
 - [Einn Servo mótor - 0° til 180° til 0° (sweep)](https://wokwi.com/projects/349792066153218642)
 - [Tveir Servo mótorar - sweep á misjöfnum hraða](https://wokwi.com/projects/349794862688633427)
 - [Servo, Sonic og LED, Servo og LED stjórnast með Sonic](https://wokwi.com/projects/349337061426201170)
+
+## MP3 spilari
+
+- [Kóðadæmi](../Kodi/DFPlayer_Demo2.ino)
