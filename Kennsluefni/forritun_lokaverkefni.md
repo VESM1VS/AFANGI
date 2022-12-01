@@ -40,3 +40,10 @@ Kóðasafnið fyrir TDelay má finna [hér (zip skrá)](https://github.com/VESM1
 ## MP3 spilari
 
 - [Kóðadæmi](../Kodi/DFPlayer_Demo2.ino)
+
+## DC mótor
+
+Tengimynd og [kóði](../Kodi/einn_dc_l298n.ino):
+
+![dc mótor og L298N](./einn_dc_l298n.png)
+
