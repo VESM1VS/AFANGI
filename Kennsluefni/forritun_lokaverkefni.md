@@ -8,7 +8,7 @@ TDelay leysir þetta en þó með aðeins annarri virkni. Þannig að í stað �
 
 Notkun:
 
-1. Búa til breytu af taginu TDelay (t.d.): `TDelay led_delay(1000);` breytan `led_delay` er þá með innbyggðan teljari sem kláras á 1000 ms.
+1. Búa til breytu af taginu TDelay (t.d.): `TDelay led_delay(1000);` breytan `led_delay` er þá með innbyggðan teljari sem klárast á 1000 ms.
 2. Spyrja breytuna hvort tíminn er liðinn með fallinu `timiLidinn()` sem skilar `true` ef tíminn er liðinn annars `false` (t.d.): `if(led_delay.timiLidinn() == true) { /* gera það sem á að gera þegar biðtíminn er liðinn */ }`.
 3. Ef þarf þá má breyta biðtímanum með fallinu `setBidtimi(nýr biðtími)` (t.d.): `led_delay.setBidtimi(1500)`, biðtíminn er núna 1500 ms.
 
