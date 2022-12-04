@@ -43,7 +43,7 @@ Kóðasafnið fyrir TDelay má finna [hér (zip skrá)](https://github.com/VESM1
 
 ## Ultrasonic fjarlægðarmælir
 
-Til að ákveða hvenær hreyfingarnar eiga að byrja má nota [HC-SR04 Ultrasonic](https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/) fjarlægðarskinjarann.
+Til að ákveða hvenær hreyfingarnar eiga að byrja má nota [HC-SR04 Ultrasonic](https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/) fjarlægðarskynjarann.
 
 Sýnikóði er [hér](../Kodi/ultrasonic.ino).
 
