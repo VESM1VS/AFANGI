@@ -41,6 +41,12 @@ Kóðasafnið fyrir TDelay má finna [hér (zip skrá)](https://github.com/VESM1
 
 - [Kóðadæmi](../Kodi/DFPlayer_Demo2.ino)
 
+## Ultrasonic fjarlægðarmælir
+
+Til að ákveða hvenær hreyfingarnar eiga að byrja má nota [HC-SR04 Ultrasonic](https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/) fjarlægðarskinjarann.
+
+Sýnikóði er [hér](../Kodi/ultrasonic.ino).
+
 ## DC mótor
 
 Tengimynd og [kóði](../Kodi/einn_dc_l298n.ino):
