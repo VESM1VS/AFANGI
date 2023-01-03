@@ -1,4 +1,4 @@
-## Tímaverkefni 2
+## Tímaverkefni 2 - **Í vinnslu**
 **ATH** Kerf og stærð á on/off takka
 
 - 10% af heildareinkunn.
