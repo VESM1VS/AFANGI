@@ -1,13 +1,13 @@
 ## Tímaverkefni 4
 
-- 8% af heildareinkunn áfanga.
+- 15% af heildareinkunn áfanga.
 - einstaklingsverkefni.
 
 ---
 
 Í þessu verkefni ætlum við að kynnast og vinna með [mótora](https://www.instructables.com/Motors-and-Motion/).
 
-### 1. Servo (40%)
+### 1. Servo (30%)
 1. Lestu eftirfarandi um [servo](https://www.instructables.com/Servo-A-Go-Go/) mótora.
 1. Kynntu þér hvernig servo virkar með að lesa [How Servo Motor Works & Interface It With Arduino](https://lastminuteengineers.com/servo-motor-arduino-tutorial/).
 1. Tengdu servo við [Servo tester](https://www.allelectronics.com/item/str-110/servo-tester/1.html), sjá [hér](https://www.youtube.com/watch?v=--bpb485i1Q) leiðbeiningar. Notaðu Arduino sem aflgjafa og prófaðu svo testerinn.
@@ -66,16 +66,22 @@ Sjá einnig: [Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-
 
 ---
 -->
-### 3. DC mótor og L298N DC Motor Driver (30%)
+### 3. DC mótor og L298N DC Motor Driver (20%)
 1. Til að geta stýrt hraða og snúningsátt á DC mótor með kóða, fylgdu [Interface L298N DC Motor Driver Module with Arduino](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/) og settu upp á Breadboard en bara með einn 6V DC mótor. 
 1. Passaðu að tengja allt rétt, láttu yfirfara teningar frá félaga og stillingar á aflgjafa; 8V og 250mA (max) straum. 
 1. Aðlagaðu kóðann að einum DC mótor, taktu út forlykkjur og notaðu sama gildi fyrir hraðastillingu.
 
 ---
 
+
+### 4. Stýrðu Servo og DC samtímis. (30%)
+
+<!--
 ### 4. PCA9685 Servo Driver (20%)
 
 Stýrðu tvo Servo með [PCA9685 16-Channel Servo Driver](https://dronebotworkshop.com/servo-motors-with-arduino/#PCA9685_Servo_Driver_Board) sem þú færð frá kennara að láni. 
+-->
+
 
 ---
 
