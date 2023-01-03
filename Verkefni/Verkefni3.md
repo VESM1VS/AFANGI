@@ -1,4 +1,4 @@
-## Tímaverkefni 3
+## Tímaverkefni 3 - **Í vinnslu**
 
 - 25% af heildareinkunn.
 - einstaklingsverkefni
