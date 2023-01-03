@@ -1,6 +1,6 @@
 ## Tímaverkefni 1
 
-- 12% af heildareinkunn áfanga.
+- 15% af heildareinkunn áfanga.
 - einstaklingsverkefni.
 
 
