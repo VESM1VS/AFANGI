@@ -136,8 +136,9 @@ Með 9V batterí. Hvað getum við hliðtengt margar rauðar led perur ef við v
 ---
 
 ## Námsmat og skil
-Yfirferð og námsmat á sér stað í tímum úr ofangreindum liðum. 
-
+- Yfirferð og námsmat á sér stað í tímum úr ofangreindum liðum. 
+- Skilið útreikingum á Innu.
+-
 <!--
 Eftirfarandi er metið í tíma útfrá verklegum tilraunum og skilningi nemanda:
 1. Getur sett upp raðtengda lokaða rás (viðnám, LED) á breadboad.
