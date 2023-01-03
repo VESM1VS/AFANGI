@@ -1,4 +1,4 @@
-# Tímaverkefni 5
+# Tímaverkefni 5 - **Í vinnslu**
 
 - 35% af heildareinkunn
 - Hópverkefni (4 saman)
