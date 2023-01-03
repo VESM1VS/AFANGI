@@ -137,7 +137,7 @@ Með 9V batterí. Hvað getum við hliðtengt margar rauðar led perur ef við v
 
 ## Námsmat og skil
 - Yfirferð og námsmat á sér stað í tímum úr ofangreindum liðum. 
-- Skilið útreikingum á Innu.
+- Skilið svörum á Innu.
 -
 <!--
 Eftirfarandi er metið í tíma útfrá verklegum tilraunum og skilningi nemanda:
