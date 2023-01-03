@@ -5,7 +5,7 @@
 
 ---
 
-### 1 Logo (25%)
+### Undirbúningur  
 Hannaðu með Inkscape eigið SVG logo. sjá [2D hönnun](https://github.com/VESM1VS/AFANGI/wiki/2D-h%C3%B6nnun) og [Logo design tutorials](https://www.youtube.com/playlist?list=PLynG8gQD-n8DUEHPGKj3fgQUSwIYyU7dk). 
 
 #### Eftirfarandi þarf að nota við gerð logo-s:
@@ -18,18 +18,17 @@ Notaðu lög (e. layer) og síur (e. filter) eftir þörfum. Vistaðu Logo með 
 
 ---
 
-### 2 Nafnspjald (25%)
+### 1. Nafnspjald (50%)
 
 Nafnspjald er unnið í Inkscape og [laserskorið](https://github.com/VESM1VS/AFANGI/wiki/Laserskur%C3%B0ur).
 
 1. Settu auðkenni þitt á nafnspjald.
-1. Settu logo á nafnspjald. 
 1. Búðu til línu eða holu sem á að fara í gegn á nafnspjaldi með laserskurð
 
 
 ---
 
-### 3 Simon Says box (50%)
+### 2. Simon Says box (50%)
 
 Hannaðu með Inkscape **box** fyrir Simon Says. Boxið veðrur laserskorið í plexigler.
    1. Notaðu [Tabbed Box Maker](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/TabbedBoxMaker.md) viðbótina og eftirfarandi [stillingar](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/TabbedBox_stilling_SimonSays_Plexigler.jpg).
