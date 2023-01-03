@@ -1,6 +1,6 @@
 ## Tímaverkefni 3
 
-- 35% af heildareinkunn.
+- 25% af heildareinkunn.
 - einstaklingsverkefni
 
 ---
@@ -45,7 +45,7 @@
 Búðu til public Github geymslu (repository) með heitinu SimonSays og skrifaðu skýrsluna í `readme.md` með [markdown](https://www.markdownguide.org/cheat-sheet/) <br>
 Skýrslan þarf að innihalda eftirfarandi:
 
-1. Stutt verkefnalýsing, höfundur.
+1. Höfundur.
 1. Tengil á myndband af virkni (spilun) lokafurðar.
 1. Ljósmyndir af lokaafurð (inní kassa og utan)
 1. Ljósmyndir af lóðun (báðar hliðar).
