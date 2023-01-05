@@ -17,7 +17,7 @@ Verklegar tilraunir í kennslustund með; rafmagn, raðtengdar- og hliðtengdar 
 ---
 
 #### 2. Raðtengd lokuð rás.*
-Fáðu rauða [LED peru](https://www.instructables.com/Diodes/) til að loga á [brauðbretti](https://learn.adafruit.com/collins-lab-breadboards-and-perfboards) með einu 220 ohm [viðnámi](https://www.instructables.com/lesson/Resistors/) og 5V aflgjafa (Arduino) [raðtengdri](https://github.com/VESM1VS/afangi/wiki/Rafeindat%C3%A6kni#ra%C3%B0teng-r%C3%A1s) lokaðri rás. <br> 
+Fáðu rauða [LED](https://www.instructables.com/Diodes/) til að loga á [brauðbretti](https://learn.adafruit.com/collins-lab-breadboards-and-perfboards) með einu 220 ohm [viðnámi](https://www.instructables.com/lesson/Resistors/) og 5V aflgjafa (Arduino) [raðtengdri](https://github.com/VESM1VS/afangi/wiki/Rafeindat%C3%A6kni#ra%C3%B0teng-r%C3%A1s) lokaðri rás. <br> 
 1. Prófaðu að færa til viðnámið í rásinni.
 1. Prófaðu að skipta út viðnáminu í rásinni fyrir eitthvað annað, er einhver munur á birtunni?
 
