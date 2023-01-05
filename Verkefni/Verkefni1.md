@@ -21,8 +21,6 @@ Fáðu rauða [LED peru](https://www.instructables.com/Diodes/) til að loga á 
 1. Prófaðu að færa til viðnámið í rásinni.
 1. Prófaðu að skipta út viðnáminu í rásinni fyrir eitthvað annað, er einhver munur á birtunni?
 
-Ef þú lendir í vanda skoðaðu þá [algeng mistök](https://github.com/VESM1VS/AFANGI/wiki/Rafeindat%C3%A6kni#brau%C3%B0bretti-og-led-pera-algeng-mist%C3%B6k). 
-
 ---
 
 #### 3. LED datasheet.
