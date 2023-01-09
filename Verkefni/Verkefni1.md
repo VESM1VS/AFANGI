@@ -70,7 +70,7 @@ Voltage across a resistor (volts) = Current through the resistor (amp) * The Res
 Horfðu á eftirfarandi [myndband](https://www.youtube.com/watch?v=EQtwsWJuUPs&list=PLRIGIzu0Z7KlfGFD6gd0eMX0ozfJyrQL-&index=6&t=0s).
 
 1. Settu upp raðtengda rás með 5V spennugjafa (Arduino), R1 = 1K og R2 = 220.  
-1. Reiknaðu út hvert spennufallið (Voltage drop) er á R1 og R2.
+1. Reiknaðu út strauminn og hvert spennufallið (Voltage drop) er á R1 og R2.
 1. Mældu spennufallið á R1 og R2.
 
 ---
