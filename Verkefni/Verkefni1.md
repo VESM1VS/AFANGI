@@ -58,7 +58,7 @@ Raðtengdu tvær rauðar LEDs með einu 220 ohm viðnámi og Arduino sem spennug
 
 #### 7. Ohms lögmálið. 
 
-Lestu um [Ohms law](https://learn.adafruit.com/all-about-leds/forward-voltage-and-kvl#ohms-law-641044-8) `Spenna (V) = Straumur (I) * Viðnám (R)`. <br>
+Lestu um [Ohms law](https://learn.adafruit.com/all-about-leds/forward-voltage-and-kvl#ohms-law-641044) `Spenna (V) = Straumur (I) * Viðnám (R)`. <br>
 Voltage across a resistor (volts) = Current through the resistor (amp) * The Resistance of the resistor (ohms). <br>
 
 1. Með 5V sem aflgjafa og 220 ohm viðnám á brauðbretti í lokaðri raðtengdri rás. Hver er straumurinn? Reiknaðu það út með Ohm`s lögmálinu. Mundu að breyta [mA](https://github.com/VESM1VS/afangi/wiki/Rafeindat%C3%A6kni#margfaldarar) í Amp fyrir útreikninga. 
