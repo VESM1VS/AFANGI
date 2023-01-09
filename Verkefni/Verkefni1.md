@@ -95,6 +95,10 @@ Kraftur (power) er mældur í wöttum (W). Pera sem dæmi myndar ljós og hita o
 
 1. Hvert er orkutapið í wöttum (W) í rás með 5V spennugjafa og 220R? 
 
+<!-- 
+Ef ég tengi 9V batterí sem gefur 500mA straum við 50W peru. Hve marga klst getur peran gefið birtu?
+-->
+
 ---
 
 #### 12. skammhlaup (e. short circuit).
