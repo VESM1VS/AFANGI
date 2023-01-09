@@ -91,7 +91,7 @@ Notaðu [LED Series Resistor Calculator](https://www.digikey.com/en/resources/co
 ---
 
 #### 11. Kraftur. (W) 
-Kraftur (power) er mældur í wöttum (W). Pera sem dæmi myndar ljós og hita og er mæld í W. Annað dæmi um mælingu í W eru orkugjafar t.d. batterí. Í rafrás þá er kraftur (vinna yfir tíma) mæling á orkugjafa eða orkutapi í rás í formi t.d hita, ljós eða hreyfingar. Formúlan til að reikna út kraft er `W = V * I`, nánari skýring [myndband](https://www.youtube.com/watch?v=fQGjzxNY_mY&ab_channel=MichelvanBiezen) og [vefgrein](https://www.electronics-tutorials.ws/dccircuits/dcp_2.html).
+Kraftur (power) er mældur í wöttum (W). Pera sem dæmi myndar ljós og hita og er mæld í W. Annað dæmi um mælingu í W eru orkugjafar t.d. batterí. Í rafrás þá er kraftur (vinna yfir tíma) mæling á orkugjafa eða orkutapi í rás í formi t.d hita, ljós eða hreyfingar. Formúlan til að reikna út kraft er `W = V * I`, nánari skýring [myndband](https://www.youtube.com/watch?v=fQGjzxNY_mY&ab_channel=MichelvanBiezen).
 
 1. Hvert er orkutapið í wöttum (W) í rás með 5V spennugjafa og 220R? 
 
