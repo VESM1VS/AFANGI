@@ -122,7 +122,7 @@ Með Arduino sem aflgjafa og hliðtengd rás með tveimur greinum, önnur greini
 ---
 
 #### 15. Hliðtengd rás með LEDs 
-Í [myndbandinu sem sýnir LED Matrix](https://youtu.be/G4lIo-MRSiY?list=PLJse9iV6Reqgy8sdjBwKDwihQdbSxbcNg&t=412) eru 8 LEDS hliðtengd með 220 ohm viðnám hvert til að allar LEDs gefi frá sér þokkalega birtu og 13,6 mA straum. En hvað þarf spennan og heildarstraumurinn að vera frá orkugjafanum? Sýndu útreikninga.
+Í [myndbandinu sem sýnir LED Matrix](https://youtu.be/G4lIo-MRSiY?list=PLJse9iV6Reqgy8sdjBwKDwihQdbSxbcNg&t=412) eru 8 LEDS hliðtengd með 220 ohm viðnám hvert til að allar LEDs gefi frá sér þokkalega birtu og 13,6 mA straum. En hvað þarf spennan og heildarstraumurinn að vera frá orkugjafanum? 
 
 
 <!-- 
