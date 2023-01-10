@@ -75,7 +75,7 @@ Horfðu á eftirfarandi [myndband](https://www.youtube.com/watch?v=EQtwsWJuUPs&l
 
 ---
 
-#### 9. Ohm`s lögmálið í raðtengdri rafrás með viðnámi og LED.
+#### 9. Ohm`s lögmálið í raðtengdri rafrás með viðnámi og LED.*
 
 1. Settu upp raðtengda rás með Arduino (5V) og [reiknaðu](https://learn.adafruit.com/all-about-leds/forward-voltage-and-kvl#solving-for-the-current-641048) út strauminn útfrá mælingu á spennufallinu á viðnáminu (220 ohm) og rautt LED. 
 
