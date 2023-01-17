@@ -1,5 +1,4 @@
 ## Tímaverkefni 2 
-**ATH** Kerf og stærð á on/off takka
 
 - 10% af heildareinkunn.
 - einstaklingsverkefni
@@ -30,6 +29,7 @@ Nafnspjald er unnið í Inkscape og [laserskorið](https://github.com/VESM1VS/AF
 ---
 
 ### 2. Simon Says box (50%)
+**ATH:** Kerf, stærð á on/off takka
 
 Hannaðu með Inkscape **box** fyrir Simon Says. Boxið veðrur laserskorið í plexigler.
    1. Notaðu [Tabbed Box Maker](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/TabbedBoxMaker.md) viðbótina og eftirfarandi [stillingar](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/TabbedBox_stilling_SimonSays_Plexigler.jpg).
