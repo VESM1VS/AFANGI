@@ -6,8 +6,8 @@
 
 ---
 
-### Undirbúningur  
-Hannaðu með Inkscape eigið SVG logo. sjá [2D hönnun](https://github.com/VESM1VS/AFANGI/wiki/2D-h%C3%B6nnun) og [Logo design tutorials](https://www.youtube.com/playlist?list=PLynG8gQD-n8DUEHPGKj3fgQUSwIYyU7dk). 
+### Undirbúningsvinna heima. 
+Náði í Inkscape og hannaðu eigið SVG logo. sjá [2D hönnun](https://github.com/VESM1VS/AFANGI/wiki/2D-h%C3%B6nnun) og [Logo design tutorials](https://www.youtube.com/playlist?list=PLynG8gQD-n8DUEHPGKj3fgQUSwIYyU7dk). 
 
 #### Eftirfarandi þarf að nota við gerð logo-s:
 
