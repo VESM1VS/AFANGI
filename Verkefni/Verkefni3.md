@@ -1,4 +1,4 @@
-## Tímaverkefni 3 - **Í vinnslu**
+## Tímaverkefni 3 
 
 - 25% af heildareinkunn.
 - einstaklingsverkefni
@@ -13,12 +13,12 @@
 ---
 
 ### Verkáætlun
+<!-- 1. Prófaðu að kveikja á LED með [Arduino forritun](https://github.com/VESM1VS/AFANGI/blob/main/Verkefni/ArduinoForritun.md). -->
 
 1. Settu [Arduino IDE](https://github.com/VESM1VS/Efni/blob/main/Kennsluefni/arduino_uppsetning.md) upp á tölvuna þína og settu upp *ToneLibrary* safnið.
-<!-- 1. Test: Prófaðu að kveikja á LED með [Arduino forritun](https://github.com/VESM1VS/AFANGI/blob/main/Verkefni/ArduinoForritun.md). -->
 1. Settu upp Simon Says [kóðann](https://github.com/VESM1VS/Efni/blob/main/Kodi/simon.ino) fyrir verkefnið 
 1. Setja upp á brauðbretti (frumgerð), sjá rafrásarteikningu ![mynd](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/simonFrumtengimynd.PNG)
-   1. tengdu **passive** [piezo buzzer](https://www.youtube.com/watch?v=AQIayZgeqq4) og gerðu prófun á hljóði. <!-- active er með svart tape á botni-->
+   1. tengdu **passive** [piezo buzzer](https://www.youtube.com/watch?v=AQIayZgeqq4) og gerðu prófun á hljóði, _active er með svart tape á botni_.
    1. bættu við LED og takka og gerðu prófun á honum.
    1. kláraðu uppsetninguna og prófaðu spilun.
 1. Búðu til veroborð og lóðaðu, gerðu þetta í skrefum einsog á brauðbretti (gera regluleg prófun). <!-- Ath. LED eru með innbyggt viðnám. -->
@@ -61,8 +61,8 @@ Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er að hlu
 
 1. 10% Kóðavirkni og samsettning á brauðbretti (frumgerð).
 1. 25% Lóðun á veroborði.
-1. 15% Víratengingar íhluta við veroborð og Arduino (crimp töng, lengdir á vírum og frágangur).
-1. 30% Hönnunarútfærsla á rafrás (rýmisnýting) og virkni (hægt að spila).
+1. 20% Víratengingar íhluta við veroborð og Arduino (crimp töng, lengdir á vírum og frágangur).
+1. 25% Hönnunarútfærsla á rafrás (rýmisnýting) og virkni (hægt að spila).
 1. 10% Samsetning á boxi.
 1. 10% Skýrsla.
 
