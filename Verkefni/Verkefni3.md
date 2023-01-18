@@ -61,8 +61,8 @@ Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er að hlu
 
 1. 10% Kóðavirkni og samsettning á brauðbretti (frumgerð).
 1. 25% Lóðun á veroborði.
-1. 20% Víratengingar íhluta við veroborð og Arduino (crimp töng, lengdir á vírum og frágangur).
-1. 25% Hönnunarútfærsla á rafrás (rýmisnýting) og virkni (hægt að spila).
+1. 25% Víratengingar íhluta við veroborð og Arduino (crimp töng, lengdir á vírum og frágangur).
+1. 20% Hönnunarútfærsla á rafrás (rýmisnýting) og virkni (hægt að spila).
 1. 10% Samsetning á boxi.
 1. 10% Skýrsla.
 
