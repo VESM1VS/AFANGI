@@ -3,9 +3,9 @@
 - 15% af heildareinkunn áfanga.
 - einstaklingsverkefni.
 
----
-
 Í þessu verkefni ætlum við að kynnast og vinna með [mótora](https://www.instructables.com/Motors-and-Motion/).
+
+---
 
 ### 1. Servo (20%)
 1. Lestu eftirfarandi um [servo](https://www.instructables.com/Servo-A-Go-Go/) mótora.
