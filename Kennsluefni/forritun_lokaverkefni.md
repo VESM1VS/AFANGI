@@ -23,3 +23,4 @@ Hér er dæmi um hvernig má púsla öllum íhlutunum saman og [forrita](../Kodi
 :warning: Muna að aftengja RX pinna á MP3 spilara meðan kóða er hlaðið upp (e. upload) á Arduino. 
 
 ![Samsett dæmi](./Lokaverkefni_demoverkefni.png)
+
