@@ -39,10 +39,6 @@ Spurningar
 1. Víxlaðu + og - á mótor og endurtaktu. Hvað gerðist?
 
 
-Tengimynd og [kóði](../Kodi/einn_dc_l298n.ino):
-
-![dc mótor og L298N](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/einn_dc_l298n.png)
-
 <!-- Stall current is the highest current that the motor can draw (under maximum torque load) -->
 
 ---
@@ -51,6 +47,11 @@ Tengimynd og [kóði](../Kodi/einn_dc_l298n.ino):
 1. Til að geta stýrt hraða og snúningsátt á DC mótor með kóða, fylgdu [Interface L298N DC Motor Driver Module with Arduino](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/) og settu upp á Breadboard en bara með einn 6V DC mótor. 
 1. Passaðu að tengja allt rétt, láttu yfirfara teningar frá félaga og stillingar á aflgjafa; 8V og 250mA (max) straum. 
 1. Aðlagaðu kóðann að einum DC mótor, taktu út forlykkjur og notaðu sama gildi fyrir hraðastillingu.
+
+Tengimynd og [kóði](../Kodi/einn_dc_l298n.ino):
+
+![dc mótor og L298N](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/einn_dc_l298n.png)
+
 
 ---
 
