@@ -41,8 +41,72 @@ Spurningar
 <!-- Stall current is the highest current that the motor can draw (under maximum torque load) -->
 
 ---
+
+### 3. DC mótor og L298N DC Motor Driver (20%)
+1. Til að geta stýrt hraða og snúningsátt á DC mótor með kóða, fylgdu [Interface L298N DC Motor Driver Module with Arduino](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/) og settu upp á Breadboard en bara með einn 6V DC mótor. 
+1. Passaðu að tengja allt rétt, láttu yfirfara teningar frá félaga og stillingar á aflgjafa; 8V og 250mA (max) straum. 
+1. Aðlagaðu kóðann að einum DC mótor, taktu út forlykkjur og notaðu sama gildi fyrir hraðastillingu.
+
+---
+
+### 4. Servo á mismunandi hraða en keyra samtímis með `TDelay` (20%)
+
+Vandamálið við innbyggða `delay()` fallið í Arduino er að það blokkerar (e. block) forritið sem er að keyra á Arduino-num. Það þýðir að forritið stoppar og gerir ekkert annað en að bíða eftir að tíminn sem skilgreindur er í `delay()` fallinu er liðinn. Þetta skapar vandamál ef að Arduino-inn á að vera gera eitthvað annað á meðan beðið er.
+
+TDelay leysir þetta en þó með aðeins annarri virkni. Þannig að í stað þess að bíða eftir að tíminn er liðinn þá þarf að spyrja TDelay hvort biðtíminn sé liðinn.
+
+Notkun:
+
+1. Búa til breytu af taginu TDelay (t.d.): `TDelay led_delay(1000);` breytan `led_delay` er þá með innbyggðan teljari sem klárast á 1000 ms.
+2. Spyrja breytuna hvort tíminn er liðinn með fallinu `timiLidinn()` sem skilar `true` ef tíminn er liðinn annars `false` (t.d.): `if(led_delay.timiLidinn() == true) { /* gera það sem á að gera þegar biðtíminn er liðinn */ }`.
+3. Ef þarf þá má breyta biðtímanum með fallinu `setBidtimi(nýr biðtími)` (t.d.): `led_delay.setBidtimi(1500)`, biðtíminn er núna 1500 ms.
+
+Sjá nánar um notkun í dæmunum hér fyrir neðan.
+
+<!-- 
+Dæmi:
+
+| Delay | TDelay |
+| --- | --- |
+| <pre>delay(1000);<br>digitalWrite(LED, HIGH);</pre> | <pre>if(led_delay.timiLidinn() == true) {<br>&emsp; digitalWrite(LED,HIGH)<br>}</pre>
+-->
+
+Kóðasafnið fyrir TDelay má finna [hér (zip skrá)](https://github.com/VESM1VS/AFANGI/raw/main/Kodi/tdelay.zip). Sett inn á Arduino IDE með því að fara í *Sketch->Include Library->Add .ZIP Library...*
+
+## Blikkandi LED
+
+- [Ein LED pera, blikkar á einnar sekúndu fresti.](https://wokwi.com/projects/349788528390963795)
+- [Ein LED pera, mismunandi á og af tími](https://wokwi.com/projects/349253817043255891)
+- [Þrjár LED perur, slembi (e. random) blikktími](https://wokwi.com/projects/349252429929251411)
+
+## Servo mótor
+
+- [Einn Servo mótor - (0°-90°-180°-90°-0°)](https://wokwi.com/projects/349789993741320787)
+- [Einn Servo mótor - 0° til 180° til 0° (sweep)](https://wokwi.com/projects/349792066153218642)
+- [Tveir Servo mótorar - sweep á misjöfnum hraða](https://wokwi.com/projects/349794862688633427)
+- [Servo, Sonic og LED, Servo og LED stjórnast með Sonic](https://wokwi.com/projects/349337061426201170)
+
+---
+
+### 5. Stýrðu einum Servo og einum DC samtímis. (20%)
+
+
+
+---
+
+## Námsmat og skil
+- Yfirferð og námsmat á sér stað í tíma.
+- Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er ábótavant og ekkert ef hann vantar.
+
+
 <!--
-### 3. DC mótor og Arduino (30%)
+### PCA9685 Servo Driver (20%)
+
+Stýrðu tvo Servo með [PCA9685 16-Channel Servo Driver](https://dronebotworkshop.com/servo-motors-with-arduino/#PCA9685_Servo_Driver_Board) sem þú færð frá kennara að láni. 
+-->
+
+<!--
+###  DC mótor og Arduino (20%)
 
 1. tengdu eins og í mynd, DC mótor og _TIP120_ [transistor](https://www.instructables.com/Transistors/) en hann er notaður til að kveikja og slökkva á mótornum. <br> ![Mynd](https://github.com/eirben/VESM1/blob/master/d%C3%A6mi/9V_DC_motor_tip120.png)
 2. keyrðu svo eftirfarandi kóða.
@@ -63,32 +127,7 @@ void loop() {
 3. Prófaðu að breyta gildunum í `analogWrite()`, gildin eru frá 0 - 255.
 
 Sjá einnig: [Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors). [Diode](https://www.instructables.com/Diodes/) notuð til að koma í veg fyrir að rafmagn fari í öfuga átt, diode þarf svo viðnám (einsog LED).
-
----
 -->
-### 3. DC mótor og L298N DC Motor Driver (30%)
-1. Til að geta stýrt hraða og snúningsátt á DC mótor með kóða, fylgdu [Interface L298N DC Motor Driver Module with Arduino](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/) og settu upp á Breadboard en bara með einn 6V DC mótor. 
-1. Passaðu að tengja allt rétt, láttu yfirfara teningar frá félaga og stillingar á aflgjafa; 8V og 250mA (max) straum. 
-1. Aðlagaðu kóðann að einum DC mótor, taktu út forlykkjur og notaðu sama gildi fyrir hraðastillingu.
-
----
-
-
-### 4. Stýrðu einum Servo og einum DC samtímis. (30%)
-
-<!--
-### 4. PCA9685 Servo Driver (20%)
-
-Stýrðu tvo Servo með [PCA9685 16-Channel Servo Driver](https://dronebotworkshop.com/servo-motors-with-arduino/#PCA9685_Servo_Driver_Board) sem þú færð frá kennara að láni. 
--->
-
-
----
-
-## Námsmat og skil
-- Yfirferð og námsmat á sér stað í tíma.
-- Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er ábótavant og ekkert ef hann vantar.
-
 
 <!--
 ### DC mótor og L293D mótor driver 
