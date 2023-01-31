@@ -6,17 +6,15 @@
 
 :warning: Muna að aftengja RX pinna á MP3 spilara meðan kóða er hlaðið upp (e. upload) á Arduino.
 
+---
+
 ## Ultrasonic fjarlægðarmælir
 
 Til að ákveða hvenær hreyfingarnar eiga að byrja má nota [HC-SR04 Ultrasonic](https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/) fjarlægðarskynjarann.
 
 Sýnikóði er [hér](../Kodi/ultrasonic.ino).
 
-## DC mótor
-
-Tengimynd og [kóði](../Kodi/einn_dc_l298n.ino):
-
-![dc mótor og L298N](./einn_dc_l298n.png)
+---
 
 ## Samsett dæmi
 
