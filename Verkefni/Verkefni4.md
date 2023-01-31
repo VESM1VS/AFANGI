@@ -79,13 +79,13 @@ Dæmi:
 
 Kóðasafnið fyrir TDelay má finna [hér (zip skrá)](https://github.com/VESM1VS/AFANGI/raw/main/Kodi/tdelay.zip). Sett inn á Arduino IDE með því að fara í *Sketch->Include Library->Add .ZIP Library...*
 
-## Blikkandi LED
+#### Blikkandi LED
 
 - [Ein LED pera, blikkar á einnar sekúndu fresti.](https://wokwi.com/projects/349788528390963795)
 - [Ein LED pera, mismunandi á og af tími](https://wokwi.com/projects/349253817043255891)
 - [Þrjár LED perur, slembi (e. random) blikktími](https://wokwi.com/projects/349252429929251411)
 
-## Servo mótor
+#### Servo mótor
 
 - [Einn Servo mótor - (0°-90°-180°-90°-0°)](https://wokwi.com/projects/349789993741320787)
 - [Einn Servo mótor - 0° til 180° til 0° (sweep)](https://wokwi.com/projects/349792066153218642)
