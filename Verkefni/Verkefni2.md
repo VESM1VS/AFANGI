@@ -38,7 +38,7 @@ Hannaðu með Inkscape **box** fyrir Simon Says. Boxið veðrur laserskorið í 
       * Hæð: 60 mm 
    1. Mál á götum:
       * 4 x Arcade takkar: 25 mm 
-      * 1 x takki on/off: 21 x 13 mm
+      * 1 x takki on/off: 21 x 12 mm
    1. Hafðu hljóðgöt 2 - 3 mm fyrir hátalara.
    1. Útfærðu opnun/lokun á lok.  
    1. Merktu kassa með nafni.
