@@ -38,6 +38,11 @@ Spurningar
 1. Hafðu V takkan (spennu) í neðstu stöðu á aflgjafa þ.e 0, snúðu V takkanum hægt uppá við að **6V** (max) og **250mA**. Hvað gerðist?
 1. Víxlaðu + og - á mótor og endurtaktu. Hvað gerðist?
 
+
+Tengimynd og [kóði](../Kodi/einn_dc_l298n.ino):
+
+![dc mótor og L298N](./einn_dc_l298n.png)
+
 <!-- Stall current is the highest current that the motor can draw (under maximum torque load) -->
 
 ---
