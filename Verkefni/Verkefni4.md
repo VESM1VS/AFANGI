@@ -42,7 +42,7 @@ Spurningar
 
 ---
 <!--
-### 3. DC mótor og Arduino (20%)
+### 3. DC mótor og Arduino (30%)
 
 1. tengdu eins og í mynd, DC mótor og _TIP120_ [transistor](https://www.instructables.com/Transistors/) en hann er notaður til að kveikja og slökkva á mótornum. <br> ![Mynd](https://github.com/eirben/VESM1/blob/master/d%C3%A6mi/9V_DC_motor_tip120.png)
 2. keyrðu svo eftirfarandi kóða.
@@ -66,7 +66,7 @@ Sjá einnig: [Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-
 
 ---
 -->
-### 3. DC mótor og L298N DC Motor Driver (20%)
+### 3. DC mótor og L298N DC Motor Driver (30%)
 1. Til að geta stýrt hraða og snúningsátt á DC mótor með kóða, fylgdu [Interface L298N DC Motor Driver Module with Arduino](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/) og settu upp á Breadboard en bara með einn 6V DC mótor. 
 1. Passaðu að tengja allt rétt, láttu yfirfara teningar frá félaga og stillingar á aflgjafa; 8V og 250mA (max) straum. 
 1. Aðlagaðu kóðann að einum DC mótor, taktu út forlykkjur og notaðu sama gildi fyrir hraðastillingu.
@@ -74,7 +74,7 @@ Sjá einnig: [Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-
 ---
 
 
-### 4. Stýrðu Servo og DC samtímis. (30%)
+### 4. Stýrðu einum Servo og einum DC samtímis. (30%)
 
 <!--
 ### 4. PCA9685 Servo Driver (20%)
