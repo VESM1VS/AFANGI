@@ -7,7 +7,7 @@
 
 Í þessu verkefni ætlum við að kynnast og vinna með [mótora](https://www.instructables.com/Motors-and-Motion/).
 
-### 1. Servo (30%)
+### 1. Servo (20%)
 1. Lestu eftirfarandi um [servo](https://www.instructables.com/Servo-A-Go-Go/) mótora.
 1. Kynntu þér hvernig servo virkar með að lesa [How Servo Motor Works & Interface It With Arduino](https://lastminuteengineers.com/servo-motor-arduino-tutorial/).
 1. Tengdu servo við [Servo tester](https://www.allelectronics.com/item/str-110/servo-tester/1.html), sjá [hér](https://www.youtube.com/watch?v=--bpb485i1Q) leiðbeiningar. Notaðu Arduino sem aflgjafa og prófaðu svo testerinn.
@@ -54,7 +54,7 @@ Tengimynd og [kóði](../Kodi/einn_dc_l298n.ino):
 
 ---
 
-### 4. Servo á mismunandi hraða en keyra samtímis með `TDelay` (20%)
+### 4. Servo á mismunandi hraða en keyra samtímis með `TDelay` (30%)
 
 Vandamálið við innbyggða `delay()` fallið í Arduino er að það blokkerar (e. block) forritið sem er að keyra á Arduino-num. Það þýðir að forritið stoppar og gerir ekkert annað en að bíða eftir að tíminn sem skilgreindur er í `delay()` fallinu er liðinn. Þetta skapar vandamál ef að Arduino-inn á að vera gera eitthvað annað á meðan beðið er.
 
