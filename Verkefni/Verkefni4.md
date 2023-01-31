@@ -41,7 +41,7 @@ Spurningar
 
 Tengimynd og [kóði](../Kodi/einn_dc_l298n.ino):
 
-![dc mótor og L298N](./einn_dc_l298n.png)
+![dc mótor og L298N](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/einn_dc_l298n.png)
 
 <!-- Stall current is the highest current that the motor can draw (under maximum torque load) -->
 
