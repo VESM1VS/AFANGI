@@ -1,4 +1,4 @@
-# Tímaverkefni 5 - **Í vinnslu**
+# Tímaverkefni 5 - **Í vinnslu Vor2023**
 
 - 35% af heildareinkunn
 - Hópverkefni (4 saman)
@@ -8,7 +8,15 @@
 
 ## Verkefnalýsing 
 
-Þið eigið að útbúa [animatronics](https://github.com/VESM1VS/AFANGI/wiki/Mekatr%C3%B3nik#animatronics) fígúru (**hámarkstærð 50x50x50 cm**) sem getur hreyft sig á ýmsan hátt við ákveðna kveikju (trigger), [þrýstiplötu](https://www.instructables.com/Use-a-DIY-Pressure-Plate-Switch-to-Automate-Your-H/) eða [PIR](https://lastminuteengineers.com/pir-sensor-arduino-tutorial/) hreyfiskynjara með [röraútfærslu](https://www.youtube.com/watch?v=aPhuZUS0zrc&ab_channel=Halstaff%27sAnimatronicWorkshop). Notið Arduino fyrir forritun, mótora fyrir hreyfingar og LED lýsingu fyrir augu. Fígúran á einnig að geta tjáð sig t.d. talað eða sungið. Notið [MP3](https://www.dfrobot.com/product-1121.html) spilara, [hátalara](https://thepihut.com/products/stereo-enclosed-speaker-set-3w-4-ohm) og [hljóðupptöku](https://www.audacityteam.org/) til að fá fram réttu áhrifin. Tínið til það efni sem þið þurfið fyrir samsettningu, klæðnað og útlit.
+Þið eigið að útbúa [animatronics](https://github.com/VESM1VS/AFANGI/wiki/Mekatr%C3%B3nik#animatronics) fígúru (**hámarkstærð 50x50x50 cm**) sem getur hreyft sig á ýmsan hátt. Til að ákveða hvenær hreyfingarnar eiga að byrja þá má nota [þrýstiplötu](https://www.instructables.com/Use-a-DIY-Pressure-Plate-Switch-to-Automate-Your-H/) eða [HC-SR04 Ultrasonic](https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/) fjarlægðarskynjarann. Sýnikóði er [hér](../Kodi/ultrasonic.ino).
+
+Notið Arduino fyrir forritun, DC og Servo mótora fyrir hreyfingar og LED lýsingu fyrir augu. Fígúran á einnig að geta tjáð sig t.d. talað eða sungið. Notið [MP3](https://www.dfrobot.com/product-1121.html) spilara, [hátalara](https://thepihut.com/products/stereo-enclosed-speaker-set-3w-4-ohm) og [hljóðupptöku](https://www.audacityteam.org/) til að fá fram réttu áhrifin. Hér er [kóðadæmi](../Kodi/DFPlayer_Demo2.ino) :warning: Muna að aftengja RX pinna á MP3 spilara meðan kóða er hlaðið upp (e. upload) á Arduino.
+
+Tínið til það efni sem þið þurfið fyrir samsettningu, klæðnað og útlit.
+
+<!--
+[PIR](https://lastminuteengineers.com/pir-sensor-arduino-tutorial/) hreyfiskynjara með [röraútfærslu](https://www.youtube.com/watch?v=aPhuZUS0zrc&ab_channel=Halstaff%27sAnimatronicWorkshop).
+-->
 
 ---
 
@@ -18,7 +26,7 @@
    1. ólínuleg hreyfing á búk og höndum t.d. vagga, upp/niður, fram/aftur (DC motor). **(20%)**
    1. 1-3 axis gimbal hreyfing á háls með haus, höndum eða olnboga (servos). **(20%)** 
    1. hljóðvinnsla og samhæfing hreyfingu á munn (micro servo) við hljóð **(20%)**
-1. Triggerútfærsla (þrýstiplata eða PIR). **(10%)**
+1. Triggerútfærsla (þrýstiplata eða fjarlægðaskynjari). **(10%)**
 1. [Forritun](../Kennsluefni/forritun_lokaverkefni.md) á senu (samhæfing á hreyfingum) **(20%)**
 1. Útlit (led í augu, klæðnaður osfrv.) á fígúru. **(10%)**
 
@@ -39,11 +47,8 @@ Hér er sýnt hvernig hægt er að vinna með PVC rör og einn mótor til að ge
 - Ruggandi (fram og aftur) og snúa haus: [The Watcher Prop](https://www.youtube.com/watch?v=M9avbEOjebE&ab_channel=deoblo85)
 
 <!--
-
 - Að hræra í pott: [Cauldron creep](https://www.youtube.com/watch?v=4t6pAuB6jDY), [leiðbeiningar](http://devilschariot.blogspot.com/)
 - _Fram og aftur (skæri): [Zombie clown](https://www.youtube.com/watch?v=Cjkal0K9-PI&ab_channel=deoblo85) , [part 1 ](https://www.youtube.com/watch?v=z1G8xuvyhHk&ab_channel=deoblo85) , [part 2](https://www.youtube.com/watch?v=dj2RxPFyLcM&ab_channel=deoblo85)_
-
-
 - Flókið: [DIY Legion Prop one motor, 6 movements (linkage og latex)](https://www.youtube.com/watch?v=Bv3bVVeowyg)
 - [Shiatsu (nuddtæki) Zombie Halloween Prop Full Build](https://www.youtube.com/watch?v=U79K-0LTPQw&ab_channel=Montclair%27sLair)
 - [Omars Haunted Trail](http://omarshauntedtrail.com/Props/props.htm)
