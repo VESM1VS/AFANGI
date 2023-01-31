@@ -48,7 +48,7 @@ Spurningar
 1. Passaðu að tengja allt rétt, láttu yfirfara teningar frá félaga og stillingar á aflgjafa; 8V og 250mA (max) straum. 
 1. Aðlagaðu kóðann að einum DC mótor, taktu út forlykkjur og notaðu sama gildi fyrir hraðastillingu.
 
-Tengimynd og [kóði](../Kodi/einn_dc_l298n.ino):
+Tengimynd
 
 ![dc mótor og L298N](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/einn_dc_l298n.png)
 
