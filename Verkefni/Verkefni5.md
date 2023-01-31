@@ -11,6 +11,7 @@
 Þið eigið að útbúa [animatronics](https://github.com/VESM1VS/AFANGI/wiki/Mekatr%C3%B3nik#animatronics) fígúru (**hámarkstærð 50x50x50 cm**) sem getur hreyft sig á ýmsan hátt. Til að ákveða hvenær hreyfingarnar eiga að byrja þá má nota [þrýstiplötu](https://www.instructables.com/Use-a-DIY-Pressure-Plate-Switch-to-Automate-Your-H/) eða [HC-SR04 Ultrasonic](https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/) fjarlægðarskynjarann, [sýnikóði](../Kodi/ultrasonic.ino).
 
 Notið Arduino fyrir forritun, DC og Servo mótora fyrir hreyfingar og LED lýsingu fyrir augu. Fígúran á einnig að geta tjáð sig t.d. talað eða sungið. Notið [MP3](https://www.dfrobot.com/product-1121.html) spilara, [hátalara](https://thepihut.com/products/stereo-enclosed-speaker-set-3w-4-ohm) og [hljóðupptöku](https://www.audacityteam.org/) til að fá fram réttu áhrifin. Hér er [kóðadæmi](../Kodi/DFPlayer_Demo2.ino) 
+
 :warning: Muna að aftengja RX pinna á MP3 spilara meðan kóða er hlaðið upp (e. upload) á Arduino.
 
 Tínið til það efni sem þið þurfið fyrir samsettningu, klæðnað og útlit.
