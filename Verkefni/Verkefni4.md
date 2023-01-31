@@ -94,9 +94,10 @@ Kóðasafnið fyrir TDelay má finna [hér (zip skrá)](https://github.com/VESM1
 
 ---
 
-### 5. Stýrðu einum Servo og einum DC samtímis. (20%)
+### 5. DC og Servo samtímis (20%)
 
-
+1. Servo fer fram og aftur. 
+1. DC með L298N DC Motor Drive snýst í eina átt á föstum hraða.
 
 ---
 
