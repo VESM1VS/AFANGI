@@ -14,6 +14,7 @@ Til að ákveða hvenær hreyfingarnar eiga að byrja þá má nota [þrýstipl�
 Fígúran á einnig að geta tjáð sig t.d. talað eða sungið. Notið [MP3](https://www.dfrobot.com/product-1121.html) spilara, [hátalara](https://thepihut.com/products/stereo-enclosed-speaker-set-3w-4-ohm) og [hljóðupptöku](https://www.audacityteam.org/) til að fá fram réttu áhrifin. 
 
 Notið Arduino fyrir forritun, DC og Servo mótora fyrir hreyfingar og LED lýsingu fyrir augu. Tínið til það efni sem þið þurfið fyrir samsettningu, klæðnað og útlit.
+
 Sjá nánar [leiðbeiningar](../Kennsluefni/forritun_lokaverkefni.md) fyrir að forrita senu (samsett dæmi) með Arduino, MP3 spilara, Ultrasonic fjarlægðamælir, DC og Servo mótora, .
 
 <!--
