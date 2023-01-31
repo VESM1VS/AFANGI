@@ -9,13 +9,10 @@
 ## Verkefnalýsing 
 
 Þið eigið að útbúa [animatronics](https://github.com/VESM1VS/AFANGI/wiki/Mekatr%C3%B3nik#animatronics) fígúru (**hámarkstærð 50x50x50 cm**) sem getur hreyft sig á ýmsan hátt. <br>
-Til að ákveða hvenær hreyfingarnar eiga að byrja þá má nota [þrýstiplötu](https://www.instructables.com/Use-a-DIY-Pressure-Plate-Switch-to-Automate-Your-H/) eða [HC-SR04 Ultrasonic](https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/) fjarlægðarskynjarann, [sýnikóði](../Kodi/ultrasonic.ino).
-
-Fígúran á einnig að geta tjáð sig t.d. talað eða sungið. Notið [MP3](https://www.dfrobot.com/product-1121.html) spilara, [hátalara](https://thepihut.com/products/stereo-enclosed-speaker-set-3w-4-ohm) og [hljóðupptöku](https://www.audacityteam.org/) til að fá fram réttu áhrifin. Hér er [kóðadæmi](../Kodi/DFPlayer_Demo2.ino) 
-
-:warning: Muna að aftengja RX pinna á MP3 spilara meðan kóða er hlaðið upp (e. upload) á Arduino.
-
+Til að ákveða hvenær hreyfingarnar eiga að byrja þá má nota [þrýstiplötu](https://www.instructables.com/Use-a-DIY-Pressure-Plate-Switch-to-Automate-Your-H/) eða [HC-SR04 Ultrasonic](https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/) fjarlægðarskynjarann.
+Fígúran á einnig að geta tjáð sig t.d. talað eða sungið. Notið [MP3](https://www.dfrobot.com/product-1121.html) spilara, [hátalara](https://thepihut.com/products/stereo-enclosed-speaker-set-3w-4-ohm) og [hljóðupptöku](https://www.audacityteam.org/) til að fá fram réttu áhrifin. 
 Notið Arduino fyrir forritun, DC og Servo mótora fyrir hreyfingar og LED lýsingu fyrir augu. Tínið til það efni sem þið þurfið fyrir samsettningu, klæðnað og útlit.
+Sjá nánar [leiðbeiningar](../Kennsluefni/forritun_lokaverkefni.md) fyrir að forrita senu (samsett dæmi) með Arduino, MP3 spilara, Ultrasonic fjarlægðamælir, DC og Servo mótora, .
 
 <!--
 [PIR](https://lastminuteengineers.com/pir-sensor-arduino-tutorial/) hreyfiskynjara með [röraútfærslu](https://www.youtube.com/watch?v=aPhuZUS0zrc&ab_channel=Halstaff%27sAnimatronicWorkshop).
@@ -30,7 +27,7 @@ Notið Arduino fyrir forritun, DC og Servo mótora fyrir hreyfingar og LED lýsi
    1. 1-3 axis gimbal hreyfing á háls með haus, höndum eða olnboga (servos). **(20%)** 
    1. hljóðvinnsla og samhæfing hreyfingu á munn (micro servo) við hljóð **(20%)**
 1. Triggerútfærsla (þrýstiplata eða fjarlægðaskynjari). **(10%)**
-1. [Forritun](../Kennsluefni/forritun_lokaverkefni.md) á senu (samhæfing á hreyfingum) **(20%)**
+1. Forritun á senu (samhæfing á hreyfingum) **(20%)**
 1. Útlit (led í augu, klæðnaður osfrv.) á fígúru. **(10%)**
 
 ---
