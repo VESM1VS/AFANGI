@@ -45,13 +45,16 @@
 Búðu til public Github geymslu (repository) með heitinu SimonSays og skrifaðu skýrsluna í `readme.md` með [markdown](https://www.markdownguide.org/cheat-sheet/) <br>
 Skýrslan þarf að innihalda eftirfarandi:
 
-1. Höfundur.
+1. Höfundur og örstutt lýsing á verkefni.
+1. Tengil á kóðaskrá.
 1. Tengil á myndband af virkni (spilun) lokafurðar.
 1. Ljósmyndir af lokaafurð (inní kassa og utan)
 1. Ljósmyndir af lóðun (báðar hliðar).
 1. Hönnunarteikning (.svg) af kassa.
+<!--
 1. Ljósmynd af samsetningu frumgerðar (brauðbretti, takkar, vírar o.s.frv.).
-<!-- 1. Tengil á myndband (t.d. youtube) af virkni frumgerðar (án lóðun). -->
+1. Tengil á myndband (t.d. youtube) af virkni frumgerðar (án lóðun). 
+-->
 
 ---
 
