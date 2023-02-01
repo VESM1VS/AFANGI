@@ -1,9 +1,9 @@
 #include <Servo.h>  // Servo library
 
-Servo myservo;      // Servo fyrir fætur
+Servo myservo;      // Servo nr. 1 fyrir fætur
 Servo myservo2;     // Servo nr. 2 fyrir t.d. haus, fálma, hala 
 #define GREEN 12    // pinnaport 12 fyrir grænt LED
-#define RED 13      // pinnaport 12 fyrir rautt LED
+#define RED 13      // pinnaport 13 fyrir rautt LED
 
 void setup() {
   myservo.attach(5);        // port fyrir Servo mótor nr. 1
