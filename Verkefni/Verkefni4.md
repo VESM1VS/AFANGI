@@ -19,8 +19,7 @@
    1. Láttu servo færa sig í þrjár stöður; fyrst í 0 gráður svo 180 gráður og að lokum í 90 gráður.
    1. Þetta á ekki að vera endurtekning, þe. kóðinn á að vera í `setup()`. 
    1. Þú gætir þurft að eiga aðeins við gildin  til að snúa frá 0 til 180 gráður, skoðaðu `myservo.attach(servoPin, min, max);`.
-1. Keyrðu [`sweep`](https://lastminuteengineers.com/servo-motor-arduino-tutorial/#arduino-example-1-sweep) kóðann 
-   1. fyrst 0 til 180 gráður fram og aftur í stærri þrepum (5 gráður í einu).
+1. Keyrðu [`sweep`](https://lastminuteengineers.com/servo-motor-arduino-tutorial/#arduino-example-1-sweep) kóðann 0 til 180 gráður fram og aftur í stærri þrepum (5 gráður í einu).
 
 
 **Ítarefni:**
