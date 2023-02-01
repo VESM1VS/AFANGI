@@ -13,7 +13,8 @@
    1. :warning: Arduino tengist í **IN**, Servo í **OUT**, GND er brúnn á Servo, Spennan er 4.8-6 V, sjá [myndband](https://youtu.be/--bpb485i1Q?t=42).
    1. Notaðu neutral stillingu (miðja) til að finna upphafsstöðu (90 gráður). 
    1. Leiðréttu arminn (taka af og setja aftur á), láttu hann vísa fram (90 gráður). 
-1. Settu upp á brauðbretti með Arduino og stilltu servo **með kóða**. [leiðbeiningar](https://lastminuteengineers.com/servo-motor-arduino-tutorial/). Láttu servo færa sig í þrjár stöður; fyrst í 0 gráður svo 180 gráður og að lokum í 90 gráður (ekki endurtekning). Kóðinn á að vera í `setup()`. 
+1. Settu upp á brauðbretti með Arduino og stilltu servo með **kóða**. [leiðbeiningar](https://lastminuteengineers.com/servo-motor-arduino-tutorial/). 
+   1. Láttu servo færa sig í þrjár stöður; fyrst í 0 gráður svo 180 gráður og að lokum í 90 gráður (ekki endurtekning) kóðinn á að vera í `setup()`. 
 1. Keyrðu [`sweep`](https://lastminuteengineers.com/servo-motor-arduino-tutorial/#arduino-code-sweep) kóðann frá 45 til 135 gráður fram og aftur.  
 
 
