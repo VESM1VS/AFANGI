@@ -10,7 +10,7 @@
 ### 1. Servo (20%)
 1. Lestu eftirfarandi um [servo](https://www.instructables.com/Servo-A-Go-Go/) mótora.
 1. Kynntu þér hvernig servo virkar með að lesa [How Servo Motor Works & Interface It With Arduino](https://lastminuteengineers.com/servo-motor-arduino-tutorial/).
-1. Tengdu servo við [Servo tester](https://www.allelectronics.com/item/str-110/servo-tester/1.html), sjá [hér](https://youtu.be/--bpb485i1Q?t=42) leiðbeiningar. Notaðu Arduino sem aflgjafa og prófaðu svo testerinn.  :warning: Arduino tengist í **IN**, Servo í **OUT**. 
+1. Tengdu servo við [Servo tester](https://www.allelectronics.com/item/str-110/servo-tester/1.html), sjá [hér](https://youtu.be/--bpb485i1Q?t=42) leiðbeiningar. Notaðu Arduino sem aflgjafa og prófaðu svo testerinn. <br>  :warning: Arduino tengist í **IN**, Servo í **OUT**. 
 1. Settu upp á brauðbretti með Arduino og stilltu servo **með kóða** í upphafstöðu (90 gráður), kóðinn á að vera í `setup()`. Leiðréttu arminn (taka af og setja aftur á), láttu hann vísa fram (90 gráður).
 1. Láttu Servo **með kóða** færir sig í þrjár stöður; fyrst í 0 gráður svo 180 gráður og að lokum í 90 gráður (ekki endurtekning).
 1. Keyrðu [`sweep`](https://lastminuteengineers.com/servo-motor-arduino-tutorial/#arduino-code-sweep) kóðann frá 45 til 135 gráður fram og aftur.  
