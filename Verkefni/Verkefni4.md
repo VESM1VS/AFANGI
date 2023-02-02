@@ -38,7 +38,7 @@ Spurningar
 
 ### 2. DC mótor og aflgjafi (10%)
 
-1. Skoðaðu e. datasheet á [6V Hobby DC mótor](https://www.robotshop.com/media/files/pdf/datasheet-711.pdf). 
+1. Skoðaðu e. datasheet á [6V DC mótor](https://components101.com/motors/toy-dc-motor). 
 1. Lærðu að stilla og nota aflgjafann (Power Supply) sem er á borðinu með hjálp kennara. Og stilltu hann í samræmi við þolmörk DC mótors.
 1. Tengdu DC mótorinn við spennugjafa (NICE-POWER), tengdu + rauður og - svartur við dc mótorinn. 
 1. Hafðu V takkan (spennu) í neðstu stöðu á aflgjafa þ.e 0, snúðu V takkanum hægt uppá við að **6V** (max) og **250mA**. Hvað gerðist?
