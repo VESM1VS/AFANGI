@@ -1,5 +1,3 @@
-# Efni fyrir forritun Arduino í lokaverkefni
-
 ### MP3 spilari
 
 - [Kóðadæmi](../Kodi/DFPlayer_Demo2.ino)
