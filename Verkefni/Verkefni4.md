@@ -22,7 +22,7 @@
 1. Keyrðu [`sweep`](https://lastminuteengineers.com/servo-motor-arduino-tutorial/#arduino-example-1-sweep) kóðann 0 til 180 gráður fram og aftur í stærri þrepum (5 gráður í einu).
 
 
-> Ítarefni; [Using Servo Motors with the Arduino](https://dronebotworkshop.com/servo-motors-with-arduino/), [Servo City](https://www.servocity.com/servo-faqs/) (myndbönd og skýringar) og [Making sense of servos](https://www.youtube.com/watch?v=IpubzroBjsQ&ab_channel=MakingtoLearn) (youtube).
+> Ítarefni; [Using Servo Motors with the Arduino](https://dronebotworkshop.com/servo-motors-with-arduino/) (vefgrein og myndband), [Servo City](https://www.servocity.com/servo-faqs/) (myndbönd og skýringar) og [Making sense of servos](https://www.youtube.com/watch?v=IpubzroBjsQ&ab_channel=MakingtoLearn) (youtube).
 
 
 <!-- 
