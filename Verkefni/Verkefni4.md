@@ -21,8 +21,9 @@
    1. Þú gætir þurft að eiga aðeins við gildin  til að snúa frá 0 til 180 gráður, skoðaðu `myservo.attach(servoPin, min, max);`.
 1. Keyrðu [`sweep`](https://lastminuteengineers.com/servo-motor-arduino-tutorial/#arduino-example-1-sweep) kóðann 0 til 180 gráður fram og aftur í stærri þrepum (5 gráður í einu).
 
+<br>
 
-> Ítarefni; [Using Servo Motors with the Arduino](https://dronebotworkshop.com/servo-motors-with-arduino/) (vefgrein og myndband), [Servo City](https://www.servocity.com/servo-faqs/) (myndbönd og skýringar), [Making sense of servos](https://www.youtube.com/watch?v=IpubzroBjsQ&ab_channel=MakingtoLearn) (DIY Animatronics, youtube).
+> _Ítarefni; [Using Servo Motors with the Arduino](https://dronebotworkshop.com/servo-motors-with-arduino/) (vefgrein og myndband), [Servo City](https://www.servocity.com/servo-faqs/) (myndbönd og skýringar), [Making sense of servos](https://www.youtube.com/watch?v=IpubzroBjsQ&ab_channel=MakingtoLearn) (DIY Animatronics myndband)._
 
 
 <!-- 
