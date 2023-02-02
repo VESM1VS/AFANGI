@@ -17,7 +17,8 @@ Sýnikóði er [hér](../Kodi/ultrasonic.ino).
 
 ### TDelay 
 
-Kóðasafnið fyrir TDelay má finna [hér (zip skrá)](https://github.com/VESM1VS/AFANGI/raw/main/Kodi/tdelay.zip). Sett inn á Arduino IDE með því að fara í *Sketch->Include Library->Add .ZIP Library...*
+Kóðasafnið fyrir TDelay má finna [hér (zip skrá)](https://github.com/VESM1VS/AFANGI/raw/main/Kodi/tdelay.zip). <br>
+Sett inn á Arduino IDE með því að fara í *Sketch->Include Library->Add .ZIP Library...*
 
 - [Einn Servo mótor - (0°-90°-180°-90°-0°)](https://wokwi.com/projects/349789993741320787)
 - [Einn Servo mótor - 0° til 180° til 0° (sweep)](https://wokwi.com/projects/349792066153218642)
@@ -28,9 +29,7 @@ Kóðasafnið fyrir TDelay má finna [hér (zip skrá)](https://github.com/VESM1
 
 ### DC mótor og L298N DC Motor Driver
 
-[kóði](../Kodi/einn_dc_l298n.ino) og tengimynd
-
-![dc mótor og L298N](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/einn_dc_l298n.png)
+[kóði](../Kodi/einn_dc_l298n.ino) 
 
 ---
 
