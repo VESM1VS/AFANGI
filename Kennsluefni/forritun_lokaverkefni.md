@@ -1,3 +1,5 @@
+## Að forrita animatronics senu.
+
 ### MP3 spilari
 
 - [Kóðadæmi](../Kodi/DFPlayer_Demo2.ino)
@@ -14,7 +16,6 @@ Sýnikóði er [hér](../Kodi/ultrasonic.ino).
 
 ---
 
-
 ### TDelay 
 
 Kóðasafnið fyrir TDelay má finna [hér (zip skrá)](https://github.com/VESM1VS/AFANGI/raw/main/Kodi/tdelay.zip). <br>
@@ -29,7 +30,7 @@ Sett inn á Arduino IDE með því að fara í *Sketch->Include Library->Add .ZI
 
 ### DC mótor og L298N DC Motor Driver
 
-[kóði](../Kodi/einn_dc_l298n.ino) 
+[kóði](../Kodi/einn_dc_l298n.ino) með ntokun TDelay.
 
 ---
 
