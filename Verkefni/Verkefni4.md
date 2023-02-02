@@ -80,6 +80,8 @@ Dæmi um notkun með blikkandi LED:
 - [Ein LED pera, mismunandi á og af tími](https://wokwi.com/projects/349253817043255891)
 - [Þrjár LED perur, slembi (e. random) blikktími](https://wokwi.com/projects/349252429929251411)
 
+<br>
+
 #### Settu upp eftirfarandi verklega með servo:
 
 1. [Einn Servo mótor - (0°-90°-180°-90°-0°)](https://wokwi.com/projects/349789993741320787)
