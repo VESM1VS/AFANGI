@@ -24,11 +24,6 @@
 > _Ítarefni; [Using Servo Motors with the Arduino](https://dronebotworkshop.com/servo-motors-with-arduino/) (vefgrein og myndband), [Servo City](https://www.servocity.com/servo-faqs/) (myndbönd og skýringar), [Making sense of servos](https://www.youtube.com/watch?v=IpubzroBjsQ&ab_channel=MakingtoLearn) (DIY Animatronics myndband)._
 
 
-<!-- 
-Spurningar
-1. Hvað er mótorinn lengi að snúa sér í 90 gráður miðað við 6V?
-1. Hvað er átt við að stöðvun [snúningsvægis](https://www.youtube.com/watch?v=T99yH_gw3p8) (stall torque) sé 10kg/cm við 6v? 
--->
 
 ---
 
@@ -39,7 +34,7 @@ Spurningar
 1. Tengdu DC mótorinn við spennugjafa (NICE-POWER), tengdu + rauður og - svartur við dc mótorinn. 
 1. Hafðu V takkan (spennu) í neðstu stöðu á aflgjafa þ.e 0, snúðu V takkanum hægt uppá við að **6V** (max) og **250mA**. Hvað gerðist?
 1. Víxlaðu + og - á mótor og endurtaktu. Hvað gerðist?
-
+1. Hvað er átt við að stöðvun [snúningsvægis](https://www.youtube.com/watch?v=T99yH_gw3p8) (stall torque) sé 10kg/cm við 6v? 
 
 <!-- Stall current is the highest current that the motor can draw (under maximum torque load) -->
 
@@ -69,7 +64,7 @@ Notkun:
 2. Spyrja breytuna hvort tíminn er liðinn með fallinu `timiLidinn()` sem skilar `true` ef tíminn er liðinn annars `false` (t.d.): `if(led_delay.timiLidinn() == true) { /* gera það sem á að gera þegar biðtíminn er liðinn */ }`.
 3. Ef þarf þá má breyta biðtímanum með fallinu `setBidtimi(nýr biðtími)` (t.d.): `led_delay.setBidtimi(1500)`, biðtíminn er núna 1500 ms.
 
-Sjá nánar um notkun í dæmunum hér fyrir neðan.
+Kóðasafnið fyrir TDelay má finna [hér (zip skrá)](https://github.com/VESM1VS/AFANGI/raw/main/Kodi/tdelay.zip). Sett inn á Arduino IDE með því að fara í *Sketch->Include Library->Add .ZIP Library...*
 
 <!-- 
 Dæmi:
@@ -79,9 +74,7 @@ Dæmi:
 | <pre>delay(1000);<br>digitalWrite(LED, HIGH);</pre> | <pre>if(led_delay.timiLidinn() == true) {<br>&emsp; digitalWrite(LED,HIGH)<br>}</pre>
 -->
 
-Kóðasafnið fyrir TDelay má finna [hér (zip skrá)](https://github.com/VESM1VS/AFANGI/raw/main/Kodi/tdelay.zip). Sett inn á Arduino IDE með því að fara í *Sketch->Include Library->Add .ZIP Library...*
-
-Blikkandi LED:
+Dæmi um notkun með blikkandi LED:
 
 - [Ein LED pera, blikkar á einnar sekúndu fresti.](https://wokwi.com/projects/349788528390963795)
 - [Ein LED pera, mismunandi á og af tími](https://wokwi.com/projects/349253817043255891)
