@@ -1,8 +1,7 @@
-# Tímaverkefni 5 - **Í vinnslu Vor2023**
+# Tímaverkefni 5 
 
 - 35% af heildareinkunn
 - Hópverkefni (4 saman)
-
 
 ---
 
@@ -26,16 +25,16 @@ Sjá nánar hér [leiðbeiningar](../Kennsluefni/forritun_lokaverkefni.md) fyrir
 ### Matsþættir
 
 1. Fígúra á að innihalda samsettar hreyfingar: 
-   1. ólínuleg hreyfing á búk og höndum t.d. vagga, upp/niður, fram/aftur (DC motor). **(20%)**
-   1. 1-3 axis gimbal hreyfing á háls með haus, höndum eða olnboga (servos). **(20%)** 
-   1. hljóðvinnsla og samhæfing hreyfingu á munn (micro servo) við hljóð **(20%)**
+   1. ólínuleg hreyfing á búk og höndum t.d. vagga, upp/niður, fram/aftur (DC motor). **(25%)**
+   1. hljóðvinnsla og samhæfing hreyfingu á munn (micro servo) við hljóð **(25%)**
 1. Triggerútfærsla (þrýstiplata eða fjarlægðaskynjari). **(10%)**
-1. Forritun á senu (samhæfing á hreyfingum) **(20%)**
-1. Útlit (led í augu, klæðnaður osfrv.) á fígúru. **(10%)**
+1. Forritun á senu (samhæfing) **(25%)**
+1. Útlit (led í augu, klæðnaður osfrv.) á fígúru. **(15%)**
+1. _Valkvæmt (ef tími): 1-3 axis gimbal hreyfing á háls með haus, höndum eða olnboga (servos)._ 
 
 ---
 
-### Dæmi um samsettingar og hreyfingar 
+### Dæmi um samsettingar og hreyfingar:
 Hér er sýnt hvernig hægt er að vinna með PVC rör og einn mótor til að gera búk hreyfingar [Steve Koci](https://youtu.be/mDxZNeLr8nI).
 
 - Snúningur (hægri/vinstri): [Watchman](https://www.spiderhillpropworks.com/Animated-Watchman-Complete-Kit_p_32.html) og [sitjandi](https://www.youtube.com/watch?v=wxkXeRpMUpY&ab_channel=FrightProps)
@@ -59,24 +58,21 @@ Hér er sýnt hvernig hægt er að vinna með PVC rör og einn mótor til að ge
 
 ---
 
-### Dæmi um verkþætti og skiptingu
+### Dæmi um verkþætti:
 
 1. Búkur 
    1. samsettning og hreyfing á búk með DC mótor 
    1. forritun á búkhreyfingu
-1. Haus
+2. Haus 
    1. Hreyfing á kjálka (nota servo tester)
-   1. Seja LED í augun (og hreyfing á þeim).
+   1. Seja LED í augun.
    1. Hljóðvinnsla (tal, öskur eða söngur).
    1. Forritun munnhreyfingar útfrá hljóðskrá.
-1. Önnur liðamót (háls, axlir, olnbogi, úlnliður)
-   1. Samsettning og hreyfing á liðamótum (háls, axlir, olnbogi, úlnliður) með servós.
-   1. Forritun á 1-3 axis gimbal hreyfingum.  
-3. Samsettning og forritun á kveikju (trigger) 
-4. Forritun á senu (allt kemur saman).
-5. Útlit á fígúru og frágangur (grind, klæðnaður, hendur).
+3. Forritun á kveikju (trigger) 
+4. Samsettning og útlit á fígúru (grind, klæðnaður, hendur).
+5. Forritun á senu (allt kemur saman).
 6. Gera skýrslu.
-
+ 
 
 ---
 
