@@ -34,7 +34,7 @@
 1. Tengdu DC mótorinn við spennugjafa (NICE-POWER), tengdu + rauður og - svartur við dc mótorinn. 
 1. Hafðu V takkan (spennu) í neðstu stöðu á aflgjafa þ.e 0, snúðu V takkanum hægt uppá við að **6V** (max) og **250mA**. Hvað gerðist?
 1. Víxlaðu + og - á mótor og endurtaktu. Hvað gerðist?
-1. Hvað er átt við að stöðvun [snúningsvægis](https://www.youtube.com/watch?v=T99yH_gw3p8) (stall torque) sé 10kg/cm við 6v og hvað er e. stall Current?
+1. Hvað er átt við að stöðvun [snúningsvægis](https://www.youtube.com/watch?v=T99yH_gw3p8) (stall torque) sé 10kg/cm við 6v og hvað er e. _stall current_?
 
 <!-- Stall current is the highest current that the motor can draw (under maximum torque load) -->
 
