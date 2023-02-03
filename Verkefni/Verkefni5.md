@@ -15,7 +15,7 @@ Fígúran á einnig að geta tjáð sig t.d. talað eða sungið. Notið [MP3](h
 
 Notið Arduino fyrir forritun, DC og Servo mótora fyrir hreyfingar og LED lýsingu fyrir augu. Tínið til það efni sem þið þurfið fyrir samsettningu, klæðnað og útlit.
 
-Sjá nánar hér [leiðbeiningar](../Kennsluefni/forritun_lokaverkefni.md) fyrir að forrita senu (samsett dæmi) með Arduino, MP3 spilara, Ultrasonic fjarlægðamælir, DC og Servo mótora, .
+Sjá nánar hér [leiðbeiningar](../Kennsluefni/forritun_lokaverkefni.md) fyrir að forrita senu (samsett dæmi) með Arduino, MP3 spilara, Ultrasonic fjarlægðamælir, DC og Servo mótora.
 
 <!--
 [PIR](https://lastminuteengineers.com/pir-sensor-arduino-tutorial/) hreyfiskynjara með [röraútfærslu](https://www.youtube.com/watch?v=aPhuZUS0zrc&ab_channel=Halstaff%27sAnimatronicWorkshop).
