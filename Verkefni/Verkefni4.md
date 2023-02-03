@@ -52,7 +52,7 @@ Tengimynd
 
 ---
 
-### 4. Servo á mismunandi hraða en keyra samtímis með `TDelay` (30%)
+### 4. Servo á mismunandi hraða en keyra samtímis með `TDelay` (20%)
 
 Vandamálið við innbyggða `delay()` fallið í Arduino er að það blokkerar (e. block) forritið sem er að keyra á Arduino-num. Það þýðir að forritið stoppar og gerir ekkert annað en að bíða eftir að tíminn sem skilgreindur er í `delay()` fallinu er liðinn. Þetta skapar vandamál ef að Arduino-inn á að vera gera eitthvað annað á meðan beðið er.
 
@@ -76,22 +76,26 @@ Dæmi:
 
 Dæmi um notkun:
 
-- [Ein LED pera, blikkar á einnar sekúndu fresti.](https://wokwi.com/projects/349788528390963795)
-- [Ein LED pera, mismunandi á og af tími](https://wokwi.com/projects/349253817043255891)
+1. [Ein LED pera, blikkar á einnar sekúndu fresti.](https://wokwi.com/projects/349788528390963795)
+2. [Ein LED pera, mismunandi á og af tími](https://wokwi.com/projects/349253817043255891)
 
 
-#### Gerðu eftirfarandi verklega:
-
-1. [Einn Servo mótor - (0°-90°-180°-90°-0°)](https://wokwi.com/projects/349789993741320787)
-2. [Einn Servo mótor - 0° til 180° til 0° (sweep)](https://wokwi.com/projects/349792066153218642)
-3. [Tveir Servo mótorar - sweep á misjöfnum hraða](https://wokwi.com/projects/349794862688633427) _með samnemanda_
+Tengdu tvær LED perur og láttu þær báðar blikka samtímis en með mismunandi millibili.
 
 ---
 
-### 5. DC og Servo samtímis (20%)
+### 5. DC og Servo samtímis með `TDelay` (30%)
+
+Gerðu eftirfarandi verklega:
 
 1. DC með L298N DC Motor Drive snýst í eina átt á föstum hraða.
 1. Servo fer fram og aftur á 3 sek. fresti.
+
+Sýnidæmi:
+1. [Einn Servo mótor - (0°-90°-180°-90°-0°)](https://wokwi.com/projects/349789993741320787)
+2. [Einn Servo mótor - 0° til 180° til 0° (sweep)](https://wokwi.com/projects/349792066153218642)
+3. [Tveir Servo mótorar - sweep á misjöfnum hraða](https://wokwi.com/projects/349794862688633427) 
+
 
 ---
 
