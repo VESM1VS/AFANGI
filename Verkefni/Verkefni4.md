@@ -74,7 +74,7 @@ Dæmi:
 | <pre>delay(1000);<br>digitalWrite(LED, HIGH);</pre> | <pre>if(led_delay.timiLidinn() == true) {<br>&emsp; digitalWrite(LED,HIGH)<br>}</pre>
 -->
 
-Dæmi um notkun með blikkandi LED:
+Dæmi um notkun:
 
 - [Ein LED pera, blikkar á einnar sekúndu fresti.](https://wokwi.com/projects/349788528390963795)
 - [Ein LED pera, mismunandi á og af tími](https://wokwi.com/projects/349253817043255891)
