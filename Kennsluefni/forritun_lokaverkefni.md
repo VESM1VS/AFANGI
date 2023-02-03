@@ -23,6 +23,7 @@ Sýnikóði er [hér](../Kodi/ultrasonic.ino).
 Kóðasafnið fyrir TDelay má finna [hér (zip skrá)](https://github.com/VESM1VS/AFANGI/raw/main/Kodi/tdelay.zip). <br>
 Sett inn á Arduino IDE með því að fara í *Sketch->Include Library->Add .ZIP Library...*
 
+- [Þrjár LED perur, slembi (e. random) blikktími](https://wokwi.com/projects/349252429929251411)
 - [Einn Servo mótor - (0°-90°-180°-90°-0°)](https://wokwi.com/projects/349789993741320787)
 - [Einn Servo mótor - 0° til 180° til 0° (sweep)](https://wokwi.com/projects/349792066153218642)
 - [Tveir Servo mótorar - sweep á misjöfnum hraða](https://wokwi.com/projects/349794862688633427)
