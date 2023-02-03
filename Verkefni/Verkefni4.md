@@ -1,4 +1,4 @@
-## Tímaverkefni 4 - **Í vinnslu**
+## Tímaverkefni 4 
 
 - 15% af heildareinkunn áfanga.
 - einstaklingsverkefni.
