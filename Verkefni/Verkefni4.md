@@ -88,7 +88,7 @@ Tengdu tvær LED perur (augu) og láttu þær báðar blikka en með mismunandi 
 
 Gerðu eftirfarandi verklega samtímis:
 
-1. DC með L298N DC Motor Drive snýst í eina átt á föstum hraða.
+1. DC með L298N DC Motor Drive snýst í eina átt á föstum hraða stöðugt.
 1. Servo fer fram og aftur á 3 sek. fresti.
 
 Sýnidæmi:
