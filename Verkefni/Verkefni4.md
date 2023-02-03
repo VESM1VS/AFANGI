@@ -102,7 +102,7 @@ Sýnidæmi:
 ## Námsmat og skil
 - Yfirferð og námsmat á sér stað í tíma.
 - Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er ábótavant og ekkert ef hann vantar.
-
+- Skilaðu á Innu svörum og kóðalausn fyrir lið 4 og 5.
 
 <!--
 ### PCA9685 Servo Driver (20%)
