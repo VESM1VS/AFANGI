@@ -3,7 +3,8 @@
 - 15% af heildareinkunn áfanga.
 - einstaklingsverkefni.
 
-Í þessu verkefni ætlum við að kynnast og vinna með [mótora](https://www.instructables.com/Motors-and-Motion/).
+Í þessu verkefni ætlum við að kynnast og vinna með [mótora](https://www.instructables.com/Motors-and-Motion/) og smá Arduino [forritun](https://www.arduino.cc/en/software#legacy-ide-18x)
+
 
 ---
 
