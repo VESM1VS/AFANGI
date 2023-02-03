@@ -80,20 +80,19 @@ Dæmi um notkun með blikkandi LED:
 - [Ein LED pera, mismunandi á og af tími](https://wokwi.com/projects/349253817043255891)
 - [Þrjár LED perur, slembi (e. random) blikktími](https://wokwi.com/projects/349252429929251411)
 
-<br>
 
-#### Settu upp eftirfarandi verklega með servo:
+#### Gerðu eftirfarandi verklega:
 
 1. [Einn Servo mótor - (0°-90°-180°-90°-0°)](https://wokwi.com/projects/349789993741320787)
 2. [Einn Servo mótor - 0° til 180° til 0° (sweep)](https://wokwi.com/projects/349792066153218642)
-3. [Tveir Servo mótorar - sweep á misjöfnum hraða](https://wokwi.com/projects/349794862688633427)
+3. [Tveir Servo mótorar - sweep á misjöfnum hraða](https://wokwi.com/projects/349794862688633427) _með samnemanda_
 
 ---
 
 ### 5. DC og Servo samtímis (20%)
 
-1. Servo fer fram og aftur. 
 1. DC með L298N DC Motor Drive snýst í eina átt á föstum hraða.
+1. Servo fer fram og aftur á 3 sek. fresti.
 
 ---
 
