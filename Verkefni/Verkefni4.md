@@ -80,7 +80,7 @@ Dæmi um notkun:
 2. [Ein LED pera, mismunandi á og af tími](https://wokwi.com/projects/349253817043255891)
 
 
-Tengdu tvær LED perur og láttu þær báðar báðar blikka em á mismunandi fresti.
+Tengdu tvær LED perur (augu) og láttu þær báðar blikka en með mismunandi takti (millibili).
 
 ---
 
