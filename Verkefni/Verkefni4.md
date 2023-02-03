@@ -86,7 +86,7 @@ Tengdu tvær LED perur (augu) og láttu þær báðar blikka en með mismunandi 
 
 ### 5. DC og Servo samtímis með `TDelay` (30%)
 
-Gerðu eftirfarandi verklega:
+Gerðu eftirfarandi verklega samtímis:
 
 1. DC með L298N DC Motor Drive snýst í eina átt á föstum hraða.
 1. Servo fer fram og aftur á 3 sek. fresti.
