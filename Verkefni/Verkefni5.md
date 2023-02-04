@@ -8,11 +8,11 @@
 ## Verkefnalýsing 
 
 Þið eigið að útbúa [animatronics](https://github.com/VESM1VS/AFANGI/wiki/Mekatr%C3%B3nik#animatronics) fígúru (**hámarkstærð 50x50x50 cm**) sem getur hreyft sig á ýmsan hátt. <br>
-Til að ákveða hvenær hreyfingarnar eiga að byrja þá má nota [þrýstiplötu](https://www.instructables.com/Use-a-DIY-Pressure-Plate-Switch-to-Automate-Your-H/) eða [HC-SR04 Ultrasonic](https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/) fjarlægðarskynjarann.
-
-Fígúran á einnig að geta tjáð sig t.d. talað eða sungið. Notið [MP3](https://www.dfrobot.com/product-1121.html) spilara, [hátalara](https://thepihut.com/products/stereo-enclosed-speaker-set-3w-4-ohm) og [hljóðupptöku](https://www.audacityteam.org/) til að fá fram réttu áhrifin. 
-
 Notið Arduino fyrir forritun, DC og Servo mótora fyrir hreyfingar og LED lýsingu fyrir augu. Tínið til það efni sem þið þurfið fyrir samsettningu, klæðnað og útlit.
+T
+il að ákveða hvenær hreyfingarnar eiga að byrja þá má nota [þrýstiplötu](https://www.instructables.com/Use-a-DIY-Pressure-Plate-Switch-to-Automate-Your-H/) eða [HC-SR04 Ultrasonic](https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/) fjarlægðarskynjarann.
+
+Fígúran á að geta tjáð sig t.d. talað eða sungið. Notið [MP3](https://www.dfrobot.com/product-1121.html) spilara, [hátalara](https://thepihut.com/products/stereo-enclosed-speaker-set-3w-4-ohm) og [hljóðupptöku](https://www.audacityteam.org/) til að fá fram réttu áhrifin. 
 
 Sjá nánar hér [leiðbeiningar](../Kennsluefni/forritun_lokaverkefni.md) fyrir að forrita senu (samsett dæmi) með Arduino, MP3 spilara, Ultrasonic fjarlægðamælir, DC og Servo mótora.
 
@@ -30,7 +30,7 @@ Sjá nánar hér [leiðbeiningar](../Kennsluefni/forritun_lokaverkefni.md) fyrir
 1. Útlit (led í augu, klæðnaður osfrv.) á fígúru. **(15%)**
 1. Triggerútfærsla (þrýstiplata eða fjarlægðaskynjari). **(10%)**
 1. Forritun á senu (samhæfing) **(25%)**
-1. _Valkvæmt (ef tími): 1-3 axis gimbal hreyfing á háls með haus, höndum eða olnboga (servos)._ 
+1. _Valkvæmt: 1-3 axis gimbal hreyfing á háls með haus, höndum eða olnboga (servos)._ 
 
 ---
 
@@ -79,7 +79,7 @@ Hér er sýnt hvernig hægt er að vinna með PVC rör og einn mótor til að ge
 ## Skýrsla 
 Búið til public Github geymslu (repository) og skrifið skýrslu í `readme.md` sem innheldur eftirfarandi: 
 
-1. Myndband af virkni og notkun. 
+1. Stutt myndband af virkni og notkun. 
 1. Stutt lýsing, efni notað ásamt mælingum, höfundar og heimildir.
 1. Ljósmyndir af mekaník, samsettningu og fígúru.
 1. Kóði.
