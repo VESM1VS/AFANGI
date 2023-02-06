@@ -55,6 +55,9 @@ Tengimynd
 
 ### 4. LEDs á mismunandi hraða en samtímis með `TDelay` (20%)
 
+1. Tengdu tvær LED perur (augu) og láttu þær báðar blikka en með mismunandi takti (millibili).
+
+
 Vandamálið við innbyggða `delay()` fallið í Arduino er að það blokkerar (e. block) forritið sem er að keyra á Arduino-num. Það þýðir að forritið stoppar og gerir ekkert annað en að bíða eftir að tíminn sem skilgreindur er í `delay()` fallinu er liðinn. Þetta skapar vandamál ef að Arduino-inn á að vera gera eitthvað annað á meðan beðið er.
 
 TDelay leysir þetta en þó með aðeins annarri virkni. Þannig að í stað þess að bíða eftir að tíminn er liðinn þá þarf að spyrja TDelay hvort biðtíminn sé liðinn.
@@ -79,9 +82,6 @@ Dæmi um notkun:
 
 1. [Ein LED pera, blikkar á einnar sekúndu fresti.](https://wokwi.com/projects/349788528390963795)
 2. [Ein LED pera, mismunandi á og af tími](https://wokwi.com/projects/349253817043255891)
-
-
-Tengdu tvær LED perur (augu) og láttu þær báðar blikka en með mismunandi takti (millibili).
 
 ---
 
