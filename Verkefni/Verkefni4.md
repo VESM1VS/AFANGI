@@ -53,7 +53,7 @@ Tengimynd
 
 ---
 
-### 4. Servo á mismunandi hraða en keyra samtímis með `TDelay` (20%)
+### 4. LEDs á mismunandi hraða en samtímis með `TDelay` (20%)
 
 Vandamálið við innbyggða `delay()` fallið í Arduino er að það blokkerar (e. block) forritið sem er að keyra á Arduino-num. Það þýðir að forritið stoppar og gerir ekkert annað en að bíða eftir að tíminn sem skilgreindur er í `delay()` fallinu er liðinn. Þetta skapar vandamál ef að Arduino-inn á að vera gera eitthvað annað á meðan beðið er.
 
@@ -85,7 +85,7 @@ Tengdu tvær LED perur (augu) og láttu þær báðar blikka en með mismunandi 
 
 ---
 
-### 5. DC og Servo samtímis með `TDelay` (30%)
+### 5. DC mótor og Servo samtímis með `TDelay` (30%)
 
 Gerðu eftirfarandi verklega samtímis:
 1. Mótor DC með L298N DC Motor Drive snýst í eina átt á föstum hraða stöðugt. Servo fer fram og aftur á 3 sek. fresti.
