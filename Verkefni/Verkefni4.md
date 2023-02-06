@@ -88,7 +88,7 @@ Dæmi um notkun:
 ### 5. DC mótor og Servo samtímis með `TDelay` (30%)
 
 Gerðu eftirfarandi verklega samtímis:
-1. Mótor DC með L298N DC Motor Drive snýst í eina átt á föstum hraða stöðugt. Servo fer fram og aftur (3 gráður í einu) frá 0 - 180 gráður á 5 sek. fresti.
+1. Mótor DC með L298N DC Motor Drive snýst í eina átt á föstum hraða stöðugt. Servo fer fram og aftur á 5 sek. fresti.
 
 Sýnidæmi:
 1. [Einn Servo mótor - (0°-90°-180°-90°-0°)](https://wokwi.com/projects/349789993741320787)
