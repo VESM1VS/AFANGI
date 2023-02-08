@@ -40,6 +40,9 @@ aukakrafa: 20% - 1-3 axis gimbal hreyfing á háls með haus, höndum eða olnbo
 ---
 
 ### Dæmi um samsettingar og hreyfingar:
+
+Frá nemendum á Tölvubraut [Lokaverkefni](https://github.com/TskoliV5)
+<br>
 Hér er sýnt hvernig hægt er að vinna með PVC rör og einn mótor til að gera búk hreyfingar [Steve Koci](https://youtu.be/mDxZNeLr8nI).
 
 - Snúningur (hægri/vinstri): [Watchman](https://www.spiderhillpropworks.com/Animated-Watchman-Complete-Kit_p_32.html) og [sitjandi](https://www.youtube.com/watch?v=wxkXeRpMUpY&ab_channel=FrightProps)
