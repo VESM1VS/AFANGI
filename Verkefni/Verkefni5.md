@@ -44,8 +44,9 @@ aukakrafa: 20% - 1-3 axis gimbal hreyfing á háls með haus, höndum eða olnbo
 Dæmi um [útfærslur](https://github.com/TskoliV5) frá nemendum á Tölvubraut frá fyrri önnum.
 <br>
 
-Hér er sýnt hvernig hægt er að vinna með PVC rör og einn mótor til að gera búk hreyfingar [Steve Koci](https://youtu.be/mDxZNeLr8nI).
+Hér er sýnt hvernig hægt er að vinna með PVC rör og einn mótor til að gera búk hreyfingar:
 
+- Samantekt hjá [Steve Koci](https://youtu.be/mDxZNeLr8nI).
 - Snúningur (hægri/vinstri): [Watchman](https://www.spiderhillpropworks.com/Animated-Watchman-Complete-Kit_p_32.html) og [sitjandi](https://www.youtube.com/watch?v=wxkXeRpMUpY&ab_channel=FrightProps)
 - Upp og niður: [Ground Breaker](https://www.spiderhillpropworks.com/Animated-Ground-Breaker-Complete-Kit-_p_57.html) 
 - Vaggandi: [Animated Swaying Zombie](https://www.spiderhillpropworks.com/Animated-Swaying-Zombie-Basic-Kit-_p_23.html)
