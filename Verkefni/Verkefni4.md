@@ -95,8 +95,8 @@ Sýnidæmi:
 2. [Einn Servo mótor - 0° til 180° til 0° (sweep)](https://wokwi.com/projects/349792066153218642)
 3. [Tveir Servo mótorar - sweep á misjöfnum hraða](https://wokwi.com/projects/349794862688633427) 
 
-**Ath**:  DC og Servo vinna ekki samtímis á hvaða pinna sem er. Ekki nota pinna 9 og 10, notið aðra sem eru með ~ tákn (e. tilda) fyrir framan pinna. <br>
-servo.h library messes up with the Arduino pwm pins. It disables the 9,10 pins even we haven't connected a servo to that. That is the issue here. Have to use pwm other than (9,10) for the motor driver's enable pin.
+**Ath**:  DC og Servo vinna ekki samtímis á hvaða pinna sem er. Ekki nota pinna 9 og 10, notið aðra sem eru með ~tákn (e. tilda) fyrir framan pinna. <br>
+servo.h library messes up with the Arduino pwm pins. It disables the 9,10 pins even we haven't connected a servo to that. We have to use pwm other than (9,10) for the dc motor driver's enable pin.
 
 ---
 
