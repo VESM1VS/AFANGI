@@ -27,7 +27,7 @@ Sjá nánar hér [leiðbeiningar](../Kennsluefni/forritun_lokaverkefni.md) fyrir
 1. Fígúra á að innihalda samsettar hreyfingar: 
    1. ólínuleg hreyfing á búk og höndum t.d. vagga, upp/niður, fram/aftur (DC motor). **(25%)**
    1. hljóðvinnsla og samhæfing hreyfingu á munn (micro servo) við hljóð **(25%)**
-1. Útlit (led í augu, klæðnaður osfrv.) á fígúru. **(15%)**
+1. Útlit; led í augu, hendur, rifbein/fyllingar og klæðnaður á fígúru. **(15%)**
 1. Triggerútfærsla (þrýstiplata eða fjarlægðaskynjari). **(10%)**
 1. Forritun á senu (samhæfing) **(25%)**
 1. _Valkvæmt (ef tími gefst til): 1-3 axis gimbal hreyfing á háls með haus, höndum eða olnboga (servos)._ 
