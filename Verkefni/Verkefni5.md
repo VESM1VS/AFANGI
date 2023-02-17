@@ -12,7 +12,7 @@ Notið Arduino fyrir forritun, DC og Servo mótora fyrir hreyfingar og LED lýsi
 Til að ákveða hvenær hreyfingarnar eiga að byrja þá má nota [þrýstiplötu](https://www.instructables.com/Use-a-DIY-Pressure-Plate-Switch-to-Automate-Your-H/) eða [HC-SR04 Ultrasonic](https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/) fjarlægðarskynjarann.
 Fígúran á að geta tjáð sig t.d. talað eða sungið. Notið [MP3](https://www.dfrobot.com/product-1121.html) spilara, [hátalara](https://thepihut.com/products/stereo-enclosed-speaker-set-3w-4-ohm) og [hljóðupptöku](https://www.audacityteam.org/) til að fá fram réttu áhrifin. 
 
-Sjá nánar hér [leiðbeiningar](../Kennsluefni/forritun_lokaverkefni.md) fyrir að forrita senu (samsett dæmi) með Arduino, LEDs, MP3 spilara, Ultrasonic fjarlægðamælir, DC og Servo mótora.
+Sjá nánar hér [leiðbeiningar](../Kennsluefni/forritun_lokaverkefni.md) fyrir að forrita senu (samsett dæmi) með Arduino, LEDs, MP3 spilara og hátalara, Ultrasonic fjarlægðamælir, DC mótor og Servo mótora.
 
 <!--
 [PIR](https://lastminuteengineers.com/pir-sensor-arduino-tutorial/) hreyfiskynjara með [röraútfærslu](https://www.youtube.com/watch?v=aPhuZUS0zrc&ab_channel=Halstaff%27sAnimatronicWorkshop).
