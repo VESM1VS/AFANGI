@@ -1,6 +1,6 @@
 #include "tdelay.h"
 
-const int HRADI = 10; // Verður að vera PWM pinni
+const int HRADI = 5; // Verður að vera PWM pinni
 const int STEFNA_A = 9;
 const int STEFNA_B = 8;
 
