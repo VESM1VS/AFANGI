@@ -45,7 +45,7 @@ Hér er dæmi um hvernig má púsla öllum íhlutunum saman og [forrita](../Kodi
 
 :warning: Muna að aftengja RX pinna á MP3 spilara meðan kóða er hlaðið upp (e. upload) á Arduino. 
 
-:warning:  DC og Servo vinna ekki samtímis á hvaða pinna sem er. Ekki nota pinna 9 og 10, notið aðra sem eru með ~tákn (e. tilda) fyrir framan pinna. <br>
+:warning:  DC og Servo vinna ekki samtímis á hvaða pinna sem er. Ekki nota pinna 9 og 10, notið aðra (t.d. 5 og 6) sem eru með ~tákn (e. tilda) fyrir framan pinna. <br>
 > servo.h library messes up with the Arduino pwm pins. It disables the 9,10 pins even we haven't connected a servo to that. We have to use pwm other than (9,10) for the dc motor driver's enable pin.
 
 
