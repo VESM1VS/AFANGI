@@ -1,13 +1,12 @@
 
-/**************************************
- 
-Tutorial:                                  https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299
-DFPlayer - A Mini MP3 Player For Arduino:  https://www.dfrobot.com/index.php?route=product/product&product_id=1121
-Stereo Enclosed Speaker Set - 3W 4 Ohm:    https://thepihut.com/products/stereo-enclosed-speaker-set-3w-4-ohm
-Driver for DFPlayer Mini from DFRobot:     https://www.arduino.cc/reference/en/libraries/dfrobotdfplayermini/
+/************************************** 
+Tutorial: https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299
+    DFPlayer - A Mini MP3 Player For Arduino:  https://www.dfrobot.com/index.php?route=product/product&product_id=1121
+    Stereo Enclosed Speaker Set - 3W 4 Ohm:    https://thepihut.com/products/stereo-enclosed-speaker-set-3w-4-ohm
+    Driver for DFPlayer Mini from DFRobot:     https://www.arduino.cc/reference/en/libraries/dfrobotdfplayermini/
 
  *  Hátalarar (3W 4 Ohm): Tengdu rauðu víra í SPK1 og svörtu í SPK2.  
- *  Með þessari lausn er notað DFRobotDFPlayerMini driver/safnið, hægt að sækja via Library Manager
+ *  Með þessari lausn þarf að sækja og nota DFRobotDFPlayerMini driver/safnið, hægt að sækja via Library Manager
  *  Aftengdu pinna [RX] á meðan þú setur inn (upload) forrit á Arduino. 
  *  Gæti kannski þurft 1K viðnám í TX (port 11 á Arduino) til að lagfæra hljóð (ég þurfti það ekki)
 
@@ -32,26 +31,25 @@ Driver for DFPlayer Mini from DFRobot:     https://www.arduino.cc/reference/en/l
 SoftwareSerial mySoftwareSerial(10, 11);  // RX, TX
 DFRobotDFPlayerMini myDFPlayer;
 void playSound();
+unsigned long timer = 0;
 
-void setup()
-{
+void setup() {
   mySoftwareSerial.begin(9600);  // samskiptin
   // Use softwareSerial to communicate with mp3.
   if (!myDFPlayer.begin(mySoftwareSerial)) {  
     while(true);
   }
+myDFPlayer.volume(10);  // Set volume value. From 0 to 30
 }
 
-void loop(){
+void loop() {
  playSound();
 }  
 
-void playSound(){
-  static unsigned long timer = millis();  
-  if (millis() - timer > 5000) {
-    timer = millis();  
-    myDFPlayer.volume(10);  // Set volume value. From 0 to 30
-    myDFPlayer.play(1);  //Play next mp3 every 5 second.
+void playSound() {
+  if (millis() >= timer + 5000) {
+    timer += 5000;  
+    myDFPlayer.play(1);     // Play next mp3 every 5 second.
   }
 }
 
