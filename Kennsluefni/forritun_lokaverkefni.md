@@ -4,7 +4,7 @@
 
 ### MP3 spilari
  
-Tutorial: https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299 og [kóðadæmi](../Kodi/DFPlayer_Demo2.ino)
+[Tutorial](https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299) og [kóðadæmi](../Kodi/DFPlayer_Demo2.ino)
 
 :warning: Muna að aftengja RX pinna á MP3 spilara meðan kóða er hlaðið upp (e. upload) á Arduino.
 
