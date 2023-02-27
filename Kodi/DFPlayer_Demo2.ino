@@ -31,27 +31,27 @@ Driver for DFPlayer Mini from DFRobot:     https://www.arduino.cc/reference/en/l
 
 SoftwareSerial mySoftwareSerial(10, 11);  // RX, TX
 DFRobotDFPlayerMini myDFPlayer;
+void playSound();
 
 void setup()
 {
   mySoftwareSerial.begin(9600);  // samskiptin
-
   // Use softwareSerial to communicate with mp3.
   if (!myDFPlayer.begin(mySoftwareSerial)) {  
     while(true);
   }
-
-  myDFPlayer.volume(10);  // Set volume value. From 0 to 30
-  myDFPlayer.play(1);     // Play the first mp3
 }
 
-void loop()
-{
+void loop(){
+ playSound();
+}  
+
+void playSound(){
   static unsigned long timer = millis();  
   if (millis() - timer > 5000) {
-    timer = millis();
-    myDFPlayer.next();  //Play next mp3 every 5 second.
+    timer = millis();  
+    myDFPlayer.volume(10);  // Set volume value. From 0 to 30
+    myDFPlayer.play(1);  //Play next mp3 every 5 second.
   }
+}
 
-}    
-  
