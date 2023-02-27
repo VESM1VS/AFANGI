@@ -6,7 +6,7 @@
  
 [Tutorial](https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299) til að geta spila MP3 hljóðskrá með MP3 spilara og hátalara.
 - [kóðadæmi](../Kodi/DFPlayer_Demo2.ino)
-- [DFRobotDFPlayerMini safn](https://github.com/DFRobot/DFRobotDFPlayerMini/archive/1.0.3.zip)
+- [DFRobotDFPlayerMini safn](https://github.com/DFRobot/DFRobotDFPlayerMini/archive/1.0.3.zip), líka hægt að sækja með _Library Manager_.
 
 :warning: Muna að aftengja RX pinna á MP3 spilara meðan kóða er hlaðið upp (e. upload) á Arduino.
 
