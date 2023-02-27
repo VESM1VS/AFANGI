@@ -29,7 +29,7 @@ Sýnikóði er [hér](../Kodi/ultrasonic.ino).
 - [Tveir Servo mótorar - sweep á misjöfnum hraða](https://wokwi.com/projects/349794862688633427)
 - [Servo (sweep) og DFPlayer](https://github.com/VESM1VS/AFANGI/blob/main/Kodi/TDelay_Servo_DFPlayer.ino)
 - [Servo, Sonic og LED](https://wokwi.com/projects/349337061426201170) _(Servo og LED stjórnast með fjarlægð úr Sonic)_
-- [DC mótor með L298n](../Kodi/einn_dc_l298n.ino) 
+- [DC mótor með L298n](https://github.com/VESM1VS/AFANGI/blob/main/Kodi/einn_dc_l298n.ino) 
 
 ---
 
