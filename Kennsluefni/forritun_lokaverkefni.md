@@ -11,6 +11,12 @@
 
 <!-- :warning: Muna að aftengja RX pinna á MP3 spilara meðan kóða er hlaðið upp (e. upload) á Arduino.  -->
 
+<!-- 
+- [Wiring DFPlayer Mini (MP3 Module) to Arduino. Stereo/Mono Diagrams](https://circuitjournal.com/how-to-use-the-dfplayer-mini-mp3-module-with-an-arduino) 
+- [DFplayer Mini communication issue](https://forum.digikey.com/t/dfplayer-mini-communication-issue/18159)
+   - virðist vinna á 4.2v logic, nota viðnám eða level shifter IC
+-->
+
 ---
 
 ### Ultrasonic fjarlægðarmælir
