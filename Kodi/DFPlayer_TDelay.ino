@@ -29,7 +29,7 @@ Tutorial: https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299
 #include "DFRobotDFPlayerMini.h"
 #include "tdelay.h"  
 
-SoftwareSerial mySoftwareSerial(2, 3);  // RX, TX  
+SoftwareSerial mySoftwareSerial(10, 11);  // RX, TX  
 DFRobotDFPlayerMini myDFPlayer;
 void playSound();                         // útfært neðar
 TDelay spilun(5000);                      // Tími fyrir hljóðskrá að spila í millis, 5 sekúndur hér.
