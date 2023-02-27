@@ -4,7 +4,7 @@
 
 ### MP3 spilari
  
-[Tutorial](https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299) til að geta spila MP3 hljóskrá með MP3 spilara og hátalara.
+[Tutorial](https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299) til að geta spila MP3 hljóðskrá með MP3 spilara og hátalara.
 - [kóðadæmi](../Kodi/DFPlayer_Demo2.ino)
 - [DFRobotDFPlayerMini safn](https://github.com/DFRobot/DFRobotDFPlayerMini/archive/1.0.3.zip)
 
