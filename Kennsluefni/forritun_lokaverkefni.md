@@ -48,5 +48,5 @@ Hér er dæmi um hvernig má púsla öllum íhlutunum saman og [forrita](../Kodi
 > servo.h library messes up with the Arduino pwm pins. It disables the 9,10 pins even we haven't connected a servo to that. We have to use pwm other than (9,10) for the dc motor driver's enable pin.
 
 
-![Samsett dæmi](./Lokaverkefni_demoverkefni.png)
+<!-- ![Samsett dæmi](./Lokaverkefni_demoverkefni.png) -->
 
