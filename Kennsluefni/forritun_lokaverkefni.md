@@ -6,10 +6,10 @@
  
 [Tutorial](https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299) til að geta spila MP3 hljóðskrá með MP3 spilara og hátalara.
 - [kóðasýnidæmi með TDelay](../Kodi/DFPlayer_TDelay.ino)
-- _kóðasýnidæmi með; [delay](../Kodi/DFPlayer_Demo2.ino) og [millis](../Kodi/DFPlayer_Demo1.ino)_
+- _kóðasýnidæmi; [delay](../Kodi/DFPlayer_Demo2.ino) og [millis](../Kodi/DFPlayer_Demo1.ino)_
 - [DFRobotDFPlayerMini safn](https://github.com/DFRobot/DFRobotDFPlayerMini/archive/1.0.3.zip), líka hægt að sækja með _Library Manager_.
 
-:warning: Muna að aftengja RX pinna á MP3 spilara meðan kóða er hlaðið upp (e. upload) á Arduino.
+:warning: Muna að aftengja RX pinna á MP3 spilara meðan kóða er hlaðið upp (e. upload) á Arduino. 
 
 ---
 
@@ -21,30 +21,23 @@ Sýnikóði er [hér](../Kodi/ultrasonic.ino).
 
 ---
 
-### TDelay 
-
-Kóðasafnið fyrir TDelay má finna [hér (zip skrá)](https://github.com/VESM1VS/AFANGI/raw/main/Kodi/tdelay.zip). <br>
-Sett inn á Arduino IDE með því að fara í *Sketch->Include Library->Add .ZIP Library...*
+### Sýnidæmi með TDelay 
 
 - [Þrjár LED perur, slembi (e. random) blikktími](https://wokwi.com/projects/349252429929251411)
 - [Einn Servo mótor - (0°-90°-180°-90°-0°)](https://wokwi.com/projects/349789993741320787)
 - [Einn Servo mótor - 0° til 180° til 0° (sweep)](https://wokwi.com/projects/349792066153218642)
 - [Tveir Servo mótorar - sweep á misjöfnum hraða](https://wokwi.com/projects/349794862688633427)
-- [Servo, Sonic og LED, Servo og LED stjórnast með Sonic](https://wokwi.com/projects/349337061426201170)
+- [Servo (sweep) og DFPlayer](https://github.com/VESM1VS/AFANGI/blob/main/Kodi/TDelay_Servo_DFPlayer.ino)
+- [Servo, Sonic og LED](https://wokwi.com/projects/349337061426201170) _(Servo og LED stjórnast með fjarlægð úr Sonic)_
+- [DC mótor með L298n](../Kodi/einn_dc_l298n.ino) 
 
 ---
 
-### DC mótor og L298N DC Motor Driver
-
-[kóði](../Kodi/einn_dc_l298n.ino) með ntokun TDelay.
-
----
-
-### Samsett dæmi
+### Samsett dæmi með öllum íhlutum
 
 Hér er dæmi um hvernig má púsla öllum íhlutunum saman og [forrita](../Kodi/samsett_daemi.ino). Athugið að ef þið þurfið fleiri pinna, að ekki er ráðlegt að nota pinna `0` og `1` á Arduino en það er hægt að nota *Analog* pinnana `AX` þar sem X er 0 til og með 5. Þá er hægt að nota alveg eins og hina pinnana, dæmi: `const int LED3 = A0;` og svo í *setup* fallinu `pinMode(LED3, OUTPUT);`.
 
-:warning: Muna að aftengja RX pinna á MP3 spilara meðan kóða er hlaðið upp (e. upload) á Arduino. 
+<!-- :warning: Muna að aftengja RX pinna á MP3 spilara meðan kóða er hlaðið upp (e. upload) á Arduino. -->
 
 :warning:  DC og Servo vinna ekki samtímis á hvaða pinna sem er. Ekki nota pinna 9 og 10, notið aðra (t.d. 5 og 6) sem eru með ~tákn (e. tilda) fyrir framan pinna. <br>
 > servo.h library messes up with the Arduino pwm pins. It disables the 9,10 pins even we haven't connected a servo to that. We have to use pwm other than (9,10) for the dc motor driver's enable pin.
