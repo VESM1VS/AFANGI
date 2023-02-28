@@ -72,8 +72,8 @@ Hér er sýnt hvernig hægt er að vinna með PVC rör og einn mótor til að ge
    1. samsettning og hreyfing á búk með DC mótor 
    1. forritun á búkhreyfingu
 2. Haus 
+   1. Setja LED í augun.
    1. Hreyfing á kjálka (nota servo tester)
-   1. Seja LED í augun.
    1. Hljóðvinnsla (tal, öskur eða söngur).
    1. Forritun munnhreyfingar útfrá hljóðskrá.
 3. Forritun á kveikju (trigger) 
