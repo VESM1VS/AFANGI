@@ -42,6 +42,9 @@ void setup() {
   motor.write(0);               // mótorinn að byrja í 0°
 
 // DC mótor
+  pinMode(HRADI, OUTPUT);
+  pinMode(STEFNA_A, OUTPUT);
+  pinMode(STEFNA_B, OUTPUT);
   stoppa();                    // upphafsstaðan, verður stopp þar til annað er ákveðið 
 }
 
