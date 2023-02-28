@@ -51,7 +51,6 @@ Hér er sýnt hvernig hægt er að vinna með PVC rör og einn mótor til að ge
 - Fram og aftur: [Grave Grabber](http://www.fulcrumsites.com/haunt/html/the_grave_grabber.html)
 - Fram og aftur og haus upp/niður: [One Armed Grave Grabber](https://www.youtube.com/watch?v=Ill7k_zleuQ) og [hér](http://www.fulcrumsites.com/haunt/html/the_one-armed_grave_grabber.html) 
 - Hliðarhreyfing (liggjandi): [Swaying Zombie](https://www.youtube.com/watch?v=pk85vAiTC9U)
-- Hliðarhreyfing (standandi):[Leering Skeleton](https://www.youtube.com/watch?v=Kyi7D8PKBPQ&ab_channel=deoblo85)
 - Ruggandi (upp/niður): [Rockin Corpse](https://www.youtube.com/watch?v=x_cv7uOKOZo&ab_channel=deoblo85)
 - Ruggandi (fram og aftur) og snúa haus: [The Watcher Prop](https://www.youtube.com/watch?v=M9avbEOjebE&ab_channel=deoblo85)
 
@@ -61,6 +60,8 @@ Hér er sýnt hvernig hægt er að vinna með PVC rör og einn mótor til að ge
 - Flókið: [DIY Legion Prop one motor, 6 movements (linkage og latex)](https://www.youtube.com/watch?v=Bv3bVVeowyg)
 - [Shiatsu (nuddtæki) Zombie Halloween Prop Full Build](https://www.youtube.com/watch?v=U79K-0LTPQw&ab_channel=Montclair%27sLair)
 - [Omars Haunted Trail](http://omarshauntedtrail.com/Props/props.htm)
+- Hliðarhreyfing (standandi):[Leering Skeleton](https://www.youtube.com/watch?v=Kyi7D8PKBPQ&ab_channel=deoblo85)
+
 -->
 
 ---
