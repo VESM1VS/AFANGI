@@ -36,7 +36,10 @@ Sýnikóði er [hér](../Kodi/ultrasonic.ino).
 - [Servo (sweep) og DFPlayer](https://github.com/VESM1VS/AFANGI/blob/main/Kodi/TDelay_Servo_DFPlayer.ino)
 - [Servo (0°-90°-180°-90°-0°) og DC mótor (ein átt) og DFPlayer](https://github.com/VESM1VS/AFANGI/blob/main/Kodi/TDelay_Servo_DCmotor_DFPlayer.ino)
 - [Senur með DC mótor](https://github.com/VESM1VS/AFANGI/blob/main/Kodi/einn_dc_l298n.ino) 
+
+<!-- 
 - [Servo og LED stjórnast með fjarlægð úr Sonic](https://wokwi.com/projects/349337061426201170) 
+-->
 
 ---
 
