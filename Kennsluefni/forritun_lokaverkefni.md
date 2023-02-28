@@ -1,4 +1,4 @@
-## Að forrita animatronics senu 
+## Að forrita senu 
 
 ---
 
