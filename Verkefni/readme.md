@@ -1,2 +1,2 @@
 ## Tímaverkefni
-Haust 2022
+Vor spönn 2, 2023
