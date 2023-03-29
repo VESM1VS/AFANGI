@@ -33,19 +33,12 @@ prósentur eru fyrir breidd og hæð á mynd: <br>`<img src="linkur á ljósmynd
 -->
 
 #### Að bæta við myndbandi
-Drag and drop (.mp4, .mov), sjá [leiðbeiningar](https://www.geeksforgeeks.org/how-to-add-videos-on-readme-md-file-in-a-github-repository/) 
+Dragðu myndband (.mp4, .mov) 8Mb hámark, úr tölvu/síma yfir í readme.md, sjá [dæmi](https://i.stack.imgur.com/vxyiV.gif) 
 
+>  The file is stored as an asset outside the repository. Uploads to githubusercontent and stores it there. Then makes a link in the markdown to that uploaded image `[![Title](Image URL)](Link URL)`. [heimild](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md/4279746#4279746) 
 
-Dæmi: <br>
+<!-- 
 `[![Myndband](https://user-images.githubusercontent.com/117899282/222217311-3d43812d-6750-4b7e-945e-cce67de61149.mp4)](https://user-images.githubusercontent.com/117899282/222217311-3d43812d-6750-4b7e-945e-cce67de61149.mp4)`
-
-
-<!--
-#### Skráarsnið sem virka (liklegast fleiri)
-- mp4 
-- .mov _(hægt að breyta .webm endingu í .mov)_
-
-Currently, the file is stored as an asset outside the repository. Uploads to githubusercontent and stores it there. Then makes a link in the markdown to that uploaded image. [heimild](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md/4279746#4279746) `[![Title](Image URL)](Link URL)`
 -->
 
 #### Myndalinkur á youtube myndband (til vara)
