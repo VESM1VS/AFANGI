@@ -12,19 +12,19 @@
 
 ---
 
-## Að skrifa skýrslu í _readme.md_ 
+### Að skrifa skýrslu í _readme.md_ 
 - [Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia)
 - [Github Markdwon CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
-### Að bæta við fyrirsagnir  
+#### Að bæta við fyrirsagnir  
 ` # texti` <br>
 `## texti`
 
-### Að bæta við link á skrá eða vefsíðu 
+#### Að bæta við link á skrá eða vefsíðu 
 `[texti](linkur)`
 
-### Að bæta við ljósmynd
+#### Að bæta við ljósmynd
 prósentur eru fyrir breidd og hæð á mynd: <br>`<img src="linkur á ljósmynd" width="50%" height="50%">`
 
 <!--
@@ -32,7 +32,7 @@ prósentur eru fyrir breidd og hæð á mynd: <br>`<img src="linkur á ljósmynd
 - markdown, ekki hægt að breyta breidd og hæð: <br> `![myndaheiti](linkur á ljósmynd)`
 -->
 
-### Að bæta við myndbandi
+#### Að bæta við myndbandi
 Drag and drop (.mp4, .mov), sjá [leiðbeiningar](https://www.geeksforgeeks.org/how-to-add-videos-on-readme-md-file-in-a-github-repository/) 
 
 
@@ -48,7 +48,7 @@ Dæmi: <br>
 Currently, the file is stored as an asset outside the repository. Uploads to githubusercontent and stores it there. Then makes a link in the markdown to that uploaded image. [heimild](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md/4279746#4279746) `[![Title](Image URL)](Link URL)`
 -->
 
-### Myndalinkur á youtube myndband (til vara)
+#### Myndalinkur á youtube myndband (til vara)
 <!-- https://orbitingweb.com/blog/view-youtube-thumbnail-image/ -->
 
 `[<img src="https://img.youtube.com/vi/<VIDEO ID>/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/<VIDEO ID>)`
