@@ -53,7 +53,7 @@ Currently, the file is stored as an asset outside the repository. Uploads to git
 
 `[<img src="https://img.youtube.com/vi/<VIDEO ID>/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/<VIDEO ID>)`
 
-dæmi: <br>
+Dæmi: <br>
 `<img src="https://img.youtube.com/vi/NeMznGbVOKM/hqdefault.jpg" width="50%">](https://youtu.be/NeMznGbVOKM)`
 
 
