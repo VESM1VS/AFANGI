@@ -44,7 +44,7 @@ prósentur eru fyrir breidd og hæð á mynd: <br>`<img src="linkur á ljósmynd
 ---
 
 ### Að bæta við myndbandi
-Drag and drop (mp4, gif)[leiðbeiningar](https://www.geeksforgeeks.org/how-to-add-videos-on-readme-md-file-in-a-github-repository/) 
+Drag and drop (mp4, .mov, gif), sjá [leiðbeiningar](https://www.geeksforgeeks.org/how-to-add-videos-on-readme-md-file-in-a-github-repository/) 
 
 #### Skráarsnið sem virka (liklegast fleiri)
 - mp4 
