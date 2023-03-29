@@ -17,7 +17,7 @@
 - [Github Markdwon CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
-#### Að bæta við fyrirsagnir  
+#### Að bæta við fyrirsagnir (h1, h2)
 ` # texti` <br>
 `## texti`
 
