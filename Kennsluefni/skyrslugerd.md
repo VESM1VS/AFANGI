@@ -34,11 +34,13 @@ prósentur eru fyrir breidd og hæð á mynd.
 - markdown, ekki hægt að breyta breidd og hæð: <br> `![myndaheiti](linkur á ljósmynd)`
 -->
 
+
 #### Að bæta við myndbandi (Drag & Drop)
-[Dragðu myndband](https://i.stack.imgur.com/vxyiV.gif) (.mp4, .mov) 10MB hámark úr tölvu/síma yfir í readme.md, [leiðbeiningar](https://medium.com/huawei-developers/how-to-add-an-embedded-video-on-github-readme-file-450f83be157a).
+[Dragðu myndband](https://i.stack.imgur.com/vxyiV.gif) (.mp4, .mov) 10MB hámark úr tölvu/síma yfir í readme.md, Sjá nánar [How to Add an Embedded Video to Github Readme Files](https://medium.com/huawei-developers/how-to-add-an-embedded-video-on-github-readme-file-450f83be157a).
 
+> The file is stored as an asset outside the repository. Uploads to githubusercontent and stores it there. Then makes a link in the markdown to that uploaded image, `[![Title](Image URL)](Link URL)`. 
 
->  The file is stored as an asset outside the repository. Uploads to githubusercontent and stores it there. Then makes a link in the markdown to that uploaded image `[![Title](Image URL)](Link URL)`. [heimild](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md/4279746#4279746) 
+<!-- [heimild](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md/4279746#4279746) --> 
 
 <!-- 
 `[![Myndband](https://user-images.githubusercontent.com/117899282/222217311-3d43812d-6750-4b7e-945e-cce67de61149.mp4)](https://user-images.githubusercontent.com/117899282/222217311-3d43812d-6750-4b7e-945e-cce67de61149.mp4)`
