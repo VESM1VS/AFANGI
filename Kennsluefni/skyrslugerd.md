@@ -11,7 +11,10 @@
 -->
 
 ---
-## Að skrifa skýrslu í _readme.md_ með markdown sniði.
+
+## Að skrifa skýrslu í _readme.md_ 
+- [Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia)
+- [Github Markdwon CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 ### Að bæta við fyrirsagnir  
