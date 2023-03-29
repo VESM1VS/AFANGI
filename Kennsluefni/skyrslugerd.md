@@ -55,8 +55,7 @@ Dæmi: <br>
 
 <br>
 
-> Currently, the file is stored as an asset outside the repository. Uploads to githubusercontent and stores it there. Then makes a link in the markdown to that uploaded image. [heimild](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md/4279746#4279746) <br>
-`[![Title](Image URL)](Link URL)`
+> Currently, the file is stored as an asset outside the repository. Uploads to githubusercontent and stores it there. Then makes a link in the markdown to that uploaded image. [heimild](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md/4279746#4279746) `[![Title](Image URL)](Link URL)`
 
 ---
 
