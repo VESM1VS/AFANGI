@@ -36,7 +36,7 @@ prósentur eru fyrir breidd og hæð á mynd.
 
 
 #### Að bæta við myndbandi (Drag & Drop)
-[Dragðu myndband](https://i.stack.imgur.com/vxyiV.gif) (.mp4, .mov) 10MB hámark úr tölvu/síma yfir í readme.md, Sjá nánar [How to Add an Embedded Video to Github Readme Files](https://medium.com/huawei-developers/how-to-add-an-embedded-video-on-github-readme-file-450f83be157a).
+[Dragðu myndband](https://i.stack.imgur.com/vxyiV.gif) (.mp4, .mov) 10MB hámark úr tölvu/síma yfir í readme.md. Sjá nánar [How to Add an Embedded Video to Github Readme Files](https://medium.com/huawei-developers/how-to-add-an-embedded-video-on-github-readme-file-450f83be157a).
 
 > The file is stored as an asset outside the repository. Uploads to githubusercontent and stores it there. Then makes a link in the markdown to that uploaded image, `[![Title](Image URL)](Link URL)`. 
 
