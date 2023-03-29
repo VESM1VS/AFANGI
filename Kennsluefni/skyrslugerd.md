@@ -13,7 +13,6 @@
 ---
 ## Að skrifa skýrslu í _readme.md_ með markdown sniði.
 
-<br>
 
 ### Að bæta við fyrirsagnir  
 ` # texti` <br>
