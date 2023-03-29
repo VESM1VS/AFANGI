@@ -25,7 +25,7 @@
 `[texti](linkur)`
 
 #### Að bæta við ljósmynd
-prósentur eru fyrir breidd og hæð á mynd: <br>`<img src="linkur á ljósmynd" width="50%" height="50%">`
+`<img src="linkur á ljósmynd" width="50%" height="50%">` _prósentur eru fyrir breidd og hæð á mynd_
 
 <!--
 - með pixla fyrir breidd og hæð: <br> `<img src="linkur á ljósmynd" width="500" height="500">`
