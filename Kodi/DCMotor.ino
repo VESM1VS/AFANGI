@@ -1,3 +1,4 @@
+
 // DC mótor
 const int HRADI = 5;        // Verður að vera PWM pinni þ.e. með tildatákni fyrir framan
 const int STEFNA_A = 2;     
@@ -6,9 +7,7 @@ void haegri(int hradi);     // sjá útfærsluna á fallinu neðar
 void vinstri(int hradi);    // sjá útfærsluna á fallinu neðar
 void stoppa();              // sjá útfærsluna á fallinu neðar
 
-
 void setup() {
-  
 // DC mótor
   pinMode(HRADI, OUTPUT);
   pinMode(STEFNA_A, OUTPUT);
