@@ -7,8 +7,6 @@
 const int ECHO = 2;
 const int TRIG = 4;
 
-int fjarlaegd(); // fall sem sér um mælinguna, útfært hér fyrir neðan
-
 // ---------- Servo mótorar ----------
 Servo servo1;
 const int S1 = 3; // pinninn
