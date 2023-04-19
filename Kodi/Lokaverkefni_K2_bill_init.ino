@@ -56,3 +56,4 @@ int maelaFjarlaegd()  {
 	// mælt hvað púlsarnir voru lengi að berast til baka
 	fjarlaegd = pulseIn(echoPin,HIGH)/58.0; // deilt með 58 til að breyta í cm
 }
+
