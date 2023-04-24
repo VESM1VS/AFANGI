@@ -1,4 +1,4 @@
-## Hér er sýnt hvernig hægt er að vinna með PVC rör og einn mótor til að gera búk hreyfingar:
+### Hér er sýnt hvernig hægt er að vinna með PVC rör og einn mótor til að gera búk hreyfingar:
 
 - Samantekt hjá [Steve Koci](https://youtu.be/mDxZNeLr8nI).
 - Snúningur (hægri/vinstri): [Watchman](https://www.spiderhillpropworks.com/Animated-Watchman-Complete-Kit_p_32.html) og [sitjandi](https://www.youtube.com/watch?v=wxkXeRpMUpY&ab_channel=FrightProps)
