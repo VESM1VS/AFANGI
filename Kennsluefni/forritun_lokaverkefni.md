@@ -2,7 +2,6 @@
  
 [Tutorial](https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299) til að geta spila MP3 hljóðskrá með MP3 spilara og hátalara.
 - [kóðasýnidæmi með TDelay](../Kodi/DFPlayer_TDelay.ino) 
-   - _önnur kóðasýnidæmi; [delay](../Kodi/DFPlayer_Demo2.ino) og [millis](../Kodi/DFPlayer_Demo1.ino)_
 - [DFRobotDFPlayerMini safn](https://github.com/DFRobot/DFRobotDFPlayerMini/archive/1.0.3.zip), líka hægt að sækja með _Library Manager_.
 
 <!-- :warning: Muna að aftengja RX pinna á MP3 spilara meðan kóða er hlaðið upp (e. upload) á Arduino.  -->
@@ -11,6 +10,7 @@
 - [Wiring DFPlayer Mini (MP3 Module) to Arduino. Stereo/Mono Diagrams](https://circuitjournal.com/how-to-use-the-dfplayer-mini-mp3-module-with-an-arduino) 
 - [DFplayer Mini communication issue](https://forum.digikey.com/t/dfplayer-mini-communication-issue/18159)
    - virðist vinna á 4.2v logic, nota viðnám eða level shifter IC
+- _önnur kóðasýnidæmi; [delay](../Kodi/DFPlayer_Demo2.ino) og [millis](../Kodi/DFPlayer_Demo1.ino)_
 -->
 
 ---
