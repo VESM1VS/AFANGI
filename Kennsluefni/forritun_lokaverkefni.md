@@ -28,9 +28,10 @@ Til að ákveða hvenær hreyfingarnar eiga að byrja má nota [HC-SR04 Ultrason
 Hér er dæmi um hvernig má púsla öllum íhlutunum saman og forrita, [sýnikóði](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/Lokaverkefni_k2_demo.ino). Athugið að ef þið þurfið fleiri pinna, að ekki er ráðlegt að nota pinna `0` og `1` á Arduino en það er hægt að nota *Analog* pinnana `AX` þar sem X er 0 til og með 5. Þá er hægt að nota alveg eins og hina pinnana, dæmi: `const int LED3 = A0;` og svo í *setup* fallinu `pinMode(LED3, OUTPUT);`.
 
 :warning:  DC og Servo vinna ekki samtímis á hvaða pinna sem er. Ekki nota pinna 9 eða 10 með DC mótor fyrir hraðastillingar (ENA eða ENB), notið aðra sem eru með ~tákn (e. tilda) fyrir framan pinna. <br>
-> servo.h library messes up with the Arduino pwm pins. It disables the 9,10 pins even we haven't connected a servo to that. We have to use pwm other than (9,10) for the dc motor driver's enable pin.
 
 ![Samsett dæmi](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/Lokaverkefni_k2_demo.png)
+
+> servo.h library messes up with the Arduino pwm pins. It disables the 9,10 pins even we haven't connected a servo to that. We have to use pwm other than (9,10) for the dc motor driver's enable pin.
 
 <!--
 ![Samsett dæmi](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/Lokaverkefni_demoverkefni_v23.png) 
