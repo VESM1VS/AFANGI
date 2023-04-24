@@ -43,9 +43,9 @@ Hér er dæmi um hvernig má púsla öllum íhlutunum saman og forrita, [sýnik�
 ### Fleiri sýnidæmi með TDelay 
 
 - [Þrjár LED perur, slembi (e. random) blikktími](https://wokwi.com/projects/349252429929251411)
-- [Tveir Servo mótorar - sweep á misjöfnum hraða](https://wokwi.com/projects/349794862688633427)
 - [Servo (sweep) og DFPlayer](https://github.com/VESM1VS/AFANGI/blob/main/Kodi/TDelay_Servo_DFPlayer.ino)
 - [Servo (0°-90°-180°-90°-0°) og DC mótor (ein átt) og DFPlayer](https://github.com/VESM1VS/AFANGI/blob/main/Kodi/TDelay_Servo_DCmotor_DFPlayer.ino)
+- [Tveir Servo mótorar - sweep á misjöfnum hraða](https://wokwi.com/projects/349794862688633427)
 - [Senur með DC mótor](https://github.com/VESM1VS/AFANGI/blob/main/Kodi/einn_dc_l298n.ino) 
 
 <!-- 
