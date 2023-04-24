@@ -1,4 +1,4 @@
-# Tímaverkefni 5 - Animatronics fígúra
+# Tímaverkefni 5 - Animatronics 
 
 - 35% af heildareinkunn
 - Hópverkefni (3-4 saman)
