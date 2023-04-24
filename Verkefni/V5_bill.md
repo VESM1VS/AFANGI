@@ -13,7 +13,7 @@
 
 ## Verkþættir
 
-### Grunnkröfur (60%)
+### Grunnkröfur (50%)
 
 1. Samsetning á bíl:
    1. Setjið bílinn saman samkvæmt teikningu.
@@ -48,7 +48,7 @@
           1. Stoppa í 1 sekúndu.
    3. Bætið núna inn árekstrarvörn með Ultrasonic skynjaranum. Árekstrarvörnin á að virka þannig að ef bíllinn skynjar eitthvað í minna en 50 cm. fjarlægð á hann að stoppa og beygja svo í 90° annaðhvort til hægri eða vinstri. Bíllinn velur hvort hann fer til hægri eða vinstri með slembifalli (e. random), sjá kóðadæmi [hér](https://www.arduino.cc/reference/en/language/functions/random-numbers/random/).
 
-### Aukakröfur (30%)
+### Aukakröfur (40%)
 
 1. (15%) Betri árekstrarvörn. Þegar bíllinn skynjar eitthvað innan 50 cm. fjarlægðar gerir hann eftirfarandi:
    1. Stoppar.
@@ -58,9 +58,10 @@
    5. Mælir fjarlægð í næstu hindrun og geymir í breytu.
    6. Ef fjarlægðirnar sem hann mældi eru báðar minni en 50 cm. þá beygir hann í 90° til hægri og keyrir svo áfram.
    7. Annars ef önnur eða báðar fjarlægðirnar sem hann mældi eru stærri en 50 cm. þá á hann að snúa sér í þá átt þar sem fjarlægðin er meiri. 
-2. (5%) Stefnuljós, vinstri og hægri. Þegar bíllinn beygir kviknar ljós sem sýnir í hvaða átt hann er að beygja. Ljósin slokkna þegar bíllin keyrir áfram, er stopp eða bakkar.
-3. (5%) Lögguljós. Þegar bíllinn keyrir áfram blikka rautt og blátt ljós (krefst notkunar á `TDelay`). Bæði ljósin slokkna þegar bíllinn beygir, stoppar eða bakkar.
-4. (5%) Annað sem ykkur dettur í hug í samráði við kennara.
+2. (5%) Stefnuljós og lögguljós:
+   1. Stefnuljós, vinstri og hægri. Þegar bíllinn beygir kviknar ljós sem sýnir í hvaða átt hann er að beygja. Ljósin slokkna þegar bíllin keyrir áfram, er stopp eða bakkar.
+   1. Lögguljós. Þegar bíllinn keyrir áfram blikka rautt og blátt ljós (krefst notkunar á `TDelay`). Bæði ljósin slokkna þegar bíllinn beygir, stoppar eða bakkar.
+3. (20%) Annað sem ykkur dettur í hug í samráði við kennara.
 
 ---
 
@@ -76,11 +77,10 @@ Búið til public Github geymslu (repository) og skrifið skýrslu í `readme.md
 
 ## Matsþættir
 
-1. Samsetning á bíl (10%)
-1. Lóðun (10%)
-1. Grunnvirkni (40%)
-2. Aukahlutir (30%) 
-3. Skýrsla (10%)
+1. Samsetning á bíl og lóðun (10%)
+2. Grunnvirkni (40%)
+3. Aukahlutir (40%) 
+4. Skýrsla (10%)
 
 ---
 
