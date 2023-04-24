@@ -1,7 +1,3 @@
-## Að forrita senu 
-
----
-
 ### MP3 spilari
  
 [Tutorial](https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299) til að geta spila MP3 hljóðskrá með MP3 spilara og hátalara.
