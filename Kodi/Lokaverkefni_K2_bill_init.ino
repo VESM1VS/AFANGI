@@ -3,8 +3,8 @@ int echoPin = 9;
 int trigPin = 10;
 
 // Mótor A
-int pwmA = 5;
-int Ai1 = 3;
+int pwmA = 3;
+int Ai1 = 5;
 int Ai2 = 4;
 
 // Mótor B
