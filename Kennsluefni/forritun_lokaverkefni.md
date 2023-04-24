@@ -40,7 +40,7 @@ Hér er dæmi um hvernig má púsla öllum íhlutunum saman og forrita, [sýnik�
 
 ---
 
-### Fleiri sýnidæmi með TDelay 
+### Fleiri sýnikóðar
 
 - [Þrjár LED perur, slembi (e. random) blikktími](https://wokwi.com/projects/349252429929251411)
 - [Einn Servo mótor - (0°-90°-180°-90°-0°)](https://wokwi.com/projects/349789993741320787)
