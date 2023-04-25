@@ -3,6 +3,8 @@
 - 35% af heildareinkunn
 - Hópverkefni (2 saman)
 
+:warning: Ef tveir eða fleiri hópar skila sama kóðanum fá þeir hópar 0 (núll) fyrir verkefnið í heild sinni.
+
 ---
 
 ## Verkefnalýsing 
@@ -34,7 +36,7 @@
             HIGH | LOW | Réttsælis
             LOW | HIGH | Rangsælis
             LOW | LOW | Stopp
-       2. Sannreynið virkni fallanna hjá ykkur með því að láta bílinn keyra eftirfarandi á gólfinu:
+       2. :movie_camera: Sannreynið virkni fallanna hjá ykkur með því að láta bílinn keyra eftirfarandi á gólfinu:
           1. Keyra áfram á hraðanum 255 í 1 sekúndu.
           1. Keyra áfram á hraðanum 127 í 1 sekúndu.
           1. Stoppa í 1 sekúndu.
@@ -46,11 +48,11 @@
           1. Stoppa í 1 sekúndu.
           1. Beygja til hægri í 180°.
           1. Stoppa í 1 sekúndu.
-   3. Bætið núna inn árekstrarvörn með Ultrasonic skynjaranum. Árekstrarvörnin á að virka þannig að ef bíllinn skynjar eitthvað í minna en 50 cm. fjarlægð á hann að stoppa og beygja svo í 90° annaðhvort til hægri eða vinstri. Bíllinn velur hvort hann fer til hægri eða vinstri með slembifalli (e. random), sjá kóðadæmi [hér](https://www.arduino.cc/reference/en/language/functions/random-numbers/random/).
+   3. :movie_camera: Bætið núna inn árekstrarvörn með Ultrasonic skynjaranum. Árekstrarvörnin á að virka þannig að ef bíllinn skynjar eitthvað í minna en 50 cm. fjarlægð á hann að stoppa og beygja svo í 90° annaðhvort til hægri eða vinstri. Bíllinn velur hvort hann fer til hægri eða vinstri með slembifalli (e. random), sjá kóðadæmi [hér](https://www.arduino.cc/reference/en/language/functions/random-numbers/random/).
 
 ### Aukakröfur (40%)
 
-1. (15%) Betri árekstrarvörn. Þegar bíllinn skynjar eitthvað innan 50 cm. fjarlægðar gerir hann eftirfarandi:
+1. (15%) :movie_camera: Betri árekstrarvörn. Þegar bíllinn skynjar eitthvað innan 50 cm. fjarlægðar gerir hann eftirfarandi:
    1. Stoppar.
    2. Snýr sér 90° til vinstri og stoppar.
    3. Mælir fjarlægð í næstu hindrun og geymir í breytu.
@@ -58,10 +60,12 @@
    5. Mælir fjarlægð í næstu hindrun og geymir í breytu.
    6. Ef fjarlægðirnar sem hann mældi eru báðar minni en 50 cm. þá beygir hann í 90° til hægri og keyrir svo áfram.
    7. Annars ef önnur eða báðar fjarlægðirnar sem hann mældi eru stærri en 50 cm. þá á hann að snúa sér í þá átt þar sem fjarlægðin er meiri. 
-2. (5%) Stefnuljós og lögguljós:
+2. (5%) :movie_camera: Stefnuljós og lögguljós:
    1. Stefnuljós, vinstri og hægri. Þegar bíllinn beygir kviknar ljós sem sýnir í hvaða átt hann er að beygja. Ljósin slokkna þegar bíllin keyrir áfram, er stopp eða bakkar.
    1. Lögguljós. Þegar bíllinn keyrir áfram blikka rautt og blátt ljós (krefst notkunar á `TDelay`). Bæði ljósin slokkna þegar bíllinn beygir, stoppar eða bakkar.
-3. (20%) Annað sem ykkur dettur í hug í samráði við kennara.
+3. (20%) :movie_camera: Annað sem ykkur dettur í hug í samráði við kennara.
+
+:movie_camera: Myndband af virkni á að vera í skýrslunni.
 
 ---
 
