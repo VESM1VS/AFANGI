@@ -33,7 +33,7 @@
  
 ---
 
-### Skýrsla 
+### Skýrsla og skil
 Búið til public Github geymslu (repository) og skrifið skýrslu í `readme.md` sem innheldur eftirfarandi: 
 
 1. Stutt myndband af virkni og notkun. 
@@ -41,12 +41,13 @@ Búið til public Github geymslu (repository) og skrifið skýrslu í `readme.md
 1. Ljósmyndir af mekaník, samsettningu og fígúru.
 1. Kóði.
 
+Skilið slóð á readme.md sem innheldur skýrslu á Innu. 
+
 --- 
 
-## Námsmat og skil
+## Námsmat 
 
-Skilið slóð á readme.md sem innheldur skýrslu á Innu. <br>
-Yfirferð og námsmat á sér stað í tíma. Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er ábótavant og ekkert ef hann vantar. Einkunn byggir á útfærslum á eftirfarandi matsþáttum og vinnuframlagi sem á sér stað í kennslustund:
+Yfirferð og námsmat á sér stað í tíma. Einkunn byggir á útfærslum á eftirfarandi matsþáttum og vinnuframlagi sem á sér stað í kennslustund:
 
 1. Búkur: Uppsetning og ólínuleg hreyfing á búk t.d. vagga, upp/niður, fram/aftur (DC motor) með kóða. **(25%)**
 1. Haus: LED í augu, samhæfing hreyfingu á munn (micro servo) við hljóð með kóða **(25%)**
@@ -55,8 +56,17 @@ Yfirferð og námsmat á sér stað í tíma. Gefið er fullt fyrir hvern lið s
 1. Forritun á senu (samhæfing). **(25%)**
 1. Skýrsla **(5%)**
 
+
+Einkunn fyrir hvern ofangreindan lið: 
+
+- 4/4 lausn er vel útfærð og virkni til fyrirmyndar.
+- 3/4 lausn er ekki fullnægjandi, smávægilega ábótavant.
+- 2/4 lausn er ábótavant, helmingur er útfærður.
+- 1/4 lausn er stórlega ábótavant en tími og kóðavinna lögð í lausn.
+- 0/4 lausn vantar eða óunnin.
+
 Fyrir hverja kennslulotu (2 klst) í skóla sem nemandi mætir ekki dregst 0.5 frá einkunn hjá viðkomandi. 
- 
+
 
 <!--
 aukakrafa: 1-3 axis gimbal hreyfing á háls með haus, höndum, olnboga með servos.
