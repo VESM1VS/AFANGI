@@ -45,6 +45,7 @@ Búið til public Github geymslu (repository) og skrifið skýrslu í `readme.md
 
 ## Námsmat og skil
 
+Skilið slóð á readme.md sem innheldur skýrslu á Innu. <br>
 Yfirferð og námsmat á sér stað í tíma. Gefið er fullt fyrir hvern lið sem er fullnægjandi, hálft ef hann er ábótavant og ekkert ef hann vantar. Einkunn byggir á útfærslum á eftirfarandi matsþáttum og vinnuframlagi sem á sér stað í kennslustund:
 
 1. Búkur: Uppsetning og ólínuleg hreyfing á búk t.d. vagga, upp/niður, fram/aftur (DC motor) með kóða. **(25%)**
@@ -54,7 +55,7 @@ Yfirferð og námsmat á sér stað í tíma. Gefið er fullt fyrir hvern lið s
 1. Forritun á senu (samhæfing). **(25%)**
 1. Skýrsla **(5%)**
 
-Fyrir hverja kennslulotu (2 klst) í skóla sem nemandi mætir ekki dregst 0.5 frá einkunn hjá viðkomandi. Skilið slóð á readme.md sem innheldur skýrslu á Innu. 
+Fyrir hverja kennslulotu (2 klst) í skóla sem nemandi mætir ekki dregst 0.5 frá einkunn hjá viðkomandi. 
  
 
 <!--
