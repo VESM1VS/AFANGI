@@ -65,7 +65,7 @@ Einkunn fyrir hvern ofangreindan lið:
 - 1/4 lausn er stórlega ábótavant en tími og kóðavinna lögð í lausn.
 - 0/4 lausn vantar eða óunnin.
 
-Fyrir hverja kennslulotu (2 klst) í skóla sem nemandi mætir ekki dregst 0.5 frá einkunn hjá viðkomandi. 
+Fyrir hverja kennslulotu (2 klst) í skóla sem nemandi mætir ekki dregst **0.5** frá einkunn hjá viðkomandi. 
 
 
 <!--
