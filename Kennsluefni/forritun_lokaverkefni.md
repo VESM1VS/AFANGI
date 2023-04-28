@@ -1,7 +1,6 @@
 ### MP3 spilari
  
-[Tutorial](https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299) til að geta spila MP3 hljóðskrá með MP3 spilara og hátalara.
-- Sækja þarf safnið [DFRobotDFPlayerMini](https://github.com/DFRobot/DFRobotDFPlayerMini/archive/1.0.3.zip) með _Library Manager_ í Arduino IDE.
+[Tutorial](https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299) til að geta spila MP3 hljóðskrá með MP3 spilara og hátalara. Sækja þarf safnið [DFRobotDFPlayerMini](https://github.com/DFRobot/DFRobotDFPlayerMini/archive/1.0.3.zip) með _Library Manager_ í Arduino IDE.
 - [Sýnikóð með TDelay](../Kodi/DFPlayer_TDelay.ino) 
 - [Sýnikóði með delay](../Kodi/DFPlayer_Demo1.ino) 
 
