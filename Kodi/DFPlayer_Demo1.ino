@@ -48,11 +48,6 @@ void setup()
 
 void loop() 
 {
-  playSound();  // spila hljóð.
-}    
-
-void playSound()
-{  
    myDFPlayer.volume(10);  // Hljóðstyrkur (volume) frá 0 til 30  (má líka vera í setup)
    myDFPlayer.play(1);     // spilum fyrsta mp3 á SD kortinu.
    delay(4000);            // leyfum hljóðskrá að klárast, tekur 4 sekúndur. 
