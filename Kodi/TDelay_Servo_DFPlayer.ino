@@ -27,7 +27,7 @@ void setup() {
   if (!myDFPlayer.begin(mySoftwareSerial)) {  
     while(true);
   }
-  myDFPlayer.volume(5);         // Set volume value. From 0 to 30
+  myDFPlayer.volume(10);         // Set volume value. From 0 to 30
 
 // Servo
   motor.attach(motor_pinni);    // segi servo tilvikinu hvaða pinna á að nota
