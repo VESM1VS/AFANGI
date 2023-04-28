@@ -39,7 +39,7 @@ void loop() {
  munnur();
 }  
 
-// spilar hljóðskrá á x fresti
+// spilar hljóðskrá á 5 sek. fresti
 void playSound() {
   if (spilun.timiLidinn() == true) {
     myDFPlayer.play(1);     // Play mp3 
@@ -47,16 +47,14 @@ void playSound() {
 }
 
 // sweep
-void munnur(){
+void munnur() {
   if(motor_bid.timiLidinn()) {
-    if(hreyfing_til_haegri == true) {
-      stefna++; 
-    } else {  // mótorinn er að hreyfast til hægri
-      stefna--; 
-    }
-    if(stefna == 0 || stefna == 180) {   // ef mótirnn er kominn út á enda, víxla áttunum
-      hreyfing_til_haegri = !hreyfing_til_haegri;
-    }
+    // mótorinn er að hreyfast til vinstri (1 gráða í einu).
+    if(hreyfing_til_haegri == true) {  stefna++; }
+    // mótorinn er að hreyfast til hægri
+    else {  stefna--; }
+    // ef mótirnn er kominn út á enda, víxla þá áttunum
+    if(stefna == 0 || stefna == 180) {   hreyfing_til_haegri = !hreyfing_til_haegri;  }
     motor.write(stefna);
   }
 }
