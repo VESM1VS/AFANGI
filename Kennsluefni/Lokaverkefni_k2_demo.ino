@@ -3,9 +3,19 @@
 #include "tdelay.h"
 #include <Servo.h>
 
+// ---------- LED-perur ----------
+const int LED1 = 7;
+const int LED2 = 8;
+bool led1_on = true;
+TDelay led_delay(500);
+
 // ---------- Ultrasonic skynjarinn ----------
 const int ECHO = 2;
 const int TRIG = 4;
+
+// ---------- MP3 spilarinn ----------
+SoftwareSerial mySoftwareSerial(12, 13);  // RX, TX
+DFRobotDFPlayerMini myDFPlayer;
 
 // ---------- Servo mótorar ----------
 Servo servo1;
@@ -16,15 +26,10 @@ const int S1_MAX = 180; // hversu mikið á servo-inn að hreyfast
 const int S1_MIN = 0;
 TDelay s1_delay(50); // biðtíminn
 
-// ---------- MP3 spilarinn ----------
-SoftwareSerial mySoftwareSerial(12, 13);  // RX, TX
-DFRobotDFPlayerMini myDFPlayer;
-
 // ---------- DC Mótorinn (L298N) ----------
 const int HRADI = 11; // Verður að vera PWM pinni
 const int STEFNA_A = 6;
 const int STEFNA_B = 5;
-
 const int HRATT = 255; // skilgreini hraða
 const int HAEGT = 127;
 
@@ -42,20 +47,13 @@ int senu_timi[] = {1000, 2000, 1000, 4000};
 int senu_teljari = 0;
 // breyta sem veit hversu margir viðburðir eru í senunni
 const int FJOLDI_VIDBURDA = 4;
-
 TDelay motor_delay(1000); // hversu lengi er fyrsti viðburður
 
-// ---------- LED-perur ----------
-const int LED1 = 7;
-const int LED2 = 8;
-bool led1_on = true;
-TDelay led_delay(500);
-
 // ---------- Annað ----------
-
 // breytan er notuð til að halda "sýningu"
 // áfram þó enginn sé lengur nær en 50 cm.
 bool syning_i_gangi = false;
+
 
 void setup() {
     // Ultrasonic 
