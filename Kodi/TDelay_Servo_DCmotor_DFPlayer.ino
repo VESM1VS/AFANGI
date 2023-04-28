@@ -61,7 +61,7 @@ void playSound() {
   }
 }
 
-// sweep
+// Servo
 void munnur(){
   if(motor_bid.timiLidinn()) {
     // uppfæra stefnu_teljara breytuna, modulus notað til að talan verði
