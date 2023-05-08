@@ -65,6 +65,7 @@
    1. Lögguljós. Þegar bíllinn keyrir áfram blikka rautt og blátt ljós (krefst notkunar á `TDelay`, [sýnidæmi](https://wokwi.com/projects/349788528390963795)). Bæði ljósin slokkna þegar bíllinn beygir, stoppar eða bakkar.
 3. (20%) :movie_camera: Annað sem ykkur dettur í hug í samráði við kennara.
    1. Stýripinni ([sýnidæmi](https://github.com/VESM2VT/Efni/blob/main/Kodi/styripinni.ino))
+   1. IR-Samskipti ([sýnidæmi](https://www.circuitbasics.com/arduino-ir-remote-receiver-tutorial/))
 
 :movie_camera: Myndband af virkni á að vera í skýrslunni.
 
