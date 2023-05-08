@@ -64,6 +64,7 @@
    1. Stefnuljós, vinstri og hægri. Þegar bíllinn beygir kviknar ljós sem sýnir í hvaða átt hann er að beygja. Ljósin slokkna þegar bíllin keyrir áfram, er stopp eða bakkar.
    1. Lögguljós. Þegar bíllinn keyrir áfram blikka rautt og blátt ljós (krefst notkunar á `TDelay`, [sýnidæmi](https://wokwi.com/projects/349788528390963795)). Bæði ljósin slokkna þegar bíllinn beygir, stoppar eða bakkar.
 3. (20%) :movie_camera: Annað sem ykkur dettur í hug í samráði við kennara.
+   1. Stýripinni ([sýnidæmi](https://github.com/VESM2VT/Efni/blob/main/Kodi/styripinni.ino))
 
 :movie_camera: Myndband af virkni á að vera í skýrslunni.
 
