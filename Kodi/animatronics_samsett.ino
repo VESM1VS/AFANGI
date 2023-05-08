@@ -33,7 +33,6 @@ const int STEFNA_A = 6;
 const int STEFNA_B = 5;
 TDelay motor_delay(1000); 
 
-
 void setup() {
     // Ultrasonic 
     pinMode(TRIG, OUTPUT);
@@ -47,7 +46,7 @@ void setup() {
     pinMode(HRADI, OUTPUT);
     pinMode(STEFNA_A, OUTPUT);
     pinMode(STEFNA_B, OUTPUT);
-    stoppa(); // upphafsstaðan, verður stopp þar til annað er ákveðið 
+    stoppa(); // upphafsstaða
 
     // MP3 spilarinn
     mySoftwareSerial.begin(9600);  
@@ -73,7 +72,7 @@ void loop() {
 
         // keyra dc í gang
         if(motor_delay.timiLidinn() == true) {
-            afram(200);  // hraði er 200
+            afram(200);  
         }
         
         // byrja að sweep-a servo
