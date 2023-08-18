@@ -1,4 +1,4 @@
-## Verkefni 1
+## Tímaverkefni 1
 
 - 8% af heildareinkunn áfanga.
 - tveir nemendur saman.
