@@ -1,4 +1,4 @@
-## Verkefni 2
+## Tímaverkefni 2
 
 - 8% af heildareinkunn áfanga.
 - einstaklingsverkefni.
