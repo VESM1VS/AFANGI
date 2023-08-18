@@ -14,4 +14,4 @@
 - [ ] lóðun íhluta; vírar, takki, viðnám og led í veroboard, inntakshaus (header) (50%)
 - [ ] virkni á lokaðri rás á veroborði (50%)
 
-Yfirferð og námsmat á sér stað í tíma. Fyrir hvern lið; Fullt fyrir fullnægjandi lausn, hálft ef lausn er ábótavant, ekkert ef stórlega ábótavant eða vantar.
+Yfirferð og námsmat á sér stað í tíma. Fyrir hvern lið; fullt fyrir fullnægjandi lausn, hálft ef lausn er ábótavant, ekkert ef lausn er stórlega ábótavant eða vantar.
