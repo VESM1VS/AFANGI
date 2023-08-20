@@ -75,9 +75,9 @@ Tengimynd
 
 ---
 
-#### 7. Spil. (15%) 
+#### 7. Pörun. (15%) 
 
-Settu upp verklega á brauðbretti einfalt [match borðspil](https://www.youtube.com/watch?v=OwhoSbvQ1yc&ab_channel=Kutuhal-SundayScienceSchool) með einni "spurningu/mynd" og þremur svarmöguleikum. Ef þú velur rangan svarmöguleika þá heyrist í [active buzzer](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/activebuzzer.jpeg) en ef þú velur réttan svarmöguleika þá kemur ljós á LED. Notaðu aflgjafa, brauðbretti, buzzer, viðnám, LED og víra eftir þörfum. Notaðu mulitmælir til að kanna [tengingar](https://youtu.be/SLkPtmnglOI?t=495).
+Settu upp verklega á brauðbretti einfalt [pörunarspil](https://www.youtube.com/watch?v=OwhoSbvQ1yc&ab_channel=Kutuhal-SundayScienceSchool) með einni "spurningu" og þremur svarmöguleikum. Ef þú velur rangan svarmöguleika þá heyrist í [active buzzer](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/activebuzzer.jpeg) en ef þú velur réttan svarmöguleika þá kemur ljós á LED. Notaðu aflgjafa, brauðbretti, buzzer, viðnám, LED og víra eftir þörfum. Notaðu mulitmælir til að kanna [tengingar](https://youtu.be/SLkPtmnglOI?t=495).
 
 
 ---
