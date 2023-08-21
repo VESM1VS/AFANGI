@@ -83,5 +83,6 @@ Settu upp verklega á brauðbretti einfalt [pörunarspil](https://www.youtube.co
 ---
 
 ## Námsmat og skil
+- Skilaðu svörum á Innu.
 - Yfirferð og námsmat á sér stað í tímum úr ofangreindum liðum. 
 
