@@ -9,7 +9,7 @@
 #### 1. Raðtengd lokuð rás. (15%) 
 Settu upp rás með aflgjafa (5V), 220 ohm viðnám og rautt LED. 
 
-1. Notaðu [multimælir](https://youtu.be/SLkPtmnglOI?t=300) og mældu [viðnám](https://www.instructables.com/Resistors/) sem þú átt. Prófaðu að lesa úr litahringjunum á viðnámi, færðu sömu gildi?
+1. Notaðu [multimælir](https://youtu.be/SLkPtmnglOI?t=324) og mældu [viðnám](https://www.instructables.com/Resistors/) sem þú átt. Prófaðu að lesa úr litahringjunum á viðnámi, færðu sömu gildi?
 1. Fáðu rautt [LED](https://www.instructables.com/Diodes/) til að loga á [brauðbretti](https://learn.adafruit.com/collins-lab-breadboards-and-perfboards) í [raðtengdri](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/tengingar.jpeg) lokaðri rás. 
 1. Prófaðu að færa til viðnámið í rásinni, breytist eitthvað?
 1. Prófaðu að skipta út viðnáminu í rásinni fyrir eitthvað annað viðnám, er einhver munur á birtunni?
