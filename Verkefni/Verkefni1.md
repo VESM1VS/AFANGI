@@ -40,7 +40,7 @@ Settu upp rás með Arduino sem aflgjafa (5V), 220 ohm viðnám og rautt LED.
    - summa spennufalla um lokaða rafrás er alltaf núll.
    - Spenna (V) = Straumur (I) * Viðnám (R).  
 1. Ef Forward Voltage á rauðri LED (mv. 20mA straum.) er 1.8V skv. [LED datasheet](https://learn.adafruit.com/all-about-leds/the-led-datasheet) hvert er spennufallið hjá viðnáminu?
-1. Notaðu multimælir og mældu spennufallið yfir LED og viðnámi, stemmir það útfrá KVL? 
+1. Notaðu multimælir og mældu spennufallið yfir LED og svo viðnámi, stemmir það útfrá KVL? 
 1. Hver er straumurinn í rásinni? [Reiknaðu](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-led-series-resistor) það út með Ohm`s lögmálinu. Mundu að breyta [mA](https://github.com/VESM1VS/afangi/wiki/Rafeindat%C3%A6kni#margfaldarar) í Amp fyrir útreikninga. 
 
 ---
