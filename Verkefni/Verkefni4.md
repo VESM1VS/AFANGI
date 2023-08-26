@@ -1,5 +1,5 @@
 ## Tímaverkefni 4 
-- 2D hönnun
+- [2D hönnun](https://github.com/VESM1VS/AFANGI/wiki/2D-hönnun) og [Laserskurður](https://github.com/VESM1VS/AFANGI/wiki/Laserskurður)
 - 8% af heildareinkunn.
 - hópverkefni
   
