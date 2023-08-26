@@ -9,7 +9,7 @@
 
 Hannið rafrænt borðspil með notkun ESP32 og Micropython og íhlutum. Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri); Leds, arcade takka, buzzer/hátalara, [reed switch](https://lastminuteengineers.com/reed-switch-arduino-tutorial/) on/off takka og batterí. Spilið má einnig innihalda; spil, leikmenn og fleira sem ykkur dettur í hug. Hugið vel að leikjaspilun og reglum.
 
-Ýmis borðspil fyrir hugmyndir:
+#### Ýmis borðspil fyrir hugmyndir:
 - [Pyramids secret](https://projecthub.arduino.cc/marcelomaximiano/fac9edcd-e76f-40c8-a4a4-c867072599c4)
 - [Would you rather](https://www.instructables.com/How-To-Make-A-Board-Game-Using-Arduino/)
 - [Electronic boardgames](https://boardgamegeek.com/boardgamecategory/1072/electronic)
