@@ -17,15 +17,18 @@ Hannið rafrænt borðspil með notkun ESP32 og Micropython og íhlutum. Borðsp
 ---
 
 ### Inkscape 
-1. Notið [Tabbed Box Maker](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/TabbedBoxMaker.md) viðbótina fyrir kassa.
+1. Notið [Tabbed Box Maker](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/TabbedBoxMaker.md) viðbót til að búa til kassa.
+  * breidd: 270 mm, lengd: 420 mm, hæð 80 mm. 
 1. Hannið og útfærið [Boardgame template](https://www.pinterest.com.mx/pin/595741856946792806/) útfrá leikjahönnun.   
-   1. Mál á götum:
-      * Arcade takki (stór): 
-      * Arcade takki (mið): 
-      * Arcade takki (lítill): 
-      * 1 x takki on/off: 21 x 12 mm
+1. Mál á götum:
+  * Led (30 mm): 25 mm þvermál
+  * Arcade takki (stór 100 mm): 95 mm þvermál   
+  * Arcade takki (mið 70 mm): 25 mm þvermál
+  * Arcade takki (lítill 30 mm): 25 mm þvermál
+  * Takki on/off (28 mm): 22 mm þvermál
 1. Hafið hljóðgöt 2 - 3 mm fyrir buzzer / hátalara.
-1. Útfærup opnun/lokun á lok til að komast í innviði sem og geyma spilahluti t.d. leikmenn, spil.
+1. Útfærið opnun/lokun á lok til að komast í innviði ( og geyma spilahluti t.d. leikmenn, spil ). 
+1. Skrifið spilaleiðbeiningar á kassa.
 1. Merkið Borðspilið með logo skólans.
 
 ---
