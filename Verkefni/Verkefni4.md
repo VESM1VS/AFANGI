@@ -29,7 +29,7 @@ Hannið rafrænt borðspil með notkun ESP32 og Micropython og íhlutum. Borðsp
 1. Hafið hljóðgöt 2 - 3 mm fyrir buzzer / hátalara.
 1. Útfærið opnun/lokun á lok til að komast í innviði ( og geyma spilahluti t.d. leikmenn, spil ). 
 1. Skrifið spilaleiðbeiningar á kassa.
-1. Merkið Borðspilið með logo skólans.
+1. Merkið Borðspilið með [logo](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/Tskoli_logo.svg) skólans.
 
 ---
 
