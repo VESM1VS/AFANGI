@@ -10,9 +10,8 @@
 > [að búa til Github profile](https://www.youtube.com/watch?v=l6dOkZx0rlE&ab_channel=GhostTogether)
 -->
 
----
 
-### Að skrifa skýrslu í `readme.md` 
+#### Að skrifa skýrslu í `readme.md` 
 - [Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia)
 - [Github Markdwon CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
