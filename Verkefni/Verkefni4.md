@@ -23,9 +23,9 @@ Hannið rafrænt borðspil með notkun ESP32 og Micropython og íhlutum. Borðsp
 1. Mál á götum:
   * Led (30 mm): 25 mm þvermál
   * Arcade takki (stór 100 mm): 94 mm þvermál   
-  * Arcade takki (mið 70 mm): 25 mm þvermál
-  * Arcade takki (lítill 30 mm): 25 mm þvermál
-  * Takki on/off (28 mm): 22 mm þvermál
+  * Arcade takki (mið 65 mm): 25 mm þvermál
+  * Arcade takki (lítill 28 mm): 25 mm þvermál
+  * Takki on/off (23 mm): 22 mm þvermál
 1. Hafið hljóðgöt 2 - 3 mm fyrir buzzer / hátalara.
 1. Útfærið opnun/lokun á lok til að komast í innviði ( og geyma spilahluti t.d. leikmenn, spil ). 
 1. Skrifið spilaleiðbeiningar á kassa.
