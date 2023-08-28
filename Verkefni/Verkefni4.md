@@ -21,7 +21,7 @@ Hannið rafrænt borðspil með notkun ESP32 og Micropython og íhlutum. Borðsp
   * breidd: 270 mm, lengd: 420 mm, hæð 80 mm. 
 1. Hannið og útfærið [Boardgame template](https://www.pinterest.com.mx/pin/595741856946792806/) útfrá leikjahönnun.   
 1. Mál á götum:
-  * Led (30 mm): 25 mm þvermál
+  * Led (6 mm): 2,5 mm þvermál
   * Arcade takki (stór 100 mm): 94 mm þvermál   
   * Arcade takki (mið 65 mm): 25 mm þvermál
   * Arcade takki (lítill 28 mm): 25 mm þvermál
