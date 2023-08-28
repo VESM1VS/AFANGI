@@ -22,7 +22,7 @@ Hannið rafrænt borðspil með notkun ESP32 og Micropython og íhlutum. Borðsp
 1. Hannið og útfærið [Boardgame template](https://www.pinterest.com.mx/pin/595741856946792806/) útfrá leikjahönnun.   
 1. Mál á götum:
   * Led (30 mm): 25 mm þvermál
-  * Arcade takki (stór 100 mm): 95 mm þvermál   
+  * Arcade takki (stór 100 mm): 94 mm þvermál   
   * Arcade takki (mið 70 mm): 25 mm þvermál
   * Arcade takki (lítill 30 mm): 25 mm þvermál
   * Takki on/off (28 mm): 22 mm þvermál
