@@ -8,8 +8,7 @@
 ---
 
 #### 1. ESP32 uppsetning (25%)
-  1. [Install Python 3](https://www.python.org/downloads/) (ef þú átt það eftir)
-  1. [Uppsetning á umhverfi fyrir ESP32](https://github.com/VESM2VT/ESP32/blob/main/verkefni/Timaverkefni0.md) 
+[Uppsetning á umhverfi fyrir ESP32](https://github.com/VESM2VT/ESP32/blob/main/verkefni/Timaverkefni0.md) 
 
 ---
 
