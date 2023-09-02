@@ -9,10 +9,10 @@ print(takki_B.value()) 		# valeu aðferð les stöðu af takka B og print skrifa
 
 while True:
     
-    if takki_A.value():	 			# ef ýtt er á takka A, (ef 1)
-        print(takki_A.value())   	# skrifar út 1 í Shell
+    if takki_A.value():            # ef ýtt er á takka A, (ef 1)
+        print(takki_A.value())     # skrifar út 1 í Shell
     
-    if not takki_B.value():	 		# ef ýtt er á takka B, (ef ekki 1)
-        print(takki_B.value())   	# skrifar út 0 í Shell
+    if not takki_B.value():        # ef ýtt er á takka B, (ef ekki 1)
+        print(takki_B.value())     # skrifar út 0 í Shell
     
 # ath. value fallið les mörgum sinnum á meðan haldið er takka inni.
