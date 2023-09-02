@@ -22,14 +22,6 @@ Settu upp verklega eftirfarandi:
 
 ---
 
-#### 3. Aukaverkefni
-Settu upp verklega eftirfarandi:
-   1. Chapter 7: Project 7.2 Alertor (bls. 124 - 125) 
-   1. Chapter 2: Project 2.2 MINI table lamp (bls. 76 - 80)
-      
-[Python tutorials](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/Python_Tutorial.pdf) (pdf) og [kóðaskrár](https://github.com/VESM1VS/AFANGI/tree/main/python)
-
----
 
 ## Námsmat og skil
 - Yfirferð og námsmat á sér stað í tímum úr ofangreindum liðum.
