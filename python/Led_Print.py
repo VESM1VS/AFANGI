@@ -7,11 +7,11 @@ led = Pin(3, Pin.OUT)   # Segjum að pinni 3 sé úttakspinni.
 # Gerum lykkju sem keyrir að eilífu
 while True:
     
-    led.value(1)     	  # Skrifum 3.3V út á pinna 3
+    led.value(1)     	# Skrifum 3.3V út á pinna 3
     print(led.value())	# Lesum stöðu á led með value aðferð og skrifum út í Shell
     sleep_ms(2000)    	# Bíðum í 2 sekúndur
 
-    led.value(0)    	  # Skrifum 0V út á pinna 3
+    led.value(0)    	# Skrifum 0V út á pinna 3
     print(led.value())	# Lesum stöðu á led með value aðferð og skrifum út í Shell
-    sleep_ms(500)     	# Bíðum aftur í 500 millisekúndur
+    sleep_ms(500)     	# Bíðum í 500 millisekúndur
 
