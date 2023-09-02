@@ -1,7 +1,7 @@
 from machine import Pin
 
-takki_A = Pin(13, Pin.IN, Pin.PULL_DOWN) 	# vír tengdur í 3.3V.
-takki_B = Pin(14, Pin.IN, Pin.PULL_UP)   	# vír tengdur í GND. 
+takki_A = Pin(13, Pin.IN, Pin.PULL_DOWN) 	# Segjum að pinninn sé inntakspinni, vír tengdur í 3.3V. 
+takki_B = Pin(14, Pin.IN, Pin.PULL_UP)   	# Segjum að pinninn sé inntakspinni, vír tengdur í GND. 
 
 # Upphafsstaða, þegar ekki er ýtt á takkana:
 print(takki_A.value()) 		# value aðferð les stöðu af takka A og print skrifar út 0 í Shell.
