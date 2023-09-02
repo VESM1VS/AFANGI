@@ -1,16 +1,15 @@
 from machine import Pin
-from random import randint
+from random import randint  # til að geta unnið með random
 
-led1 = Pin(2, Pin.OUT) # Pinni 1 er tengdur við led peru 
-led2 = Pin(16, Pin.OUT) # Pinni 2 er tengdur við led peru 
-led3 = Pin(17, Pin.OUT) # Pinni 3 er tengdur við led peru 
+led1 = Pin(2, Pin.OUT)
+led2 = Pin(16, Pin.OUT) 
+led3 = Pin(17, Pin.OUT) 
 
-pins = [led1, led2, led3]	 # getum notað lista til að halda utan um mörg gildi.
+pins = [led1, led2, led3]	# notum lista til að halda utan um mörg gildi.
 
-randomLed = randint(0, 2)  # random skilar gildinu 0, 1 eða 3
-print(randomLed)
-
-pins[randomLed].value(1)    # Skrifum 3.3V út á pinna 1, 2 eða 3.
+randomLed = randint(0, 2)   # random skilar gildinu 0, 1 eða 2.
+print(randomLed)            # skrifum random gildið í Shell.
+pins[randomLed].value(1)    # Skrifum 3.3V út á pinna 2, 16 eða 17.
 
 while True:
     pass	# gerir ekkert
