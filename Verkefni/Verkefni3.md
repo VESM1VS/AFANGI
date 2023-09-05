@@ -18,8 +18,7 @@ Settu upp verklega eftirfarandi:
    1. Chapter 2: Project 2.1 Button & LED (bls. 70 - 75) 
    1. Chapter 7: Project 7.1 Doorbell (bls. 118 - 123) 
       
-[Python tutorials](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/Python_Tutorial.pdf) (pdf) og [kóðaskrár](https://github.com/VESM1VS/AFANGI/tree/main/python)
-
+[Python tutorials](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/Python_Tutorial.pdf) (pdf).
 ---
 
 
