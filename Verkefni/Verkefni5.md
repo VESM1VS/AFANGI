@@ -1,7 +1,7 @@
 ## Tímaverkefni 5
 - 25% af heildareinkunn.
 - Hópverkefni.
-- Áætlaður tími: 4 x (4 x 50 mín).
+- Áætlaður tími: 2 vikur (4 x 200 mín).
 - Viðfangsefni: Rafrænt borðspil.
   
 ---
