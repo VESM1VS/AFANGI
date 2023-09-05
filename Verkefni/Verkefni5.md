@@ -13,7 +13,7 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 
 - [ ] Leds
 - [ ] arcade takka
-- [ ] buzzer/hátalara
+- [ ] buzzer
 - [ ] [reed switch](https://lastminuteengineers.com/reed-switch-arduino-tutorial/)
 - [ ] on/off takki og batterí.
 
