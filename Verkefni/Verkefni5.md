@@ -9,7 +9,7 @@
 ### Verkefnalýsing
 Í þessu verkefni ætlið þið að smíða frá grunni rafrænt borðspil með notkun ESP32, Micropython forritun og ýmsum íhlutum. Spilið má einnig innihalda spilastokk, leikmenn og fleira sem ykkur dettur í hug. Þegar þið hafið lokið við verkefnið ættuð þið að hafa fullbúið rafrænt borðspil í höndunum sem er tilbúið að fara í verslanir.
 
-Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
+Borðspilið þarf að innihalda eftirfarandi íhluti:
 
 - [ ] Leds
 - [ ] arcade takka
