@@ -7,13 +7,13 @@ import time
 # V 5V
 # G GND
 pin = Pin(48, Pin.OUT)
-np = neopixel.NeoPixel(pin, 8)			# 8 x RGB Leds
+np = neopixel.NeoPixel(pin, 8)	# 8 x RGB Leds
 
-brightness=100   						      # brightness: 0 - 255
-red   =  [ brightness, 0, 0]			# red
-green =  [ 0, brightness, 0]	    # green  
-blue  =  [ 0, 0, brightness]      # blue
-off   =  [ 0, 0, 0]               # ekkert ljós
+brightness=100   				# birtustig: 0 - 255
+red   =  [ brightness, 0, 0]    # red
+green =  [ 0, brightness, 0]    # green  
+blue  =  [ 0, 0, brightness]    # blue
+off   =  [ 0, 0, 0]             # ekkert ljós
 
 while True:
     np[0] = red		# led 1
