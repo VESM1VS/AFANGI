@@ -9,7 +9,7 @@ import time
 pin = Pin(48, Pin.OUT)
 np = neopixel.NeoPixel(pin, 8)	# 8 x RGB Leds
 
-brightness=100   				# birtustig: 0 - 255
+brightness=100                  # birtustig: 0 - 255
 red   =  [ brightness, 0, 0]    # red
 green =  [ 0, brightness, 0]    # green  
 blue  =  [ 0, 0, brightness]    # blue
