@@ -5,3 +5,4 @@ MicroPython:
 - `3_Takkar.py`       _Takkar, PULL_UP og PULL_DOWN, if, if not._
 - `4_Takki_Led.py`    _Takki og led, if else._
 - `5_ActiveBuzzer.py` _ActiveBuzzer og takki_
+- `6_PassiveBuzzer.py` _notar PWM, NPN, diode og takka. Hægt að nota speaker í staðinn_
