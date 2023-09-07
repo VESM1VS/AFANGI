@@ -1,4 +1,4 @@
-from machine import Pin, PWM			# PWM til að vinna með hliðrænt gildi (ekki bara 0 og 1)
+from machine import Pin, PWM            # PWM til að vinna með hliðrænt gildi (ekki bara 0 og 1)
 import time
 
 button = Pin(14,Pin.IN,Pin.PULL_UP)   	# takki tengist pinna 14 og GND
