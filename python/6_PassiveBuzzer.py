@@ -8,7 +8,7 @@ button = Pin(14,Pin.IN,Pin.PULL_UP)   	# takki tengist pinna 14 og GND
 
 # Tengdu NPN transistor (nr. 8050) til að fá hærra hljóð. Viðnám (220) til að vernda NPN og diode til að verja pinnann á ESP32.
 # Tengimynd: https://diyi0t.com/wp-content/uploads/2020/12/Buzzer-ESP32-ESP-WROOM-32_Steckplatine.png
-passiveBuzzer = PWM(Pin(21))          #  
+passiveBuzzer = PWM(Pin(21))          
 
 while True:
     if not button.value():            # ef ýtt er á takka
@@ -23,7 +23,7 @@ while True:
         time.sleep_ms(100)
         passiveBuzzer.duty(0)         # skrifar út 0V, slökkt
     else:
-        passiveBuzzer.deinit()		  # disable PWM pinna	
+        passiveBuzzer.deinit()        # disable PWM pinna	
         
 
         
