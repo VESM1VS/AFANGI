@@ -4,8 +4,8 @@ takki_A = Pin(13, Pin.IN, Pin.PULL_DOWN) 	# Segjum að pinninn sé inntakspinni,
 takki_B = Pin(14, Pin.IN, Pin.PULL_UP)   	# Segjum að pinninn sé inntakspinni, vír tengdur í GND. 
 
 # Upphafsstaða, þegar ekki er ýtt á takkana:
-print(takki_A.value()) 		# value aðferð les stöðu af takka A og print skrifar út 0 í Shell.
-print(takki_B.value()) 		# valeu aðferð les stöðu af takka B og print skrifar út 1 í Shell.
+# print(takki_A.value()) 		# value aðferð les stöðu af takka A og print skrifar út 0 í Shell.
+# print(takki_B.value()) 		# valeu aðferð les stöðu af takka B og print skrifar út 1 í Shell.
 
 while True:
     
