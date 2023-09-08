@@ -6,8 +6,9 @@
 - `4_Takki_Led.py`    _Takki og led, if else._
 - `5_ActiveBuzzer.py` _ActiveBuzzer og takki_
 - `PassiveBuzzer.py` _notar PWM, NPN, diode og takka. Hægt að nota speaker í staðinn_
+  - `PassiveBuzzerMario.py` _ítarefni_
+  - `PassiveBuzzerMarioClass.py` _ítarefni_ 
 - `Random.py` _fyrir tening_
 - `ReedSwitch.py` _segulskynjari on/off_
 - `NeoPixel.py` _valkvæmt, 8 x RGB Leds_
-- `PassiveBuzzerMario.py` _ítarefni_
-- `PassiveBuzzerMarioClass.py` _ítarefni_ 
+
