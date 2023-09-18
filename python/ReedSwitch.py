@@ -2,7 +2,7 @@ from machine import Pin
 from time import sleep_ms
 
 led = Pin(2, Pin.OUT)
-snertiskynjari = Pin(13, Pin.IN, Pin.PULL_UP)   
+snertiskynjari = Pin(13, Pin.IN, Pin.PULL_UP)    # nota líka aukalega resistor
 
 while True:
     if snertiskynjari.value():      # ef reitur er tómur þá er gildið 1 lesið.
