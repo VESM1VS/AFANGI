@@ -20,7 +20,7 @@
 ---
 
 ### 2. Stepper mótor (30%) 
-Tengdu Stepper mótor við ULM2003 Stepper mótor driver og fáðu mótorinn til að snúast í hálfan hring fram og aftur til skiptis, sjá nánar bls. 215, kafla 19 Stepper Motor í [pdf leiðbeiningum](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/Python_Tutorial.pdf).
+Tengdu Stepper mótor við ULM2003 Stepper mótor driver og fáðu mótorinn til að snúast í hálfan hring fram og aftur til skiptis, sjá nánar bls. 215, kafla 19 Stepper Motor í [pdf leiðbeiningum](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/Python_Tutorial.pdf). Hér er [stepmotor](https://github.com/VESM1VS/AFANGI/blob/main/python/stepmotor.py) klasinn.
 
 ---
 
