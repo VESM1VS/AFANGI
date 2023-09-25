@@ -83,7 +83,7 @@ buzzer_running = False
 Láttu eftirfarandi gerast samtímis
 
 1. Servo hagar sér eins og [flipper](https://www.youtube.com/shorts/gBAMq95YVXU) á 3 sekúndna fresti.
-1. Stepper mótor snýst í 1 hring réttsælis og svo 1 hring rangsælis. Þetta er endurtekið endalaust.
+1. Stepper mótor snýst í 3 hringi réttsælis og svo 3 hring rangsælis. Þetta er endurtekið endalaust.
 
 ---
 
