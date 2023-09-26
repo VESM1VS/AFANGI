@@ -3,7 +3,6 @@
 
 - 35% af heildareinkunn
 - Hópverkefni
-- Viðfangsefni: Mekatrónik
   
 ---
 
