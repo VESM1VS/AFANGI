@@ -84,7 +84,7 @@ Láttu eftirfarandi gerast samtímis:
 1. Servo hagar sér eins og [flipper](https://www.youtube.com/shorts/gBAMq95YVXU) á 3 sekúndna fresti.
 1. Stepper mótor snýst í 3 hringi réttsælis og svo 3 hring rangsælis. Þetta er endurtekið endalaust.
 
-Sjá [kóðadæmi](https://github.com/VESM1VS/AFANGI/blob/main/python/threads.py) til hjálpar.
+Sjá [kóðadæmi](https://github.com/VESM1VS/AFANGI/blob/main/python/threads.py) þér til hjálpar.
 
 ---
 
