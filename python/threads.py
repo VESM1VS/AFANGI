@@ -11,9 +11,9 @@ stepper_running = True
 
 def pinball_servo():
     while servo_running:
-        myServo.move(45) # tourne le servo à 0°
+        myServo.move(45) 
         time.sleep(0.3)
-        myServo.move(90) # tourne le servo à 0°
+        myServo.move(90) 
         time.sleep(0.3)
      
 def pinball_stepper():
