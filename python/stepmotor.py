@@ -62,7 +62,7 @@ class mystepmotor(object):
     def moveAround(self,direction,turns,us):
         for i in range(turns):
             self.moveSteps(direction,32*64,us)
-    # fyrir gráður, lagað af gus
+    # fyrir gráður 0 til 360 (lagfært), tekur þrjár færibreytur
     def moveAngle(self,direction,angles,us):
         self.moveSteps(direction,math.floor(32*64/360*angles),us)
         
