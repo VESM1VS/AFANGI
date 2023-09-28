@@ -1,5 +1,5 @@
 from machine import Pin
-import time
+import time, math
 
 phasecw  = [0x08,0x04,0x02,0x01]
 phaseccw = [0x01,0x02,0x04,0x08]
@@ -62,13 +62,9 @@ class mystepmotor(object):
     def moveAround(self,direction,turns,us):
         for i in range(turns):
             self.moveSteps(direction,32*64,us)
-    
-    def moveAngle(self,angles,us):
-        self.moveSteps(direction,32*64//angles,us)
+    # fyrir gráður, lagað af gus
+    def moveAngle(self,direction,angles,us):
+        self.moveSteps(direction,math.floor(32*64/360*angles),us)
         
     def stop(self):
         self._motorcontrol(0x00)
-
-    
-
-            
