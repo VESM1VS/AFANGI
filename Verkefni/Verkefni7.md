@@ -35,6 +35,12 @@ Einkunn byggir á útfærslum á eftirfarandi matsþáttum og vinnuframlagi sem 
 Fyrir hvern lið: Fullt fyrir fullnægjandi lausn, hálft ef lausn er ábótavant, ekkert ef stórlega ábótavant eða vantar. <br>
 Fyrir hverja kennslulotu (4 klst) í skóla sem nemandi mætir ekki (þ.m.t. veikindi og leyfi) dregst **2** frá einkunn hjá viðkomandi. <br>
 
+<!-- 
+þurfum solenoid til að búa til bumpera 
+segulkúlur til að reed switch virki
+panta tilbúna plunger
+-->
+
 ---
 
 ### Skýrsla og skil
