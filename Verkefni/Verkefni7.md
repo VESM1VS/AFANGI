@@ -29,7 +29,7 @@ Einkunn byggir á útfærslum á eftirfarandi matsþáttum og vinnuframlagi sem 
 - [ ] Slingshot með servo (kóðavirkni, samsettning, lóðun).  **10%**
 - [ ] Hringekkja með stepper mótor (kóðavirkni, samsettning, lóðun). **10%**
 - [ ] OLED skjár sem sýnir skor (kóðavirkni, samsettning, lóðun). **10%**
-- [ ] Snertireitir (ljósviðnám, reed, switch) sem gefa stig (kóðavirkni, samsettning lóðun). **10%**
+- [ ] Snertireitir (ljósviðnám, limit switch, reed switch) sem gefa stig (kóðavirkni, samsettning, lóðun). **10%**
 - [ ] Hljóð og tónlist (kóðavirkni, samsettning, lóðun). **10%**
 
 Fyrir hvern lið: Fullt fyrir fullnægjandi lausn, hálft ef lausn er ábótavant, ekkert ef stórlega ábótavant eða vantar. <br>
