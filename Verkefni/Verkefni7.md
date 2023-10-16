@@ -33,7 +33,7 @@ Einkunn byggir á útfærslum á eftirfarandi matsþáttum og vinnuframlagi sem 
 - [ ] Hljóð og tónlist (kóðavirkni, samsettning, lóðun). **10%**
 
 Fyrir hvern lið: Fullt fyrir fullnægjandi lausn, hálft ef lausn er ábótavant, ekkert ef stórlega ábótavant eða vantar. <br>
-Fyrir hverja kennslulotu (4 klst) í skóla sem nemandi mætir ekki (þ.m.t. veikindi og leyfi) dregst **2** frá einkunn hjá viðkomandi. <br>
+Fyrir hverja kennslulotu (4 x 50 mín) í skóla sem nemandi mætir ekki (þ.m.t. veikindi og leyfi) dregst **2** frá einkunn hjá viðkomandi. <br>
 
 <!-- 
 þurfum solenoid til að búa til bumpera 
