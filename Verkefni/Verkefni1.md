@@ -1,13 +1,14 @@
 ## Tímaverkefni 1
 
 - 8% af heildareinkunn áfanga.
-- tveir nemendur saman.
-- Viðfangsefni: rafmagn, raðtengdar- og hliðtengdar rásir, íhluti, mælingar og útreikningar. 
+- [Rafeindatækni](https://github.com/VESM1VS/afangi/wiki/Rafeindat%C3%A6kni). 
+- Einstaklingsverkefni.
+- Áætlaður tími: 4 x 50 mín.
 
 ---
 
-#### 1. Raðtengd lokuð rás. (15%) 
-Settu upp rás með aflgjafa (5V), 220 ohm viðnám og rautt LED. 
+#### 1. Raðtengd lokuð rás. 
+Settu upp rás með aflgjafa (5V), 1 x 220 ohm viðnám og rautt LED. 
 
 1. Notaðu [multimælir](https://youtu.be/SLkPtmnglOI?t=324) og mældu [viðnám](https://www.instructables.com/Resistors/) sem þú átt. Prófaðu að lesa úr litahringjunum á viðnámi, færðu sömu gildi?
 1. Fáðu rautt [LED](https://www.instructables.com/Diodes/) til að loga á [brauðbretti](https://learn.adafruit.com/collins-lab-breadboards-and-perfboards) í [raðtengdri](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/tengingar.jpeg) lokaðri rás. 
@@ -21,70 +22,65 @@ Tengimynd
 
 ---
 
-#### 2. Raðtengd LEDs. (15%) 
-Settu upp rás með aflgjafa (5V), 220 ohm viðnám og **tvær** rauðar LEDs sem eru **raðtengdar**. 
+#### 2. Raðtengd LEDs. 
+Settu upp rás með aflgjafa (5V), 1 x 220 ohm viðnám og **tvær** rauðar LEDs sem eru **raðtengdar**. 
 
 1. Mældu [spennufallið](https://youtu.be/SLkPtmnglOI?t=160) yfir:  
    1. einu LED 
    2. báðum LED 
    3. viðnáminu
-1. Hvað getur þú raðtengt mörgum rauðum LEDs með einu 220 ohm viðnámi, hvað gerist? 
+1. Getur þú bætt við þriðju LED? Hvað gerist? 
 
 ---
 
-#### 3. KVL og Ohms lögmálið. (15%) 
-Settu upp rás með Arduino sem aflgjafa (5V), 220 ohm viðnám og rautt LED. 
-
-1. Lestu um [KVL & Ohms lögmálin](https://learn.adafruit.com/all-about-leds/forward-voltage-and-kvl) (og [myndband](https://www.youtube.com/watch?v=EQtwsWJuUPs&list=PLRIGIzu0Z7KlfGFD6gd0eMX0ozfJyrQL-&index=6&t=0s)). 
-   - Í raðtengdri rás er straumurinn alltaf sá sami í rásinni en spennan skiptist. 
-   - summa spennufalla um lokaða rafrás er alltaf núll.
-   - Spenna (V) = Straumur (I) * Viðnám (R).  
-1. Ef Forward Voltage á rauðri LED (mv. 20mA straum.) er 1.8V skv. [LED datasheet](https://learn.adafruit.com/all-about-leds/the-led-datasheet) hvert er spennufallið hjá viðnáminu?
-1. Notaðu multimælir og mældu spennufallið yfir LED og svo viðnámi, stemmir það útfrá KVL? 
-1. Hver er straumurinn í rásinni? Reiknaðu það út með Ohm`s lögmálinu. Mundu að breyta [mA](https://github.com/VESM1VS/afangi/wiki/Rafeindat%C3%A6kni#margfaldarar) í Amp fyrir útreikninga, 1mA er 0,001Amp. 
-
-<!-- [Reikn](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-led-series-resistor) -->
-
----
-
-#### 4. Takki. (15%) 
+#### 3. Takki. 
 Settu upp rás með aflgjafa (5V), 220 ohm viðnám og rautt LED. 
 
 1. Bættu [takka](https://www.cuidevices.com/blog/tactile-switches-101) við rásina sem kveikir á LED. 
 
 ---
 
-#### 5. skammhlaup (e. short circuit). (10%) 
-Horfuð á [myndband](https://www.youtube.com/watch?v=RjdyCXmDtb8&ab_channel=KidovatorsbyGyanLab) um skammhlaup. Settu upp lokaða rafrás með LED sem framkvæmir skammhlaup.
+#### 4. Hliðtengd rás.
 
-<!-- góð pæling sem snúa að hliðtengingum og lóðamistökum -->
+Í hliðtengdri rás er straumurinn dreifður (skiptist).
 
----
-
-#### 6. Hliðtengd rás. (15%) 
-
-Í hliðtengdri rás er spennan sú sama í allri rásinni, en straumurinn er hinsvegar dreifður (mismikill). Nánar um [hliðtengda rás](https://www.youtube.com/watch?v=5uyJezQNSHw&list=PLWv9VM947MKi_7yJ0_FCfzTBXpQU-Qd3K&index=7) 
-
-1. Settu upp á brauðbretti hliðtengda rás sem skiftist í þrjár greinar sem hver inniheldur eina rauða LED og 220 ohm viðnám. Mældu spennufallið yfir viðnámi og LED.
-1. Hver er straumurinn í greinunum? Notaðu Ohm`s lögmálið til að finna það út.
-1. Hvað getur þú tengt margar LEDs í hliðtengdri rás með 5V aflgjafa, hvað gerist? 
+1. Settu upp á brauðbretti hliðtengda rás með aflgjafa (5V) sem skiftist í þrjár greinar sem hver inniheldur eina rauða LED og 220 ohm viðnám. Mældu spennufallið yfir viðnámi og LED.
+1. Hvað gerist ef þú fjölga greinum? 
 
 <br>
 Tengimynd
 
 ![tengimynd](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/hlidtengingar.png)
 
+<!-- góð pæling sem snúa að hliðtengingum og lóðamistökum -->
+> [myndband](https://www.youtube.com/watch?v=RjdyCXmDtb8&ab_channel=KidovatorsbyGyanLab) um skammhlaup (e. short circuit).
+
+<!-- 1. Hver er straumurinn í greinunum? Notaðu Ohm`s lögmálið til að finna það út. -->
 
 ---
+<!--
+#### 5. Pörun. 
 
-#### 7. Pörun. (15%) 
+Settu upp verklega á brauðbretti einfalt [pörunarspil](https://www.youtube.com/watch?v=OwhoSbvQ1yc&ab_channel=Kutuhal-SundayScienceSchool) með einni "spurningu" og þremur svarmöguleikum. Ef þú velur rangan svarmöguleika þá heyrist í [active buzzer](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/activebuzzer.jpeg) en ef þú velur réttan svarmöguleika þá kemur ljós á LED. Notaðu aflgjafa, brauðbretti, buzzer, viðnám, LED og víra eftir þörfum. Notaðu multimælir til að kanna [tengingar](https://youtu.be/SLkPtmnglOI?t=495).
 
-Settu upp verklega á brauðbretti einfalt [pörunarspil](https://www.youtube.com/watch?v=OwhoSbvQ1yc&ab_channel=Kutuhal-SundayScienceSchool) með einni "spurningu" og þremur svarmöguleikum. Ef þú velur rangan svarmöguleika þá heyrist í [active buzzer](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/activebuzzer.jpeg) en ef þú velur réttan svarmöguleika þá kemur ljós á LED. Notaðu aflgjafa, brauðbretti, buzzer, viðnám, LED og víra eftir þörfum. Notaðu mulitmælir til að kanna [tengingar](https://youtu.be/SLkPtmnglOI?t=495).
+---
+-->
+#### 5. KVL og Ohms lögmálið.  
+Settu upp rás með Arduino sem aflgjafa (5V), 220 ohm viðnám og rautt LED. 
 
+1. Lestu um [KVL & Ohms lögmálin](https://learn.adafruit.com/all-about-leds/forward-voltage-and-kvl). 
+   - summa spennufalla um lokaða rafrás er alltaf núll.
+   - Í raðtengdri rás er straumurinn alltaf sá sami í rásinni en spennan skiptist. 
+   - Spenna (V) = Straumur (I) * Viðnám (R).  
+1. Ef Forward Voltage á rauðri LED (mv. 20mA straum.) er 1.8V skv. [LED datasheet](https://learn.adafruit.com/all-about-leds/the-led-datasheet) hvert er spennufallið hjá viðnáminu?
+1. Notaðu multimælir og mældu spennufallið yfir LED og svo viðnámi, stemmir það útfrá KVL? 
+1. Hvaða stærð á viðnámi ættum við að nota skv. Ohm`s lögmálinu m.v. að hafa 20mA straum í rásinni. Reiknaðu það út og mundu að breyta milliamp (mA) í Amp fyrir útreikninga, 1mA er 0,001Amp. 
+
+
+<!-- [myndband](https://www.youtube.com/watch?v=EQtwsWJuUPs&list=PLRIGIzu0Z7KlfGFD6gd0eMX0ozfJyrQL-&index=6&t=0s) -->
 
 ---
 
 ## Námsmat og skil
-- Skilaðu svörum á Innu.
 - Yfirferð og námsmat á sér stað í tímum úr ofangreindum liðum. 
 
