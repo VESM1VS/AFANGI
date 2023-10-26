@@ -6,7 +6,7 @@
 
 #### Verkefnalýsing
    1. Búðu til rafrás á veroborði (perfboard) sem inniheldur; led, viðnám, víra og inntakshaus.
-   1. Tengdu rafrásina við aflgjafa og láttu led peruna loga með því að ýta á takkann.
+   1. Tengdu rafrásina við aflgjafa og láttu led peruna loga.
 
 ---
 
