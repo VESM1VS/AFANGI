@@ -8,6 +8,7 @@
 * mynd af prótótýpu
 * kóði
 * myndband af virkni
+* mynd af tengingum
 ### Einkunnagjöf
 * prótótýpa
 * virkni á forriti
