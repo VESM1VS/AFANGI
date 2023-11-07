@@ -9,7 +9,8 @@
 * kóði
 * myndband af virkni
 * mynd af tengingum
-### Einkunnagjöf
+<--- ### Einkunnagjöf
 * prótótýpa
 * virkni á forriti
 * samsetning og tengingar
+--->
