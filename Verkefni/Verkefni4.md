@@ -36,7 +36,7 @@ Hannaðu með Inkscape **box** fyrir spilið. Boxið verður laserskorið í ple
    1. Mál á kassa:
       * Lengd:  110 mm 
       * Breidd: 110 mm 
-      * Hæð: 60 mm 
+      * Hæð: 90 mm 
    1. Mál á götum:
       * 4 x Arcade takkar: 25 mm 
       * 1 x takki on/off: 20 x 12 mm
