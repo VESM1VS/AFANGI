@@ -1,4 +1,4 @@
-**TODO**: æfa að vinna með myndir og rastering (borðspil)
+<!-- **TODO**: æfa að vinna með myndir og rastering (borðspil) -->
 
 ## Tímaverkefni 4 
 - 8% af heildareinkunn.
@@ -9,7 +9,7 @@
 ---
 
 ### 0. Undirbúningsvinna heima. 
-Náði í Inkscape og hannaðu eigið SVG logo. sjá [2D hönnun](https://github.com/VESM1VS/AFANGI/wiki/2D-h%C3%B6nnun) og [Logo design tutorials](https://www.youtube.com/playlist?list=PLynG8gQD-n8DUEHPGKj3fgQUSwIYyU7dk). 
+Náið í Inkscape og hannaðu eigið SVG logo. sjá [2D hönnun](https://github.com/VESM1VS/AFANGI/wiki/2D-h%C3%B6nnun) og [Logo design tutorials](https://www.youtube.com/playlist?list=PLynG8gQD-n8DUEHPGKj3fgQUSwIYyU7dk). 
 
 1. form (e. shape) og formaðgerðir t.d; fylling (e. fill), útlínur (e. stroke), hópar (e. groups) og hæð (e. level).
 1. línu og ferla (e. path) notkun; Bezier verkfærið og það sem á við með því t.d; bræða saman (e. union), skörun (e. intersection), sundra (e. subpath, break apart) og sameina (e. combining), fríhendis (e. freehand), innfella (e. inset) og útfella (e. outset).
