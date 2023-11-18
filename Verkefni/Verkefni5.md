@@ -1,19 +1,44 @@
-# Handspil (drög)
-* fjögur LED, fjórir takkar og hátalari.
-* Spilið á að kveikja ljós eftir random tíma, mjöf stutt, má vera öll fjögur LED.
-* Sá sem er fljótastur (af fjórum) að ýta á takka vinnur.
-* Láta koma hljóðmerki þegar ýtt er á takka og láta viðkomandi ljós loga í 2 sek.
-* Tengið prototypu fyrir handspil og skrifið kóða fyrir það.
+# Tímaverkefni 5
 
-* [Jarðtenging á tökkum](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/GND_tenging_takkar_simonish.svg)
-* [Prototypa](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/simonish_tengingar.png)
-* [Raftenging](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/simonish_raftenging.png)
-  
+- 25% af heildareinkunn áfanga.
+- einstaklingsverkefni.
+
+## Viðbrað
+
+Útfærðu tölvuspilið **Viðbragð** en það virkar þannig að þátttakendur keppast um hver er fyrstur að bregðast við þegar kviknar á ljósi. Spilið hefur fjögur ljós sem byrja öll slökkt, að handahófskenndum (e. random) tíma liðnum kviknar á öllum ljósunum og vinnur sá sem er fyrstur að ýta á sitt ljós. Það ljós logar þá áfram en hin ljósin slokkna.
+
+### Verkefnið
+
+#### Frumgerð og forritun
+
+* Settu upp á brauðbretti frumgerð (e. prototype) af leiknum samkvæmt [þessari mynd](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/simonish_tengingar.png).
+* Forritaðu svo virknina sem lýst er hér fyrir ofan.
+  * Láttu ljósin blikka áður en þau slokkna og leikurinn hefst.
+  * Láttu einhver hljóð heyrast í leiknum.
+
+#### Lóðun og samsetning
+
+* Skoðaðu vel [þessa mynd](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/simonish_lodun.png).
+* Festu takkana í lokið á boxinu sem þú gerðir í verkefni 4, ásamst af/á rofanum.
+* Útbúðu þrjú *veroborð* með *headers*.
+* Lóðaðu svo annan enda víranna í veroborðin en á hinn endann á að setja tengi sem tengjast við takkana.
+* Lóða þarf báða endana á vírunum sem tengjast við hátalarann, muna eftir herpihólkum.
+* Lóðaðu GND vír 9V rafhlöðutengisins við rofann.
+ 
 ### Skil í INNU:
-* mynd af prótótýpu
-* kóði
-* myndband af virkni
-* mynd af tengingum
+
+* mynd af frumgerð á brauðbretti
+* kóðinn
+* mynd af tengingum og lóðun
+* myndband af virkni fullbúins leiks
+
+### Námsmat
+
+- [ ] Uppsetning frumgerðar á brauðbretti (20%)
+- [ ] Forritun (40%)
+- [ ] Lóðun og samsetning (40%)
+
+Yfirferð og námsmat á sér stað í tíma. Fyrir hvern lið; fullt fyrir fullnægjandi lausn, hálft ef lausn er ábótavant, ekkert ef lausn er stórlega ábótavant eða vantar.
 <!--- ### Einkunnagjöf
 * prótótýpa
 * virkni á forriti
