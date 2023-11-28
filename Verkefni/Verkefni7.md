@@ -69,7 +69,7 @@ Skýrslan þarf að innihalda eftirfarandi:
 1. Ljósmyndir af borðspili (inní kassa og utan)
 1. Ljósmyndir af lóðun (báðar hliðar).
 1. Hönnunarteikning (.svg) af Borðspili, (stilla blaðsíðustærðina í Inkscape þannig að hún sé eins og stærðin á kassanum).
-1. Tengil á kóðaskrá _Bordspil.ino_.
+1. Tengil á kóðaskrá _Bordspil.py_.
 
 Skilið á Innu tengil á skýrsluna (Github repository).
 
