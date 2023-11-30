@@ -43,9 +43,9 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 1. [Grunnur fyrir borðspil](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/bordspil_lok.svg)  
 1. Mál á götum:
    * Led (6 mm): 2,5 mm þvermál
-   * Arcade takki (stór 100 mm): 94 mm þvermál   
-   * Arcade takki (mið 65 mm): 25 mm þvermál
-   * Arcade takki (lítill 28 mm): 25 mm þvermál
+   * Arcade takki (stór 100 mm): Gat: 94 mm þvermál   
+   * Arcade takki (mið 65 mm): Gat 25 mm þvermál eða 58mm þvermál.
+   * Arcade takki (lítill 28 mm): Gat: 25 mm þvermál
  <!--  * Takki on/off (23 mm): 22 mm þvermál
 
 1. Hafið hljóðgöt 2 - 3 mm fyrir buzzer / hátalara.
