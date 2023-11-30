@@ -1,14 +1,10 @@
-# Drög
-
-[grunnur fyrir borðspil](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/bordspil_lok.svg)
 <!--
 **TODO** Gera flóknara, þarf að lagfæra lýsingu
 -->
 ## Tímaverkefni 7
 - 35% af heildareinkunn.
 - Viðfangsefni: Rafrænt borðspil.
-- Hópverkefni (2-3 saman kæmi best út). kóðari, 2D hönnun, samsettning, íhlutir.
-- Áætlaður tími: 4/6 x (4 x 50 mín).
+- Hópverkefni 
   
 ---
 
@@ -43,7 +39,8 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 1. Notið [Tabbed Box Maker](https://github.com/VESM1VS/AFANGI/blob/main/Kennsluefni/TabbedBoxMaker.md) viðbót til að búa til kassa.
    * breidd: 270 mm, lengd: 420 mm, hæð 80 mm. 
 -->
-1. Hannið og útfærið [Boardgame template](https://www.pinterest.com.mx/pin/595741856946792806/) útfrá leikjahönnun.   
+1. Hannið og útfærið [Boardgame template](https://www.pinterest.com.mx/pin/595741856946792806/) útfrá leikjahönnun.
+1. [Grunnur fyrir borðspil](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/bordspil_lok.svg)  
 1. Mál á götum:
    * Led (6 mm): 2,5 mm þvermál
    * Arcade takki (stór 100 mm): 94 mm þvermál   
@@ -56,7 +53,6 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 1. Skrifið spilaleiðbeiningar á toppinn.
 1. Merkið Borðspilið með [logo](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/Tskoli_logo.svg) skólans á hlið.
 
-_stilla blaðsíðustærðina í Inkscape þannig að hún sé eins og stærðin á kassanum_
 
 ---
 
@@ -71,7 +67,7 @@ Skýrslan þarf að innihalda eftirfarandi:
 1. Ljósmyndir af borðspili (inní kassa og utan)
 1. Ljósmyndir af lóðun (báðar hliðar).
 1. Hönnunarteikning (.svg) af Borðspili, (stilla blaðsíðustærðina í Inkscape þannig að hún sé eins og stærðin á kassanum).
-1. Tengil á kóðaskrá _Bordspil.py_.
+1. Tengil á kóðaskrá _main.py_.
 
 Skilið á Innu tengil á skýrsluna (Github repository).
 
