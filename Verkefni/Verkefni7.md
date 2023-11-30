@@ -42,7 +42,7 @@ Borðspilið þarf að innihalda eftirfarandi íhluti (einn eða fleiri):
 1. Hannið og útfærið [Boardgame template](https://www.pinterest.com.mx/pin/595741856946792806/) útfrá leikjahönnun.
 1. [Grunnur fyrir borðspil](https://github.com/VESM1VS/AFANGI/blob/main/Myndir/bordspil_lok.svg)  
 1. Mál á götum:
-   * Led (6 mm): 2,5 mm þvermál
+   * Led (5 mm): Gat: 5 mm þvermál
    * Arcade takki (stór 100 mm): Gat: 94 mm þvermál   
    * Arcade takki (mið 65 mm): Gat 25 mm þvermál eða 58mm þvermál.
    * Arcade takki (lítill 28 mm): Gat: 25 mm þvermál
