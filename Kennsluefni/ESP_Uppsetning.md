@@ -8,6 +8,13 @@
     
    :exclamation: Endurræstu svo tölvuna þína. :exclamation:
 1. Sæktu og settu upp hjá þér nýjustu útgáfuna af Thonny, sjá [hér](https://thonny.org).
+   - Windows:
+     
+     ![Thonny Windows](../Myndir/thonny_win.png)
+   - MacOS:
+     
+     ![Thonny MacOS](../Myndir/thonny_mac.png)
+   - Linux, nota uppáhalds "Package Manager"-inn sinn.
 1. Settu ESP32-S3 stýritölvuna í samband við tölvuna þína með USB.
 1. Ræstu upp Thonny.
    1. Í Thonny veldu *Run* og svo *Configure interpreter...*
