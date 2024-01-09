@@ -1,10 +1,10 @@
 # Uppsetning á umhverfi fyrir ESP32
 
-1. Sæktu og settu upp hjá þér CH343 rekilinn (e. driver) fyrir ESP32 á tölvuna þína. Þú finnur rekilinn [hér](https://www.wch-ic.com/search?t=all&q=ch343):
-   - Windows velja CH343SER.EXE
-   - MacOS velja CH34XSER_MAC.ZIP
+1. Sæktu og settu upp hjá þér CH343 rekilinn (e. driver) fyrir ESP32 á tölvuna þína:
+   - Windows, velja CH343SER.EXE, þú finnur hann [hér](https://www.wch-ic.com/downloads/CH343SER_EXE.html).
+   - MacOS, velja CH34XSER_MAC.ZIP, þú finnur hann [hér](https://www.wch-ic.com/downloads/CH34XSER_MAC_ZIP.html).
       - Eftir að skráin er ræst þarf að fara í *System Settings -> Privacy & Security*, skruna (e. scroll) neðst og smella á Allow takkan. 
-   - Linux sjá [hér](https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_ESP32_S3/tree/main/CH343/Linux/ch343ser_linux).
+   - Linux, [hér](https://www.wch-ic.com/downloads/CH341SER_LINUX_ZIP.html) ef þarf.
     
    :exclamation: Endurræstu svo tölvuna þína. :exclamation:
 1. Sæktu og settu upp hjá þér nýjustu útgáfuna af Thonny, sjá [hér](https://thonny.org).
@@ -20,7 +20,7 @@
    1. Í Thonny veldu *Run* og svo *Configure interpreter...*
    
         ![thonny01](../Myndir/thonny_01.png)
-   1. Veldu svo *Interpreter* flipann og veldu þar eftirfarandi:
+   1. Veldu svo *Interpreter* flipann og veldu þar eftirfarandi (**ATH.** portið ætti að heita **USB Single Serial ...**):
 
         ![thonny02](../Myndir/thonny_02.png)
    1. Gerðu eftirfarandi stillingar í glugganum sem birtist og smelltu svo á *Install* takkann. :warning: Passaðu að velja alltaf nýjustu útgáfuna (e. version).
