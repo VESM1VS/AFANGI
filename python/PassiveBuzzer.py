@@ -5,9 +5,6 @@ button = Pin(14,Pin.IN,Pin.PULL_UP)   	# takki tengist pinna 14 og GND
 
 # Passive buzzer er með grænt circuit á botninum. 
 # Með passiveBuzzer og speaker er hægt að búa til lag (melody) með mismunandi tíðn (0 til 4978).
-
-# Tengdu NPN transistor (nr. 8050) til að fá hærra hljóð. Viðnám (220) til að vernda NPN og diode til að verja pinnann á ESP32.
-# Tengimynd: https://diyi0t.com/wp-content/uploads/2020/12/Buzzer-ESP32-ESP-WROOM-32_Steckplatine.png
 passiveBuzzer = PWM(Pin(21))          
 
 while True:
@@ -25,7 +22,6 @@ while True:
     else:
         passiveBuzzer.deinit()        # disable PWM pinna	
         
-
         
     
 """
@@ -121,3 +117,6 @@ D8  = 4699
 DS8 = 4978
 
 """
+
+# Hægt er að tengja NPN transistor (nr. 8050) til að fá hærra hljóð. Viðnám (220) til að vernda NPN og diode til að verja pinnann á ESP32.
+# Tengimynd: https://diyi0t.com/wp-content/uploads/2020/12/Buzzer-ESP32-ESP-WROOM-32_Steckplatine.png
