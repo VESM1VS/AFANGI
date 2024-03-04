@@ -11,7 +11,7 @@
    - Windows:
      
      ![Thonny Windows](../Myndir/thonny_win.png)
-   - MacOS:
+   - MacOS (eða `brew install --cask thonny`):
      
      ![Thonny MacOS](../Myndir/thonny_mac.png)
    - Linux, nota uppáhalds "Package Manager"-inn sinn.
