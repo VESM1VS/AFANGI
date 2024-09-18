@@ -1,4 +1,5 @@
 # Blátt LED blikkar á ESP32 með 0,5 sek. millibili
+# Tengingar og kóði á Wokwi: https://wokwi.com/projects/409363079557283841
 
 from machine import Pin      # Notum Pin úr machine kóðasafninu til að skilgreina pinnana á ESP. 
 from time import sleep_ms    # Notum svo sleep_ms til að láta forritið bíða
