@@ -11,7 +11,8 @@ while True:
     led.value(1)        # Skrifum 3.3V út á pinna 2. Aðferðin value() er notuð til að skrifa á pinnann. 
     sleep_ms(500)       # Bíðum í 500 millisekúndur
     led.value(0)        # Skrifum 0V út á pinna 2
-    sleep_ms(500)       # Bíðum aftur í 500 millisekúndur
+    sleep_ms(500)       # Bíðum aftur í 500 millisekúndur 
+    # förum aftur í línu 11,
 
 
 
