@@ -1,3 +1,5 @@
+# Blátt LED blikkar á ESP32 með 0,5 sek. millibili
+
 from machine import Pin      # Notum Pin úr machine kóðasafninu til að skilgreina pinnana á ESP. 
 from time import sleep_ms    # Notum svo sleep_ms til að láta forritið bíða
 
@@ -12,7 +14,7 @@ while True:
     sleep_ms(500)       # Bíðum í 500 millisekúndur
     led.value(0)        # Skrifum 0V út á pinna 2
     sleep_ms(500)       # Bíðum aftur í 500 millisekúndur 
-    # förum aftur í línu 11,
+    # förum aftur í línu 11
 
 
 
