@@ -4,7 +4,7 @@ from machine import Pin    # Notum Pin úr machine kóðasafninu til að skilgre
 from time import sleep_ms  # Notum svo sleep_ms til að láta forritið bíða
 
 # Búum til breytuna led og tengjum hana við pinna 3 á ESP. 
-led = Pin(3, Pin.OUT)   # Segjum að pinni 3 sé úttakspinni.
+led = Pin(4, Pin.OUT)   # Segjum að pinni 4 sé úttakspinni.
 
 # Gerum lykkju sem keyrir að eilífu
 while True:
