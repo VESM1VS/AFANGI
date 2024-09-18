@@ -3,7 +3,6 @@ from time import sleep_ms    # Notum svo sleep_ms til að láta forritið bíða
 
 # Stafrænt (e. digital) gildi getur annaðhvort verið 0 eða 1 (eða á/af, kveikt/slökkt). Í ESP þýðir það að 1 er 3.3V en 0 0V.
 # Til að skilagreina pinna sem stafrænan er notað eftirfarandi Pin(NR_PINNA, ÚTTAKS_EÐA_INNTAKSPINNI)
-
 # Búum til breytuna led og tengjum hana við pinna 2 á ESP. Segjum að pinninn sé úttakspinni
 led = Pin(2, Pin.OUT)     # Pinni 2 er tengdur við led peru sem er innbyggð í ESP
 
