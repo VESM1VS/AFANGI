@@ -1,4 +1,4 @@
-# Blátt LED blikkar með 2 sek. millibili og skrifar út texta í Shell í Thonny
+# Blátt LED blikkar með 2 sek. millibili og skrifar út 0 og 1 á víxl í Shell í Thonny
 
 from machine import Pin    # Notum Pin úr machine kóðasafninu til að skilgreina pinnana á ESP. 
 from time import sleep_ms  # Notum svo sleep_ms til að láta forritið bíða
