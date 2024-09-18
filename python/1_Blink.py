@@ -8,7 +8,7 @@ led = Pin(2, Pin.OUT)     # Pinni 2 er tengdur við led peru sem er innbyggð í
 
 # Gerum lykkju sem keyrir að eilífu
 while True:
-    led.value(1)        # Skrifum 3.3V út á pinna 2. Fallið value() er notað til að skrifa á pinnann. 
+    led.value(1)        # Skrifum 3.3V út á pinna 2. Aðferðin value() er notuð til að skrifa á pinnann. 
     sleep_ms(500)       # Bíðum í 500 millisekúndur
     led.value(0)        # Skrifum 0V út á pinna 2
     sleep_ms(500)       # Bíðum aftur í 500 millisekúndur
