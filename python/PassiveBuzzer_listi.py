@@ -4,8 +4,9 @@
 
 from machine import Pin, PWM
 from utime import sleep
-buzzer = PWM(Pin(21))
+buzzer = PWM(Pin(21))  
 
+# dictionary til að para nótu við tíðni
 tones = {
 "B0": 31,"C1": 33,"CS1": 35,"D1": 37,"DS1": 39,"E1": 41,"F1": 44,"FS1": 46,
 "G1": 49,"GS1": 52,"A1": 55,"AS1": 58,"B1": 62,"C2": 65,
@@ -19,25 +20,27 @@ tones = {
 "AS7": 3729,"B7": 3951,"C8": 4186,"CS8": 4435,"D8": 4699,"DS8": 4978
 }
 
+# lagalistar
 song = ["E5","G5","A5","P","E5","G5","B5","A5","P","E5","G5","A5","P","G5","E5"]
-
 mario = ["E7", "E7", 0, "E7", 0, "C7", "E7", 0, "G7", 0, 0, 0, "G6", 0, 0, 0, "C7", 0, 0, "G6",
          0, 0, "E6", 0, 0, "A6", 0, "B6", 0, "AS6", "A6", 0, "G6", "E7", 0, "G7", "A7", 0, "F7", "G7",
          0, "E7", 0,"C7", "D7", "B6", 0, 0, "C7", 0, 0, "G6", 0, 0, "E6", 0, 0, "A6", 0, "B6", 0,
          "AS6", "A6", 0, "G6", "E7", 0, "G7", "A7", 0, "F7", "G7", 0, "E7", 0,"C7", "D7", "B6", 0, 0]
 
+# spila nótu 
 def playtone(frequency):
     buzzer.duty_u16(1000)
     buzzer.freq(frequency)
 
+# spila lag
 def playsong(mysong):
     for i in range(len(mysong)): # vinnum með eitt í einu úr mario listanum, notum i sem vísun í listanum. i er fyrst 0 sem vísar í fyrsta sætið í lista og svo í hækkandi röð þar til listinn er búinn. 
         if (mysong[i] == 0 ):    # t.d. mysong[2] vísar í "0" 
             buzzer.duty_u16(0)   # ekki hljóð 
         else:
-            playtone(tones[mysong[i]])  # mysong[0] vísra í fyrstu nótuna þ.e. "E7". 
-        sleep(0.15)
+            playtone(tones[mysong[i]])  # mysong[0] vísrar í fyrstu nótuna þ.e. "E7" í laginu.  tones vísar í þá nótu of finnur tíðnina. 
+        sleep(0.15)  # tími milli nótna
     buzzer.duty_u16(0)  # slökkva á laginu
 
-# play song  
-playsong(mario)
+# kalla á fall sem spilar lag 
+playsong(mario)   # song
