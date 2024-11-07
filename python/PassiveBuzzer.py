@@ -9,7 +9,7 @@ button = Pin(2,Pin.IN,Pin.PULL_UP)   	# takki tengist pinna 14 og GND
 
 # Passive buzzer er með grænt circuit á botninum. 
 # Með passiveBuzzer og speaker er hægt að búa til lag (melody) með mismunandi tíðn (0 til 4978).
-passiveBuzzer = PWM(Pin(21), freq=1000, duty=512)          
+passiveBuzzer = PWM(Pin(21))          
 
 while True:
     if not button.value():            # ef ýtt er á takka
