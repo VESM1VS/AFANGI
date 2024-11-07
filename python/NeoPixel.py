@@ -16,8 +16,11 @@ blue  =  [ 0, 0, brightness]    # blue
 off   =  [ 0, 0, 0]             # ekkert ljós
 
 while True:
+    # stjórnum öllum 8 leds í einu með að nota fill
+    neo.fill([0, 0, 0])
+    
     np[0] = red		# led 1
-    np.write()
+    np.write()      # kveikjum á led 1
     time.sleep_ms(500)
     
     np[1] = green	# led 2
