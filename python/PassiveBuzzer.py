@@ -1,6 +1,4 @@
-# Sound and music
-# https://www.coderdojotc.org/micropython/sound/
-
+# Sound and music: https://www.coderdojotc.org/micropython/sound/
 
 from machine import Pin, PWM            # PWM til að vinna með hliðrænt gildi (ekki bara 0 og 1)
 import time
@@ -126,4 +124,3 @@ DS8 = 4978
 """
 
 # Hægt er að tengja NPN transistor (nr. 8050) til að fá hærra hljóð. Viðnám (220) til að vernda NPN og diode til að verja pinnann á ESP32.
-# Tengimynd: https://diyi0t.com/wp-content/uploads/2020/12/Buzzer-ESP32-ESP-WROOM-32_Steckplatine.png
