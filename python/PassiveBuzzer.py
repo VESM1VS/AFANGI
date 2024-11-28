@@ -124,3 +124,4 @@ DS8 = 4978
 """
 
 # Hægt er að tengja NPN transistor (nr. 8050) til að fá hærra hljóð. Viðnám (220) til að vernda NPN og diode til að verja pinnann á ESP32.
+# https://techexplorations.com/arduino/how-to-use-a-buzzer-the-correct-way/
