@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="241.39166mm"
+   height="403.74582mm"
+   viewBox="0 0 241.39166 403.74582"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="Bordspil_lok(235x400).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.1071317"
+     inkscape:cx="74.38281"
+     inkscape:cy="120.64381"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(96.30833,-3.439584)"
+     sodipodi:insensitive="true">
+    <g
+       id="panel200"
+       transform="translate(-482.4625,-70.514583)"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 624.4,477.2 h -27.07 v -2.5 h -24.9 v 2.5 h -27.12 v -2.5 h -24.9 v 2.5 h -27.12 v -2.5 h -24.9 v 2.5 h -27.12 v -2.5 h -24.9 v 2.5 H 389.3"
+         id="path19"
+         sodipodi:insensitive="true" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         d="m 389.3,477.2 v -28.188 h 2.5 v -24.9 h -2.5 v -28.237 h 2.5 v -24.9 h -2.5 v -28.238 h 2.5 v -24.9 h -2.5 V 289.6 h 2.5 v -24.9 h -2.5 v -28.238 h 2.5 v -24.9 h -2.5 v -28.237 h 2.5 v -24.9 h -2.5 v -28.237 h 2.5 v -24.901 h -5.14583 V 78.6875 c 0.38038,-2.613625 1.79149,-4.024739 4.23333,-4.233333 H 416.37 V 79.6 h 24.9 v -2.5 h 27.12 v 2.5 h 24.9 v -2.5 h 27.12 v 2.5 h 24.9 v -2.5 h 27.12 v 2.5 h 24.9 v -5.145833 h 25.4825 c 2.61363,0.122702 4.02474,1.533812 4.23333,4.233333 V 105.287 H 621.9 v 24.901 h 2.5 v 28.237 h -2.5 v 24.9 h 2.5 v 28.237 h -2.5 v 24.901 h 2.5 V 264.7 h -2.5 v 24.9 h 2.5 v 28.237 h -2.5 v 24.9 h 2.5 v 28.238 h -2.5 v 24.9 h 2.5 v 28.237 h -2.5 v 24.9 h 2.5 V 477.2"
+         id="path20"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         sodipodi:insensitive="true" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(96.30833,-3.439584)" />
+</svg>
