@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="241.39166mm"
-   height="403.74582mm"
-   viewBox="0 0 241.39166 403.74582"
+   width="403.74582mm"
+   height="241.39166mm"
+   viewBox="0 0 403.74581 241.39166"
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
@@ -23,27 +23,26 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="4.1071317"
-     inkscape:cx="74.38281"
-     inkscape:cy="120.64381"
+     inkscape:zoom="0.72604517"
+     inkscape:cx="938.64683"
+     inkscape:cy="513.05348"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs1" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(96.30833,-3.439584)"
-     sodipodi:insensitive="true">
+     transform="translate(177.48542,-84.616672)"
+     style="display:inline">
     <g
        id="panel200"
-       transform="translate(-482.4625,-70.514583)"
-       sodipodi:insensitive="true">
+       transform="rotate(90,300.87604,-0.661458)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1"
          d="m 624.4,477.2 h -27.07 v -2.5 h -24.9 v 2.5 h -27.12 v -2.5 h -24.9 v 2.5 h -27.12 v -2.5 h -24.9 v 2.5 h -27.12 v -2.5 h -24.9 v 2.5 H 389.3"
@@ -61,5 +60,5 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(96.30833,-3.439584)" />
+     transform="translate(177.48542,-84.616672)" />
 </svg>
