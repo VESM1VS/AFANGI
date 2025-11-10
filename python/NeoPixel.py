@@ -17,7 +17,7 @@ off   =  [ 0, 0, 0]             # ekkert ljós
 
 while True:
     # stjórnum öllum 8 leds í einu með að nota fill
-    neo.fill([0, 0, 0])
+    np.fill([0, 0, 0])
     
     np[0] = red		# led 1, np[0] = [ 255, 0, 0]  
     np.write()      # kveikjum á led 1
