@@ -1,4 +1,3 @@
-# Sound and music: https://www.coderdojotc.org/micropython/sound/
 
 from machine import Pin, PWM            # PWM til að vinna með hliðrænt gildi (ekki bara 0 og 1)
 import time
