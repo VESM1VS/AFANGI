@@ -27,7 +27,7 @@ takki_stada = takki.value() # les hvort takkinn er 0 eða 1
 
 Almennt þegar unnið er með takka þá viljum við að pinnarnir séu með fyrirfram skilgreind gildi þegar ekki er verið að ýta á takkann. Við skilgreinum þá pinnana sem annaðhvort sem `PULL_DOWN` eða `PULL_UP` og tengjum þá eins og á myndinni hér fyrir neðan:
 
-![pullup_pulldown](../myndir/pullup_pulldown.png)
+![pullup_pulldown](../Myndir/pullup_pulldown.png)
 
 Takki A er tengdur fyrir `PULL_DOWN` en takki B fyrir `PULL_UP`. Í kóðanum er þetta svo skilgreint svona:
 
