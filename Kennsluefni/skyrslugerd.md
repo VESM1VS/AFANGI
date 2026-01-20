@@ -12,6 +12,7 @@
 
 
 #### Að skrifa skýrslu í `readme.md` 
+- [Markdown Online Tutorial](https://www.markdowntutorial.com)]
 - [Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia)
 - [Github Markdwon CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
