@@ -18,4 +18,5 @@ while True:
     # förum aftur í línu 11
 
 
-
+    
+# nánar um while: https://www.w3schools.com/python/python_while_loops.asp
