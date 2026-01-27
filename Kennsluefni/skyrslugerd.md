@@ -56,7 +56,7 @@ Skoðaðu eftirfarandi greinar um markdown:
 
 ---
 
-### Verkefni
+### Æfingaverkefni
 
 1. Fylgdu [Markdown Online Tutorial](https://www.markdowntutorial.com) _(gagnvirkar æfingar)_
 1. Búðu til Profile ([youtube](https://www.yout-ube.com/watch?v=l6dOkZx0rlE&ab_channel=GhostTogether), [vefgrein](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)) með að skrifa í readme.md og settur þar inn:
