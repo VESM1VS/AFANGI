@@ -1,4 +1,7 @@
-## Rafeindatækni _(æfingaverkefni)_
+## Rafeindatækni 
+
+- Tímaverkefni.
+- 0% af heildareinkunn.
 
 <!--
 - [Rafeindatækni](https://github.com/VESM1VS/afangi/wiki/Rafeindat%C3%A6kni). 
