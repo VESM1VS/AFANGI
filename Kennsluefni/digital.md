@@ -24,6 +24,8 @@ led.value(False) # slekkur á pinanum
 takki_stada = takki.value() # les hvort takkinn er 0 eða 1
 ```
 
+---
+
 ## Takkar - Pull up og Pull down
 
 Almennt þegar unnið er með takka þá viljum við að pinnarnir séu með fyrirfram skilgreind gildi þegar ekki er verið að ýta á takkann. Við skilgreinum þá pinnana sem annaðhvort sem `PULL_DOWN` eða `PULL_UP` og tengjum þá eins og á myndinni hér fyrir neðan:
@@ -58,6 +60,8 @@ print(takki_B.value()) # Skrifar út 0
 1. Settu upp á brauðbretti eina LED peru (muna eftir viðnáminu) og einn takka (takkinn á að vera tengdur sem `PULL_DOWN`). Forritaðu svo rásina þannig að þegar ýtt er á takkan á að kveikna á LED perunni. 
 2. Þegar liður 1 virkar hjá þér skaltu bæta við annarri LED peru og öðrum takka (`PULL_UP` tenging). Forritaðu svo þannig að það er alltaf kveikt á LED perunni nema þegar ýtt er á takkan en þá á að slökkna á perunni.
 
+---
+
 ## Rofar
 
 Í dæmunum hér að ofan þurfti að halda inni takkanum til að fá fram virknina en stundum viljum við geta t.d. ýtt á takka til að kveikja og kveikt sé þar til við ýtum aftur á takkann.
@@ -81,7 +85,9 @@ while True:
 
 Settu dæmið hér að ofan upp og prófaðu, hvernig virkar þetta?
 
-### Debounce
+---
+
+## Debounce
 
 Takkinn í dæminu hér að ofan mætti alveg virka betur. Ástæðan fyrir því hversu illa hann virkar er svokallað snertuhopp (e. bounce sjá nánar [hér](https://en.wikipedia.org/wiki/Switch#Contact_bounce)) en það verður þegar tveir málmhlutir snertast.
 
