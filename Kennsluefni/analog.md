@@ -11,7 +11,7 @@ Hliðrænt merki (analog signal) er eins konar samfellt bylgjuform sem breytist 
 
 ## Stafræn- og hliðræn merkjavinnsla (ADC og DAC)
 
-Hliðrænt merki sem tekur samfelldum breytingum rennir sér í gegn um óendanlega mörg mæligildi. Augljóslega er ekki vinnandi vegur að skrá þau öll. Því hraðari sem breytingarnar á hliðræna merkinu eru, því styttra þarf að líða á milli þess að sýni séu tekin. Sýnataka et gerð með jöfnu millibili, öllum gildum merkisins þar á milli er fleygt. <br>
+Hliðrænt merki sem tekur samfelldum breytingum rennir sér í gegn um óendanlega mörg mæligildi. Augljóslega er ekki vinnandi vegur að skrá þau öll. Því hraðari sem breytingarnar á hliðræna merkinu eru, því styttra þarf að líða á milli þess að sýni séu tekin. Sýnataka er gerð með jöfnu millibili, öllum gildum merkisins þar á milli er fleygt. <br>
 
 ![Merkjavinnsla](https://github.com/VESM2VT/Efni/blob/main/Myndir/DSPmerkjavinnsla.png)
 
@@ -21,7 +21,9 @@ er talnaruna, skrá yfir hæfilega þétt tekin gildi hliðræna merkisins.
 **DAC** (digital analog converter) breytir stafrænu merki í hliðrænt. Merkið verður þá
 aftur hliðrun í spennu og straumi. 
 
-Dæmi: Spennusveifla frá hljóðnema hermir eftir loftsveiflum hljóðsins. 
+<br>
+
+Dæmi um analog skynjara: Spennusveifla frá hljóðnema hermir eftir loftsveiflum hljóðsins. 
 
 ---
 
