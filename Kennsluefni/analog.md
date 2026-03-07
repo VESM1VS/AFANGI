@@ -33,6 +33,8 @@ er talnaruna, skrá yfir hæfilega þétt tekin gildi hliðræna merkisins.
 **DAC** (digital analog converter) breytir stafrænu merki í hliðrænt. Merkið verður þá
 aftur hliðrun í spennu og straumi. 
 
+---
+
 ## Unnið með hliðræn gildi í ESP32
 
 ### Skrifað á pinna
@@ -51,12 +53,6 @@ pwm.duty(0) # skrifar út 0V
 pwm.duty(511) # skrifar út 1.65V
 pwm.duty(1023) # skrifar út 3.3V
 ```
-
-#### Verkefni - Andandi LED
-
-Tengdu eina LED peru við ESP (muna eftir viðnáminu) og forritaðu hana svo þannig að birtan smá aukist þar til fullum styrk (1023) er náð og þá á birtan að minnka þar ljósið slokknar (0). Þetta á svo að endurtaka sig í sífellu. ATH. leystu þetta með því að nota aðeins eina lykkju (`while True:` lykkjuna). Hafðu smá `sleep` í lykkjunni (1 eða 2 millisekúndur).
-
-Til umhugsunar: Hvað gerist ef meira en 1023 eða minna en 0 er skrifað á PWM pinna?
 
 ### Lesið frá pinna
 
@@ -78,7 +74,7 @@ pinni = ADC(Pin(1), atten=ADC.ATTN_11DB)
 gildi = pinni.read()
 ```
 
-#### Verkefni I - Ljósmagni stjórnað með stilliviðnámi
+#### Æfingaverkefni - Ljósmagni stjórnað með stilliviðnámi
 
 Settu upp þessa [rás](../myndir/pwm_adc_stillivinam_led.png) og  forritaðu þannig að stilliviðnámið stjórni birtumagninu á LED perunni. 
 
