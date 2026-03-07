@@ -6,7 +6,6 @@ Hliðrænt merki (analog signal) er eins konar samfellt bylgjuform sem breytist 
 
 ![AnalogSignal](https://github.com/VESM2VT/Efni/blob/main/Myndir/AnalogSignal.png)  ![DigitalSignal](https://github.com/VESM2VT/Efni/blob/main/Myndir/DigitalSignal.png)
 
-Dæmi: Spennusveifla frá hljóðnema hermir eftir loftsveiflum hljóðsins. 
 
 ---
 
@@ -21,6 +20,8 @@ er talnaruna, skrá yfir hæfilega þétt tekin gildi hliðræna merkisins.
 
 **DAC** (digital analog converter) breytir stafrænu merki í hliðrænt. Merkið verður þá
 aftur hliðrun í spennu og straumi. 
+
+Dæmi: Spennusveifla frá hljóðnema hermir eftir loftsveiflum hljóðsins. 
 
 ---
 
