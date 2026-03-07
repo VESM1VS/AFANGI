@@ -67,7 +67,7 @@ Ef ekkert óvænt hefur gerst ættir þú að sjá led peru á ESP blikka.
 ---
 
 
-### Ef þú fékkst upp villur þegar þú reyndir að setja micropython inn á ESP þá skaltu gera eftirfarandi, hafðu kveikt á Thonny:
+#### Ef þú fékkst upp villur þegar þú reyndir að setja micropython inn á ESP þá skaltu gera eftirfarandi, hafðu kveikt á Thonny:
 
 1. Sæktu [þessa](https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_ESP32_S3/archive/refs/heads/main.zip) .zip skrá og **afþjappaðu** hana ( :exclamation: það er ekki nóg að tvísmella á hana, það þarf að hægrismella og velja *Extract all* eða annað álíka).
 2. Sæktu svo [þessa](https://micropython.org/resources/firmware/ESP32_GENERIC_S3-20240222-v1.22.2.bin) .bin skrá og settu hana í `Freenove_Ultimate_Starter_Kit_for_ESP32_S3/Python/Python_Firmware/` möppuna.
