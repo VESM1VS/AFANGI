@@ -1,1 +1,1 @@
-## Tímaverkefni
+# Tímaverkefni
