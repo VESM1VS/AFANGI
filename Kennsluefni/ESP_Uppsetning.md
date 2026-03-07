@@ -34,22 +34,7 @@
 1. Ef allt hefur gengið eins og í sögu þá ætti Thonny að líta svona út hjá þér (ef þú sérð ekki gluggana vinstra megin þarftu að fara í View og velja þar Files):
    
     ![thonny05](../Myndir/thonny_05.png)
-1. Ef þú fékkst upp villur þegar þú reyndir að setja micropython inn á ESP þá skaltu gera eftirfarandi, hafðu kveikt á Thonny:
-   1. Sæktu [þessa](https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_ESP32_S3/archive/refs/heads/main.zip) .zip skrá og **afþjappaðu** hana ( :exclamation: það er ekki nóg að tvísmella á hana, það þarf að hægrismella og velja *Extract all* eða annað álíka).
-   2. Sæktu svo [þessa](https://micropython.org/resources/firmware/ESP32_GENERIC_S3-20240222-v1.22.2.bin) .bin skrá og settu hana í `Freenove_Ultimate_Starter_Kit_for_ESP32_S3/Python/Python_Firmware/` möppuna.
-   3. Opnaðu skipanalínuna (*powershell* í windows, *terminal* í MacOS og Linux) á fartölvunni þinni og færðu þig í möppuna sem þú afþjappaðir skrána í lið 1.
-     1. Ef skráin er í *Downloads* möppunni má gera eftirfarandi í skipanalínunni til að færa sig þangað: 
-         - Windows: `cd ~\Downloads`
-         - MacOS/Linux: `cd ~/Downloads`
-     2. Færðu þig svo í skipanalínunni í möppuna `Freenove_Ultimate_Starter_Kit_for_ESP32_S3/Python/Python_Firmware/`.
-     3. Opnaðu `ÞITT_STYRIKERFI.py` skrána og breyttu línu 7 þannig að hún líti svona út:
-     ```python
-     os.system("python esptool/esptool.py --chip esp32s3 --baud 2000000 write_flash -z 0 ESP32_GENERIC_S3-20240222-v1.22.2.bin")
-     ```
-     4. Lokaðu ritlinum (e. editor) sem þú notaðir til að breyta línunni og vertu áfram í skipanalínunni úr lið 2.
-     5. Keyrðu svo þaðan eftirfarandi skipunina `python3 ÞITT_STYRIKERFI.py`
-        - Ef þú færð villumeldingu frá Windows um að Python finnist ekki, notaðu þá Microsoft Store til að setja Python upp aftur.
-     6. Hinkraðu meðan að keyrslan klárast og smelltu svo á rauða STOP takkann í Thonny og sjáðu hvort þetta er ekki bara komið inn.
+
 ## Halló heimur (blikk) í MicroPython
 
 Smelltu á hamborgara táknið sem er við *MycroPython device* og veldu *New file...*. Gefðu skránni nafnið `main.py` (skráin verður að heita main.py). Settu svo eftirfarandi kóða í main.py:
@@ -77,5 +62,27 @@ while True:
 Smelltu svo á græna "play" takkann til að keyra forritið.
 
 Ef ekkert óvænt hefur gerst ættir þú að sjá led peru á ESP blikka.
+
+---
+
+> [!NOTE]
+
+Ef þú fékkst upp villur þegar þú reyndir að setja micropython inn á ESP þá skaltu gera eftirfarandi, hafðu kveikt á Thonny:
+   1. Sæktu [þessa](https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_ESP32_S3/archive/refs/heads/main.zip) .zip skrá og **afþjappaðu** hana ( :exclamation: það er ekki nóg að tvísmella á hana, það þarf að hægrismella og velja *Extract all* eða annað álíka).
+   2. Sæktu svo [þessa](https://micropython.org/resources/firmware/ESP32_GENERIC_S3-20240222-v1.22.2.bin) .bin skrá og settu hana í `Freenove_Ultimate_Starter_Kit_for_ESP32_S3/Python/Python_Firmware/` möppuna.
+   3. Opnaðu skipanalínuna (*powershell* í windows, *terminal* í MacOS og Linux) á fartölvunni þinni og færðu þig í möppuna sem þú afþjappaðir skrána í lið 1.
+     1. Ef skráin er í *Downloads* möppunni má gera eftirfarandi í skipanalínunni til að færa sig þangað: 
+         - Windows: `cd ~\Downloads`
+         - MacOS/Linux: `cd ~/Downloads`
+     2. Færðu þig svo í skipanalínunni í möppuna `Freenove_Ultimate_Starter_Kit_for_ESP32_S3/Python/Python_Firmware/`.
+     3. Opnaðu `ÞITT_STYRIKERFI.py` skrána og breyttu línu 7 þannig að hún líti svona út:
+     ```python
+     os.system("python esptool/esptool.py --chip esp32s3 --baud 2000000 write_flash -z 0 ESP32_GENERIC_S3-20240222-v1.22.2.bin")
+     ```
+     4. Lokaðu ritlinum (e. editor) sem þú notaðir til að breyta línunni og vertu áfram í skipanalínunni úr lið 2.
+     5. Keyrðu svo þaðan eftirfarandi skipunina `python3 ÞITT_STYRIKERFI.py`
+        - Ef þú færð villumeldingu frá Windows um að Python finnist ekki, notaðu þá Microsoft Store til að setja Python upp aftur.
+     6. Hinkraðu meðan að keyrslan klárast og smelltu svo á rauða STOP takkann í Thonny og sjáðu hvort þetta er ekki bara komið inn.
+
 
 Til að stöðva forritið skaltu smella með músinni í Shell/REPL svæðið í Thonny og ýta svo á <kbd>Ctrl</kbd> + <kbd>C</kbd>.
