@@ -1,5 +1,5 @@
 # Uppsetning á umhverfi fyrir ESP32
-
+<!--
 1. Sæktu og settu upp hjá þér CH343 rekilinn (e. driver) fyrir ESP32 á tölvuna þína:
    - Windows, velja CH343SER.EXE, þú finnur hann [hér](https://www.wch-ic.com/downloads/CH343SER_EXE.html).
    - MacOS, velja CH34XSER_MAC.ZIP, þú finnur hann [hér](https://www.wch-ic.com/downloads/CH34XSER_MAC_ZIP.html).
@@ -7,6 +7,8 @@
    - Linux, [hér](https://www.wch-ic.com/downloads/CH341SER_LINUX_ZIP.html) ef þarf.
     
    :exclamation: Endurræstu svo tölvuna þína. :exclamation:
+-->
+
 1. Sæktu og settu upp hjá þér nýjustu útgáfuna af Thonny, sjá [hér](https://thonny.org).
    - Windows:
      
