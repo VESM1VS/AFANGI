@@ -56,7 +56,7 @@ print(takki_B.value()) # Skrifar út 0
 ```
 
 > [!NOTE]
-> Við vinnum lang oftast með takka sem er tengdur í GND og notum Pin.PULL_UP
+> Við vinnum oftast með takka B sem er tengdur í GND og notum `Pin.PULL_UP`
 
 
 ### Æfingaverkefni
