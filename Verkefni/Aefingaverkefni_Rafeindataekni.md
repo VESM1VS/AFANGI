@@ -54,7 +54,7 @@ Settu upp rás með aflgjafa (5V), 1 x 220 ohm viðnám og **tvær** rauðar LED
 
 ---
 
-### 3. KVL og Ohms lögmálið.  _einfalda dæmi_
+### 3. KVL og Ohms lögmálið. 
 Settu upp rás með aflgjafa (5V), 220 ohm viðnám og rautt LED (eins og rásina sem þú settir upp í lið 1). 
 
 1. Lestu um [KVL & Ohms lögmálin](https://learn.adafruit.com/all-about-leds/forward-voltage-and-kvl). 
