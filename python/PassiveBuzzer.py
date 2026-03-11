@@ -1,32 +1,17 @@
-
+# https://wokwi.com/projects/441803742575803393
 from machine import Pin, PWM            # PWM til að vinna með hliðrænt gildi (ekki bara 0 og 1)
 import time
 
-button = Pin(2,Pin.IN,Pin.PULL_UP)   	# takki tengist pinna 14 og GND
-
 # Passive buzzer er með grænt circuit á botninum. 
-# Með passiveBuzzer og speaker er hægt að búa til lag (melody) með mismunandi tíðn (0 til 4978).
 passiveBuzzer = PWM(Pin(21))          
 
 while True:
-    if not button.value():            # ef ýtt er á takka
-        passiveBuzzer.init()          # enable PWM pinna
-        passiveBuzzer.duty(512)       # to generate smooth sound waves (0 til 1023)
-        
-        passiveBuzzer.freq(100)       # freq er notað til að vinna með tíðni, nótur eru t.d. frá 31 til 4978 sjá neðar.
-        time.sleep_ms(100)
-        
-        passiveBuzzer.freq(400)
-        time.sleep_ms(100)
-        
-        passiveBuzzer.freq(800)
-        time.sleep_ms(100)
-        
-        passiveBuzzer.duty(0)         # skrifar út 0V, slökkva á hljóði
-    else:
-        passiveBuzzer.deinit()        # disable PWM pinna	
-        
-        
+    passiveBuzzer.init()          # enable PWM pinna
+    passiveBuzzer.duty(900)       # to generate smooth sound waves (0 til 1023)   
+    passiveBuzzer.freq(4000)       # freq er notað til að vinna með tíðni, nótur eru t.d. frá 31 til 4978 sjá neðar.
+    time.sleep_ms(500)   
+    passiveBuzzer.duty(0)         # skrifar út 0V, slökkva á hljóði
+
     
 """
 # Notes and its equivalent frequency
@@ -121,6 +106,3 @@ D8  = 4699
 DS8 = 4978
 
 """
-
-# Hægt er að tengja NPN transistor (nr. 8050) til að fá hærra hljóð. Viðnám (220) til að vernda NPN og diode til að verja pinnann á ESP32.
-# https://techexplorations.com/arduino/how-to-use-a-buzzer-the-correct-way/
