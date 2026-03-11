@@ -1,15 +1,16 @@
-### MicroPython: 
+### Kóðasýnidæmi með MicroPython: 
 
 1. `Blink.py`        _comments, variables, while loop_
 1. `Print.py`        _Led á brauðbretti og print aðferð._
 1. `Takkar.py`       _Takkar, PULL_UP og PULL_DOWN, if, if not._
 1. `Takki_Led.py`    _Takki og led, if else._
+1. `Random.py` _notar list_
+1. `leds_list_for_loop.py` forlykkja, lists
+1. `NeoPixel.py` _8 x RGB Leds_
 1. `ActiveBuzzer.py` _ActiveBuzzer og takki_
 1. `PassiveBuzzer.py` _notar PWM. Hægt að nota speaker í staðinn_
 1. `PassiveBuzzer_listi.py` _notar list, def og dictionary_
-1. `Random.py` _notar list_
 1. `ReedSwitch.py` _segulskynjari on/off_
-1. `NeoPixel.py` _8 x RGB Leds_
 
 ---
 
