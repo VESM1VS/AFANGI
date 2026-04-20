@@ -1,14 +1,14 @@
 # https://wokwi.com/projects/441803742575803393
 from machine import Pin, PWM            # PWM til að vinna með hliðrænt gildi (ekki bara 0 og 1)
-import time
+from time import sleep_ms
 
 # Passive buzzer er með grænt circuit á botninum. 
 passiveBuzzer = PWM(Pin(21), 100000)          
 
 while True:
-    passiveBuzzer.duty(512)       # to generate smooth sound waves (0 til 1023)   
-    passiveBuzzer.freq(4000)       # freq er notað til að vinna með tíðni, nótur eru t.d. frá 31 til 4978 sjá neðar.
-    time.sleep_ms(500)   
+    passiveBuzzer.duty(512)       # kveikir á hljóði  
+    passiveBuzzer.freq(4000)      # freq er notað til að velja tíðni, nótur eru t.d. frá 31 til 4978 sjá neðar.
+    sleep_ms(500)                 # spilum tóninn í 500ms
     passiveBuzzer.duty(0)         # skrifar út 0V, slökkva á hljóði
 
     
