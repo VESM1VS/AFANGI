@@ -1,6 +1,5 @@
 # Stafræn gildi
 
-
 ## Skilgreiningar og lestur/skrift
 Stafrænt (e. digital) gildi getur annaðhvort verið 0 eða 1 (eða á/af, kveikt/slökkt). Í ESP þýðir það að 1 er 3.3V en 0 0V.
 
