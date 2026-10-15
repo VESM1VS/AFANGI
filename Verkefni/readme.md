@@ -1,1 +1,1 @@
-# Tímaverkefni
+Verkefni haust 2026
