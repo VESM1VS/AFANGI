@@ -1,7 +1,6 @@
 # wokwi: https://wokwi.com/projects/452535111758977025
 # kveikjum á öllum leds, eitt í einu, endurtekur sig endalaust.
 from machine import Pin
-from random import randint  # til að geta unnið með random
 from time import sleep_ms 
 
 led1 = Pin(2, Pin.OUT)
