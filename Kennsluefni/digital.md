@@ -69,7 +69,9 @@ print(takki_B.value()) # Skrifar út 0
 
 Í dæmunum hér að ofan þurfti að halda inni takkanum til að fá fram virknina en stundum viljum við geta t.d. ýtt á takka til að kveikja og kveikt sé þar til við ýtum aftur á takkann.
 
-Til að gera þetta þarf að halda utan hvort ljósið á að vera kveikt eða ekki. Þegar svo ýtt er á takkann þá breytum við innihaldi breytunnar sem heldur utan um hvort kveikt er á ljósinu eða ekki. Dæmi:
+Til að gera þetta þarf að halda utan hvort ljósið á að vera kveikt eða ekki. Þegar svo ýtt er á takkann þá breytum við innihaldi breytunnar sem heldur utan um hvort kveikt er á ljósinu eða ekki. 
+
+Dæmi:
 
 ```python
 from machine import Pin
